@@ -9,25 +9,25 @@
 		 周辺[しゅうへん] 軌道上[きどうじょう]に 待機中[たいきちゅう]のコマンドシップ「ハイペリオン」にて
 	  	</pre>
 		<pre>
-		 本拠地[ほんきょち] -- headquarters
-		 惑星[わくせい] -- planet
-		 周辺[しゅうへん] -- circumference, outskirts
-		 軌道上[きどうじょう] -- on the orbit
-		 待機中[たいきちゅう] -- in waiting
+		本拠地[ほんきょち] -- headquarters
+		惑星[わくせい] -- planet
+		周辺[しゅうへん] -- circumference, outskirts
+		軌道上[きどうじょう] -- on the orbit
+		待機中[たいきちゅう] -- in waiting
 		</pre>
 	</div>
 
 	<div class='japanese'>
-	  <h1>運命のとき</h1>
-      <pre>
-	  連邦同盟軍本拠地惑星タルソニス
-	  周辺 軌道上に待機中の
-	  コマンドシップ「ハイペリオン」にて
-	  </pre>
+		<h1>運命のとき</h1>
+		<pre>
+		連邦同盟軍本拠地惑星タルソニス
+		周辺 軌道上に待機中の
+		コマンドシップ「ハイペリオン」にて
+		</pre>
 	</div>
 
 	<div class='english'>
-	    <h1>The hammer falls</h1>
+		<h1>The hammer falls</h1>
 		<pre>
 		Command Ship Hyperion
 		Holding perimeter orbit over
@@ -370,7 +370,7 @@
 			報告終了。
 		</div>
 		<div class='french'>
-			報告[ほうこく] 終了[しゅうりょう]。
+			 報告[ほうこく] 終了[しゅうりょう]。
 			<pre>
 			報告[ほうこく] -- report
 			終了[しゅうりょう] -- end, close
