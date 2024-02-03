@@ -463,8 +463,8 @@
             // query all div.header inside a .transcriptBox:
             let divs = document.querySelectorAll('.transcriptBox div.header');
             for (let i = 0; i < divs.length; i++) {
-                //toggleJapanese(divs[i]);
-                toggleFrench(divs[i]);
+                toggleJapanese(divs[i]);
+                //toggleFrench(divs[i]);
             }
         }
 
