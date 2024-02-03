@@ -1,0 +1,580 @@
+
+<h1>New Gettysburg</h1>
+
+<div class='transcriptText'>
+
+   <div class='japanese'>
+	   <h1>ネオ・ゲティスバーグ</h1>
+       <pre>
+	    連邦同盟軍本拠地惑星タルソニス
+	    周辺軌道上に待機中の
+	    コマンドシップ「ハイペリオン」にて
+	   </pre>
+	</div>
+
+	<div class='french'>
+	   <h1>ネオ・ゲティスバーグ</h1>
+	    <pre>
+		 連邦同盟軍[れんぽうどうめぐん] 本拠地[ほんきょち] 惑星[わくせい] タルソニス
+	    周辺[しゅうへん] 軌道上[きどうじょう]に 待機中[たいきちゅう]の
+	    コマンドシップ「ハイペリオン」にて
+		</pre>
+
+		<pre>
+		本拠地[ほんきょち] -- headquarters
+		周辺[しゅうへん] -- circumference, outskirts
+		軌道[きどう] -- orbit, trajectory
+		-上[じょう] -- (suffix) from the viewpoint of; with respect to; as a matter of; in view of...
+		軌道上[きどうじょう] -- in orbit
+		待機中[たいきちゅう] -- in waiting, on standby
+		</pre>
+	</div>
+
+	<div class='english'>
+	   <h1>New Gettysburg</h1>
+		<pre>
+		Command Ship Hyperion
+		Holding close orbit over
+		Confederate Capitol World Tarsonis
+		</pre>
+   </div>
+</div>
+
+
+<h1>Mission Briefing</h1>
+
+<div class='transcriptText'>
+	<div class='english'>
+		Objectives
+		- Destroy the Protoss force
+		- All Zerg buildings must survive
+		- Kerrigan must survive
+	</div>
+
+	<div class='japanese'>
+		勝利条件
+		- プロトスの軍隊を全滅せよ。
+		- ザーグの有機建造物を堅守せよ。
+		- ケリガンの生存を確保せよ。
+	</div>
+
+	<div class='french'>
+		 勝利条件[しょうりじょうけん]
+		- プロトスの 軍隊[ぐんたい]を 全滅[ぜんめつ]せよ。
+		- ザーグの 有機[ゆうき] 建造物[けんぞうぶつ]を 堅守[けんしゅ]せよ。
+		- ケリガンの 生存[せいぞん]を 確保[かくほ]せよ。
+		<pre>
+		勝利[しょうり] -- victory
+		条件[じょうけん] -- condition
+		軍隊[ぐんたい] -- army, troops
+		全滅[ぜんめつ] -- annihilation
+		有機[ゆうき] -- organic
+		建造物[けんぞうぶつ] -- building
+		堅守[けんしゅ] -- defense
+		生存[せいぞん] -- survival
+		確保[かくほ] -- guarantee, ensure
+		</pre>
+
+	</div>
+</div>
+
+
+
+<div class='transcriptText'>
+	<narrator>Advisor</narrator>
+	<audio class='dialogue'><source src='./audio/TBB00tad.flac' type='audio/mpeg'></audio>
+	<div class='english'>
+		I've picked up several dozen Protoss warships descending upon Tarsonis.
+		They seem to be heading on a direct course to the primary Zerg Hive.
+	</div>
+
+	<div class='japanese'>
+		タルソニスに着陸した多数のプロトスの軍艦を確認しました。ザーグのハイブに急速に接近中の模様です。
+	</div>
+
+	<div class='french'>
+		タルソニスに 着陸[ちゃくりく]した 多数[たすう]の プロトスの 軍艦[ぐんかん]を 確認[かくにん]しました。
+		ザーグの ハイブに 急速[きゅうそく]に 接近[せっきん] 中[ちゅう]の 模様[もよう]です。
+		<pre>
+		着陸[ちゃくりく] -- landing
+		多数[たすう] -- many, numerous
+		軍艦[ぐんかん] -- warship
+		確認[かくにん] -- confirmation
+		急速[きゅうそく] -- rapid, swift
+		接近[せっきん] -- approach, closing in
+		模様[もよう] -- conjecture of the current situation, the way it seems
+		</pre>
+	</div>
+</div>
+
+<div class='transcriptText'>
+	<narrator>Mengsk</narrator>
+	<audio class='dialogue'><source src='./audio/TBB01ume.flac' type='audio/mpeg'></audio>
+	<div class='english'>
+		If they engage the Zerg,
+		the Confederates may escape.
+		Commander, send Lieutenant Kerrigan with a strike force to engage the Protoss.
+		Captain Raynor and General Duke will stay behind with the command ship.
+	</div>
+	<div class='japanese'>
+		プロトスがザーグと交戦すれば、連邦同盟軍に逃げる隙を与えることになる。司令官、プロトス軍を牽制するために、ケリガン少尉を現地に派遣してくれ。ライナー大尉とデューク将軍はコマンドシップで待機だ。
+	</div>
+	<div class="french">
+		プロトスが ザーグと 交戦[こうせん]すれば、 連邦同盟軍[れんぽうどうめぐん]に 逃[に]げる 隙[すき]を 与[あた]えることになる。
+		 司令官[しれいかん]、 プロトス 軍[ぐん]を 牽制[けんせい]するために、 ケリガン 少尉[しょうい]を 現地[げんち]に 派遣[はけん]してくれ。
+		ライナー 大尉[たいい]と デューク 将軍[しょうぐん]は コマンドシップで 待機[たいき]だ。
+		<pre>
+		交戦[こうせん] -- fighting, battle
+		連邦同盟軍[れんぽうどうめぐん] -- Confederate Army
+		逃[に]げる -- to escape, to run away
+		隙[すき] -- gap, space
+		与[あた]える -- to give, to grant
+		牽制[けんせい] -- containment (of enemy forces), keeping in check
+		現地[げんち] -- actual place, local
+		派遣[はけん] -- dispatch, send
+		待機[たいき] -- wait, standby
+		</pre>
+	</div>
+</div>
+
+
+<div class='transcriptText'>
+	<narrator>Raynor</narrator>
+	<audio class='dialogue'><source src='./audio/TBB02ura.flac' type='audio/mpeg'></audio>
+	<div class='english'>
+		First you sell out every person on this world to the Zerg, then you
+		ask us to go up against the Protoss? And you're goin' to send
+		Kerrigan down there with no backup?
+	</div>
+	<div class='japanese'>
+		最初はザーグで次はプロトスと戦えって言うのか？世界中の人間を巻き込んでるんだぞ。しかもケリガンを支援なしでそんなところに送り込む気か？
+	</div>
+	<div class="french">
+		 最初[さいしょ]は ザーグで 次[つぎ]は プロトスと 戦[たたか]えって 言[い]うのか？
+		 世界中[せかいじゅう]の 人間[にんげん]を 巻[ま]き 込[こ]んでるんだぞ。
+		しかも ケリガンを 支援[しえん]なしで そんなところに 送[おく]り 込[こ]む 気[き]か？
+		<pre>
+		最初[さいしょ] -- beginning, outset
+		次[つぎ] -- next, following
+		戦[たたか]う -- to fight, to battle
+		言[い]う -- to say, to speak
+		世界[せかい]中[じゅう] -- all over the world
+		人間[にんげん] -- human
+		巻き込む[まきこむ] -- to involve, to drag in
+		支援[しえん] -- support, backing
+		送[おく]り 込[こ]む -- to send in, to dispatch
+		気[き] -- spirit, mind
+		</pre>
+
+	</div>
+</div>
+
+
+<div class='transcriptText'>
+	<narrator>Mengsk</narrator>
+	<audio class='dialogue'><source src='./audio/TBB03ume.flac' type='audio/mpeg'></audio>
+	<div class='english'>
+		I have absolute confidence in
+		Kerrigan's ability to hold off the Protoss.
+	</div>
+	<div class='japanese'>
+		私はケリガン少尉の力を信頼しているのだ。彼女ならプロトスを引き留めておけるだろう。
+	</div>
+	<div class="french">
+		 私[わたし]は ケリガン 少尉[しょうい]の 力[ちから]を 信頼[しんらい]しているのだ。
+		 彼女[かのじょ]なら プロトスを 引[ひ]き 留[と]めておけるだろう。
+		<pre>
+		力[ちから] -- power, strength
+		信頼[しんらい] -- reliance, trust
+		彼女[かのじょ] -- she, her
+		引[ひ]き留[と]める -- to detain, to keep
+		</pre>
+	</div>
+</div>
+
+
+<div class='transcriptText'>
+	<narrator>Raynor</narrator>
+	<audio class='dialogue'><source src='./audio/TBB04ura.flac' type='audio/mpeg'></audio>
+	<div class='english'>
+		This is bullshit. Kerrigan, are you reading this?
+	</div>
+	<div class='japanese'>
+		そんな話があるか！ケリガン、聞いてるのか？
+	</div>
+	<div class="french">
+		 そんな 話[はなし]があるか！ ケリガン、 聞[き]いてるのか？
+		<pre>
+		話[はなし] -- talk, story
+		聞[き]く -- to hear, to listen
+		</pre>
+	</div>
+</div>
+
+
+<div class='transcriptText'>
+	<narrator>Kerrigan</narrator>
+	<audio class='dialogue'><source src='./audio/TBB05uke.flac' type='audio/mpeg'></audio>
+	<div class='english'>
+		I heard. I'm going down there.
+		Arcturus knows what he's doing. I can't back out on him now.
+	</div>
+	<div class='japanese'>
+		ええ、今から降りるわ。アルクトゥルスは自分が何をやってるかわかってるもの。今は逆らえないわ。
+	</div>
+	<div class="french">
+		ええ、 今[いま]から 降[お]りるわ。
+		アルクトゥルスは 自分[じぶん]が 何[なに]を やってるか わかってるもの。
+		 今[いま]は 逆[さか]らえないわ。
+		<pre>
+		降[お]りる -- to descend
+		自分[じぶん] -- oneself
+		逆[さか]らう -- to go against, to oppose
+		</pre>
+	</div>
+</div>
+
+
+
+<div class='transcriptText'>
+	<narrator>Raynor</narrator>
+	<audio class='dialogue'><source src='./audio/TBB06ura.flac' type='audio/mpeg'></audio>
+	<div class='english'>
+		Funny. I never thought of you as anyone's martyr.
+	</div>
+	<div class='japanese'>
+		バカだな。きみが殉教者になるなんて思わなかったよ。
+	</div>
+	<div class="french">
+		バカだな。 きみが 殉教者[じゅんきょうしゃ]になるなんて 思[おも]わなかったよ。
+		<pre>
+		殉教者[じゅんきょうしゃ] -- martyr
+		</pre>
+	</div>
+</div>
+
+
+<div class='transcriptText'>
+	<div class='japanese'>
+		報告終了。
+	</div>
+	<div class='french'>
+		 報告[ほうこく] 終了[しゅうりょう]。
+		<pre>
+		報告[ほうこく] -- report
+		終了[しゅうりょう] -- end, close
+		</pre>
+	</div>
+	<div class='english'>
+		End of transmission.
+	</div>
+</div>
+
+
+
+
+<h1>Mission Start</h1>
+
+<div class='transcriptText'>
+	<div class='subBlock'>
+		<narrator>Raynor</narrator>
+		<audio class='dialogue'><source src='./audio/tbm00ura.flac' type='audio/mpeg'></audio>
+		<div class='english'>
+			Why are you doing this, Kerrigan? Look. I know about your past.
+			I mean, I've heard the rumors. I know you were a part of those
+			experiments with the Zerg; that Mengsk came and saved you, but you don't owe
+			him this! Hell, I've saved your butt plenty of times.
+		</div>
+		<div class='japanese'>
+			なんでこんなことをするんだ？きみの過去は
+			知ってる。噂で聞いたからな。ザーグの実験に
+			使われていて、それをメンスクが助けたことも
+			知ってるよ。でも、そこまでする必要があるの
+			か？オレだって何度も危ないところを助け…。
+		</div>
+		<div class="french">
+			なんでこんなことをするんだ？ きみの 過去[かこ]は 知[し]ってる。
+			 噂[うわさ]で 聞[き]いたからな。 ザーグの 実験[じっけん]に 使[つか]われていて、
+			それを メンスクが 助[たす]けたことも 知[し]ってるよ。
+			でも、そこまで する 必要[ひつよう]があるのか？
+			オレだって 何度[なんど]も 危険[きけん]なところを 助[たす]け…。
+			<pre>
+			過去[かこ] -- past
+			知る[しる] -- to know
+			噂[うわさ] -- rumor
+			聞[き]く -- to hear, to listen
+			実験[じっけん] -- experiment
+			使[つか]う -- to use
+			使われる[つかわれる] -- to be used
+			助[たす]ける -- to help, to save
+			必要[ひつよう] -- need, necessity
+			何度も[なんども] -- many times, often
+			危険[きけん] -- danger, peril
+			</pre>
+		</div>
+	</div>
+
+
+	<div class='subBlock'>
+		<audio class='dialogue'><source src='./audio/tbm01uke.flac' type='audio/mpeg'></audio>
+		<narrator>Kerrigan</narrator>
+		<div class='english'>
+			Jimmy, drop the knight-in-shining-armor routine.
+			It suits you sometimes. Just not ... not now.
+			I don't need to be rescued. I know what I'm doing.
+			The Protoss are coming to destroy the entire planet,
+			not just the Zerg. I know that because ... well I just know it.
+			I am a Ghost, remember? Once we've dealt with
+			the Protoss, we can do something about the Zerg.
+			Arcturus will come around. I know he will.
+		</div>
+		<div class='japanese'>
+			ジミー、白馬の王子様を気取ってるの？
+			それも似合うかもしれないけど、今は…今は
+			ダメよ。助けてくれなくてもいいの。自分のしてる
+			ことはわかってるわ。プロトスはザーグだけじゃ
+			なくて、この惑星全てを破壊するつもりなのよ。
+			なぜかって…ただ、わかるのよ。ほら、私は
+			ゴーストでしょ？プロトスをなんとかできたら、
+			ザーグのこともどうにかなると思うの。
+			アルクトゥルスがなんとかしてくれるわ…絶対にね。
+		</div>
+		<div class="french">
+			ジミー、 白馬[はくば]の 王子様[おうじさま]を 気取[きど]ってるの？
+			それも 似合[にあ]うかもしれないけど、 今[いま]は… 今[いま]は ダメよ。
+			 助[たす]けてくれなくてもいいの。 自分[じぶん]のしてる こと は わかってるわ。
+			プロトスは ザーグだけじゃなくて、 この 惑星[わくせい] 全[すべ]てを 破壊[はかい]するつもりなのよ。
+			なぜかって… ただ、 わかるのよ。
+			ほら、 私[わたし]は ゴーストでしょ？
+			プロトスを なんとかできたら、 ザーグのことも どうにかなると 思[おも]うの。
+			アルクトゥルスが なんとかしてくれるわ… 絶対[ぜったい]にね。
+			<pre>
+			白馬[はくば] -- white horse
+			王子様[おうじさま] -- prince
+			気取る[きどる] -- to put on airs, to pretend
+			似合う[にあう] -- to suit, to match
+			助ける[たすける] -- to help, to save
+			自分[じぶん] -- oneself
+			破壊[はかい] -- destruction
+			ゴースト -- Ghost
+			なんとか -- somehow, anyhow
+			絶対[ぜったい]に -- absolutely, definitely
+			</pre>
+		</div>
+	</div>
+
+
+	<div class='subBlock'>
+		<narrator>Raynor</narrator>
+		<audio class='dialogue'><source src='./audio/TBM04ura.flac' type='audio/mpeg'></audio>
+		<div class='english'>
+			I hope you're right, darlin'. Good huntin'!
+		</div>
+		<div class='japanese'>
+			そうだといいな…。無事を祈ってるよ。
+		</div>
+		<div class="french">
+			そうだといいな…。 無事[ぶじ]を 祈[いの]ってるよ。
+			<pre>
+			無事[ぶじ] -- safety, peace
+			祈[いの]る -- to pray, to wish
+			</pre>
+		</div>
+	</div>
+</div>
+
+
+<h2>After destroying the Protoss forces</h2>
+
+<div class='transcriptText'>
+	<div class='subBlock'>
+		<narrator>Advisor</narrator>
+		<audio class='dialogue'><source src='./audio/TBM40tad.flac' type='audio/mpeg'></audio>
+		<div class='english'>
+		   Receiving incoming transmission:
+		</div>
+		<div class='japanese'>
+		   メッセージを受信しました…。
+		</div>
+		<div class='french'>
+		   メッセージを 受信[じゅしん]しました…。
+		   <pre>
+			受信[じゅしん] -- reception, receipt
+			</pre>
+		</div>
+	</div>
+
+	<div class='subBlock'>
+   	<narrator>Kerrigan</narrator>
+	   	<audio class='dialogue'><source src='./audio/TBM41uke.flac' type='audio/mpeg'></audio>
+	   	<div class='english'>
+	   		This is Kerrigan. We've neutralized the Protoss,
+			but there's a wave of Zerg advancing on this position.
+			We need immediate evac.
+	   	</div>
+	   	<div class='japanese'>
+	   		こちら、ケリガン少尉。プロトスとの中立に
+	   		成功…だけど、ザーグの大群がこちらに
+	   		向かっているわ。至急、避難が必要よ。
+	   	</div>
+		<div class='french'>
+			こちら、 ケリガン 少尉[しょうい]。
+			プロトスとの 中立[ちゅうりつ]に 成功[せいこう]… だけど、
+			ザーグの 大群[たいぐん]が こちらに 向[む]かっているわ。
+			 至急[しきゅう]、 避難[ひなん]が 必要[ひつよう]よ。
+			<pre>
+			中立[ちゅうりつ] -- neutrality, impartiality
+			成功[せいこう] -- success, hit
+			大群[たいぐん] -- crowd, throng
+			至急[しきゅう] -- urgent, pressing
+			避難[ひなん] -- evacuation, escape
+			必要[ひつよう] -- need, necessity
+			</pre>
+		</div>
+   </div>
+</div>
+
+<div class="transcriptText">
+	<div class='subBlock'>
+		<narrator>Mengsk</narrator>
+		<audio class='dialogue'><source src='./audio/TBM42ume.flac' type='audio/mpeg'></audio>
+		<div class='english'>
+			Belay that order. We're moving out.
+
+		   <pre>
+			note: Belay = stop, quit.
+		   </pre>
+		</div>
+		<div class='japanese'>
+			無視してかまわん。退却だ。
+		</div>
+		<div class='french'>
+			 無視[むし]してかまわん。 退却[たいきゃく]だ。
+			<pre>
+			無視[むし] -- disregard, ignore
+			退却[たいきゃく] -- retreat, withdrawal
+			</pre>
+		</div>
+	</div>
+
+	<div class='subBlock'>
+		<narrator>Raynor</narrator>
+		<div class='english'>
+			What? You're not just gonna leave them?
+		</div>
+		<audio class='dialogue'><source src='./audio/TBM43ura.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			なんだって？置いていくつもりか？
+		</div>
+		<div class='french'>
+			なんだって？ 置[お]いていくつもりか？
+			<pre>
+			置く[おく] -- to put, to place
+			</pre>
+		</div>
+	</div>
+</div>
+
+<div class='transcriptText'>
+	<div class='subBlock'>
+		<audio class='dialogue'><source src='./audio/TBM44ume.flac' type='audio/mpeg'></audio>
+		<narrator>Mengsk</narrator>
+		<div class='english'>
+			All ships prepare to move away from Tarsonis on my mark.
+		</div>
+		<div class='japanese'>
+			全鑑、タルソニスより退却準備。合図があるまで待機せよ。
+		</div>
+		<div class="french">
+			 全[ぜん] 鑑[かん]、 タルソニスより 退却[たいきゃく] 準備[じゅんび]。
+			 合図[あいず]があるまで 待機[たいき]せよ。
+			<pre>
+			全[ぜん] -- all, whole
+			鑑[かん] -- ship
+			退却[たいきゃく] -- retreat, withdrawal
+			準備[じゅんび] -- preparation, setup
+			合図[あいず] -- sign, signal
+			待機[たいき] -- wait, standby
+			</pre>
+		</div>
+	</div>
+
+
+	<div class='subBlock'>
+		<narrator>Kerrigan</narrator>
+		<div class='english'>
+			Uh, boys? How about that evac?
+		</div>
+		<audio class='dialogue'><source src='./audio/TBM45uke.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			もしもし？避難方法は？
+		</div>
+		<div class="french">
+			もしもし？ 避難[ひなん] 方法[ほうほう]は？
+			<pre>
+			避難[ひなん] -- evacuation, escape
+			方法[ほうほう] -- method, way
+			</pre>
+		</div>
+	</div>
+</div>
+
+<div class='transcriptText'>
+	<div class='subBlock'>
+		<narrator>Raynor</narrator>
+		<div class='english'>
+			Damn you, Arcturus! Don't do this.
+		</div>
+		<audio class='dialogue'><source src='./audio/TBM46ura.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			アルクトゥルス！
+		</div>
+		<div class='french'>
+			アルクトゥルス！
+		</div>
+	</div>
+
+
+	<div class='subBlock'>
+		<narrator>Mengsk</narrator>
+		<audio class='dialogue'><source src='./audio/TBM47ume.flac' type='audio/mpeg'></audio>
+		<div class='english'>
+			It's done. Helmsman, signal the fleet, and
+			take us out of orbit. Now!
+		</div>
+		<div class='japanese'>
+			よろしい。全鑑に連絡し、軌道外まで退却！今だ！
+		</div>
+		<div class="french">
+			よろしい。 全[ぜん] 鑑[かん]に 連絡[れんらく]し、 軌道[きどう] 外[がい]まで 退却[たいきゃく]! 今[いま]だ！
+			<pre>
+			全[ぜん] -- all, whole
+			鑑[かん] -- ship
+			軌道[きどう] -- orbit, trajectory
+			外[がい] -- outside, exterior
+			退却[たいきゃく] -- retreat, withdrawal
+			今[いま] -- now, present
+			</pre>
+		</div>
+	</div>
+
+	<div class='subBlock'>
+		<narrator>Kerrigan</narrator>
+		<audio class='dialogue'><source src='./audio/TBm48uke.flac' type='audio/mpeg'></audio>
+		<div class='english'>
+			Commander? Jim? What the hell's going on up there-
+		</div>
+		<div class='japanese'>
+			司令官？ジム？そっちは一体何をやってるの…。
+		</div>
+		<div class="french">
+			 司令官[しれいかん]? ジム？ そっちは 一体[いったい] 何[なに]を やってるの…。
+			<pre>
+			司令官[しれいかん] -- commander
+			一体[いったい] -- one object, one body
+			何[なに] -- what
+			</pre>
+		</div>
+	</div>
+</div>
+

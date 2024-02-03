@@ -1,0 +1,490 @@
+
+<h1>The big push</h1>
+
+<div class='transcriptText'>
+
+   <div class='french'>
+		<h1> 大攻撃[だいこうげき]</h1>
+      	<pre>
+		 連邦同盟軍[れんぽうどうめぐん] 本拠地[ほんきょち] 惑星[わくせい]タルソニス
+		 周辺[しゅうへん] 軌道上[きどうじょう]に 待機中[たいきちゅう]のコマンドシップ「ハイペリオン」にて
+		</pre>
+
+		<pre>
+		大攻撃[だいこうげき] -- big attack
+		連邦同盟軍[れんぽうどうめぐん] -- Confederate forces
+		本拠地[ほんきょち] -- headquarters
+		惑星[わくせい] -- planet
+		周辺[しゅうへん] -- periphery, outskirts
+		軌道上[きどうじょう] -- in orbit
+		待機[たいき] -- in waiting
+		-中[ちゅう] -- in the middle of
+		待機中[たいきちゅう] -- in waiting
+		コマンドシップ -- command ship
+		にて -> で -- at, in
+		</pre>
+	</div>
+
+	<div class='japanese'>
+	    <h1>大攻撃</h1>
+        <pre>
+	    連邦同盟軍本拠地惑星タルソニス
+	    周辺 軌道上に待機中のコマンドシップ「ハイペリオン」にて
+	    </pre>
+	</div>
+
+	<div class='english'>
+	   <h1>The big push</h1>
+		<pre>
+		Command Ship Hyperion
+		Holding perimeter orbit over
+		Confederate Capitol World Tarsonis
+		</pre>
+   </div>
+</div>
+
+<h1>Mission Briefing</h1>
+
+<div class='transcriptText'>
+	<div class='french'>
+		 勝利条件[しょうりじょうけん]
+		-  連邦同盟軍[れんぽうどうめぐん]を 壊滅[かいめつ]せよ。
+		- デュークの 生存[せいぞん]を 確保[かくほ]せよ。
+		<pre>
+		勝利[しょうり] -- victory
+		条件[じょうけん] -- condition
+		壊滅[かいめつ] -- annihilation
+		生存[せいぞん] -- survival
+		確保[かくほ] -- guarantee
+		</pre>
+	</div>
+	<div class='japanese'>
+		勝利条件
+		- 連邦同盟軍を壊滅せよ。
+		- デュークの生存を確保せよ。
+   </div>
+	<div class='english'>
+		Objectives
+		- Eliminate the Confederate forces
+		- Duke must survive
+	</div>
+</div>
+
+
+
+<div class='transcriptText'>
+	<audio class='dialogue'><source src='./audio/t9b00tad.flac' type='audio/mpeg'></audio>
+	<narrator>Advisor</narrator>
+	<div class='english'>
+		Greetings, Commander. Receiving
+		incoming transmission:
+	</div>
+	<div class='japanese'>
+		司令官、メッセージを受信しました。
+	</div>
+	<div class='french'>
+		 司令官[しれいかん]、メッセージを 受信[じゅしん]しました。
+		<pre>
+		司令官[しれいかん] -- commander
+		メッセージ -- message
+		受信[じゅしん] -- reception
+		</pre>
+	</div>
+</div>
+
+<div class='transcriptText'>
+	<narrator>Mengsk</narrator>
+	<audio class='dialogue'><source src='./audio/T9B01ume.flac' type='audio/mpeg'></audio>
+	<div class='japanese'>
+		連邦同盟軍へ最後の攻撃まであと少しだ。
+		本部惑星タルソニスを襲撃する前に、敵の防御を突破しなければならない。
+		デューク大尉から本作戦についての説明を聞いてくれ。
+	</div>
+
+	<div class='french'>
+			 連邦同盟軍[れんぽうどうめぐん]へ 最後[さいご]の 攻撃[こうげき]まであと 少[すこ]しだ。
+			 本部[ほんぶ] 惑星[わくせい]タルソニスを 襲撃[しゅうげき]する 前[まえ]に、 敵[てき]の 防御[ぼうぎょ]を 突破[とっぱ]しなければならない。
+			デューク 大尉[たいい]から 本作戦[ほんさくせん]についての 説明[せつめい]を 聞[き]いてくれ。
+		<pre>
+		最後[さいご] -- last
+		攻撃[こうげき] -- attack
+		少[すこ]し -- a little
+		本部[ほんぶ] -- headquarters
+		惑星[わくせい] -- planet
+		襲撃[しゅうげき] -- attack
+		前[まえ] -- before
+		敵[てき] -- enemy
+		防御[ぼうぎょ] -- defense
+		突破[とっぱ] -- breakthrough
+		大尉[たいい] -- captain
+		-本[ほん] -- this (suffix)
+		本作戦[ほんさくせん] -- this operation
+		説明[せつめい] -- explanation
+		聞[き]く -- to hear
+		</pre>
+
+	</div>
+
+	<div class='english'>
+		The time of our final strike against the Confederacy is close at hand.
+		Before we can strike at Tarsonis itself, however, we must break
+		through the Confederacy's most potent defenses. General Duke will brief you.
+	</div>
+</div>
+
+<div class='transcriptText'>
+	<div class='subBlock'>
+		<narrator>Duke</narrator>
+		<audio class='dialogue'><source src='./audio/T9B02udu.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			私はタルソニスを30戦以上守り抜いてきた。当然、どんな防衛戦が張られているかわかっている。連邦同盟軍艦隊の中間準備地域として、3つの軌道砲台がある。
+			このうちの中央部の砲台を襲撃すれば、連邦同盟軍を混乱に陥れることができる。小隊なら余裕で防衛戦を突破できるだろう。
+		</div>
+		<div class='french'>
+			 私[わたし]は タルソニスを 30戦[さんじゅうせん] 以上[いじょう] 守[まも]り 抜[ぬ]いてきた。
+			 当然[とうぜん]、どんな 防衛戦[ぼうえいせん]が 張[は]られているかわかっている。
+			 連邦同盟軍[れんぽうどうめぐん] 艦隊[かんたい]の 中間[ちゅうかん] 準備[じゅんび] 地域[ちいき]として、 3つ[みっつ]の 軌道[きどう] 砲台[ほうだい]がある。
+			このうちの 中央[ちゅうおう] 部[ぶ]の 砲台[ほうだい]を 襲撃[しゅうげき]すれば、 連邦同盟軍[れんぽうどうめぐん]を 混乱[こんらん]に 陥[おとしい]れることができる。
+			 小隊[しょうたい]なら 余裕[よゆう]で 防衛戦[ぼうえいせん]を 突破[とっぱ]できるだろう。
+			<pre>
+			戦[せん] -- battle
+			以上[いじょう] -- more than
+			守[まも]り 抜[ぬ]く -- to defend to the end
+			当然[とうぜん] -- of course
+			防衛戦[ぼうえいせん] -- defense battle
+			張[は]る -- to set up
+			張[は]られる -- to be set up
+			連邦同盟軍[れんぽうどうめぐん] -- Confederate forces
+			艦隊[かんたい] -- fleet
+			中間[ちゅうかん] -- intermediate
+			準備[じゅんび] -- preparation
+			地域[ちいき] -- region
+			軌道[きどう] -- orbit
+			砲台[ほうだい] -- turret
+			中央[ちゅうおう] -- center
+			部[ぶ] -- part
+			中央部[ちゅうおうぶ] -- center part
+			襲撃[しゅうげき] -- attack
+			混乱[こんらん] -- confusion
+			陥[おとしい]る -- to trap, to lure, to capture
+			小隊[しょうたい] -- squad
+			余裕[よゆう] -- room, margin
+			突破[とっぱ] -- breakthrough
+			</pre>
+		</div>
+
+		<div class='english'>
+			I've defended Tarsonis in over thirty major battles, so I know its
+			defenses inside and out. There are three primary orbital platforms that
+			serve as staging areas for the Confederate fleet. If we assault the
+			central platform, we should cause enough of a ruckus to allow a small
+			force to break through the planetary defenses.
+		</div>
+	</div>
+
+
+	<div class='subBlock'>
+		<narrator>Raynor</narrator>
+		<audio class='dialogue'><source src='./audio/T9B03ura.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			驚いたな。将軍が、真っ向から攻撃するタイプだとは思わなかったよ。
+		</div>
+		<div class='french'>
+			 驚[おどろ]いたな。 将軍[しょうぐん]が、 真っ向[まっこう]から 攻撃[こうげき]する タイプだとは 思[おも]わなかったよ。
+			<pre>
+			驚[おどろ]く -- to be surprised
+			真っ向[まっこう] -- straight
+			攻撃[こうげき] -- attack
+			タイプ -- type
+			思[おも]う -- to think
+			</pre>
+		</div>
+
+		<div class='english'>
+			General, I'm impressed. I never figured you for the frontal assault type.
+		</div>
+	</div>
+
+	<div class='subBlock'>
+		<narrator>Duke</narrator>
+		<audio class='dialogue'><source src='./audio/T9B04udu.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			連邦同盟軍はオメガ小隊およびデルタ小隊を砲台に配置している。我々アルファ部隊とは戦いにもならんような連中だ。
+		</div>
+		<div class='french'>
+			 連邦同盟軍[れんぽうどうめぐん]は オメガ 小隊[しょうたい]および デルタ 小隊[しょうたい]を 砲台[ほうだい]に 配置[はいち]している。
+			 我々[われわれ] アルファ 部隊[ぶたい]とは 戦[たたか]いにもならんような 連中[れんちゅう]だ。
+			<pre>
+			オメガ -- omega
+			小隊[しょうたい] -- squad
+			デルタ -- delta
+			砲台[ほうだい] -- turret
+			配置[はいち] -- arrangement
+			我々[われわれ] -- we
+			アルファ -- alpha
+			部隊[ぶたい] -- force unit
+			戦[たたか]い -- battle
+			連中[れんちゅう] -- guys (derogatory)
+			</pre>
+		</div>
+
+		<div class='english'>
+			Well, the Confederates have Omega and Delta Squadron troops
+			defending the platform. They're nothing compared to my Alpha
+			Squadron boys.
+		</div>
+	</div>
+
+
+	<div class='subBlock'>
+		<audio class='dialogue'><source src='./audio/T9B05ura.flac' type='audio/mpeg'></audio>
+		<narrator>Raynor</narrator>
+		<div class='japanese'>
+			わかったよ。
+		</div>
+		<div class='french'>
+			わかったよ。
+		</div>
+		<div class='english'>
+			Right.
+		</div>
+	</div>
+
+
+
+</div>
+
+<div class='transcriptText'>
+	<div class='japanese'>
+		報告終了。
+	</div>
+	<div class='french'>
+		 報告[ほうこく] 終了[しゅうりょう]。
+	</div>
+	<div class='english'>
+		End of briefing.
+	</div>
+</div>
+
+
+
+<h1>Mission Start</h1>
+
+<h2>Bring unit to landing area</h2>
+
+
+<div class='transcriptText'>
+	<narrator>Duke</narrator>
+	<audio class='dialogue'><source src='./audio/T9M20udu.flac' type='audio/mpeg'></audio>
+	<div class='japanese'>
+		信じられんな！アルファ部隊なら、こんな設備を残しておくことなどしなかったよ。
+		まったくもってずさんな連中だ！
+	</div>
+	<div class='french'>
+		 信[しん]じられんな！ アルファ 部隊[ぶたい]なら、 こんな 設備[せつび]を 残[のこ]しておくことなどしなかったよ。
+		 まったくもって ずさんな 連中[れんちゅう]だ！
+		<pre>
+		信[しん]じる -- to believe
+		設備[せつび] -- equipment
+		残[のこ]す -- to leave behind
+		残[のこ]しておく -- to leave behind
+		全くもって[まったくもって] -- really, completely
+		ずさん -- sloppy, careless
+		連中[れんちゅう] -- guys (derogatory)
+		</pre>
+	</div>
+	<div class='english'>
+		I can't believe this! Alpha Squadron never
+		would've left this equipment behind! That's
+		what I call sloppy!
+	</div>
+</div>
+
+<h2>Acquire Nuclear Silo</h2>
+
+<div class='transcriptText'>
+	<narrator>Tip</narrator>
+	<div class='japanese'>
+		核ミサイルを設置できるのはゴーストです。
+	</div>
+	<div class='french'>
+		 核[かく] ミサイルを 設置[せっち]できるのは ゴーストです。
+		<pre>
+		核[かく] -- nuclear
+		ミサイル -- missile
+		設置[せっち] -- installation
+		</pre>
+	</div>
+	<div class='english'>
+		Use ghosts to target Nuclear Missiles.
+	</div>
+</div>
+
+
+
+<h2>After wipe out the Confederate forces</h2>
+
+
+
+<div class='transcriptText'>
+	<div class='subBlock'>
+		<audio class='dialogue'><source src='./audio/TAM00udu.flac' type='audio/mpeg'></audio>
+		<narrator>Duke</narrator>
+		<div class='japanese'>
+			デュークだ。エミッターは無事に作動中。
+			オンラインだ。
+		</div>
+		<div class='french'>
+			 デュークだ。 エミッターは 無事[ぶじ]に 作動[さどう] 中[ちゅう]。
+			 オンラインだ。
+			<pre>
+			無事[ぶじ] -- safety
+			作動[さどう] -- operation
+			-中[ちゅう] -- in the middle of (suffix)
+			オンライン -- online
+			</pre>
+		</div>
+
+		<div class='english'>
+			This is Duke. The emitters are secured and on-line.
+		</div>
+	</div>
+
+
+	<div class='subBlock'>
+		<narrator>Kerrigan</narrator>
+		<audio class='dialogue'><source src='./audio/TAM01uke.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			サイエミッターは誰が管理してるの？
+		</div>
+		<div class='french'>
+			 サイエミッターは 誰[だれ]が 管理[かんり]してるの？
+			<pre>
+			誰[だれ] -- who
+			管理[かんり] -- management
+			</pre>
+		</div>
+
+		<div class='english'>
+			Who authorized the use of Psi-Emitters?
+		</div>
+	</div>
+
+	<div class='subBlock'>
+		<narrator>Mengsk</narrator>
+		<audio class='dialogue'><source src='./audio/TAM02ume.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			私だよ、少尉。
+		</div>
+		<div class='french'>
+			 私[わたし]だよ、 少尉[しょうい]。
+			<pre>
+			少尉[しょうい] -- lieutenant
+			</pre>
+		</div>
+		<div class='english'>
+			I did, lieutenant.
+		</div>
+	</div>
+
+
+	<div class='subBlock'>
+		<narrator>Kerrigan</narrator>
+		<audio class='dialogue'><source src='./audio/tam03uke.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			何ですって？ アンティガの連邦同盟軍にだって考えられないのに、今度は惑星全土に
+			ザーグを使うつもりなの？ 狂ってるわ！
+		</div>
+		<div class='french'>
+			 何[なん]ですって？ アンティガの 連邦同盟軍[れんぽうどうめぐん]に
+			 だって 考[かんが]えられないのに、 今度[こんど]は 惑星[わくせい] 全土[ぜんど]に
+			 ザーグを 使[つか]うつもりなの？ 狂[くる]ってるわ！
+			<pre>
+			何[なん] -- what
+			考[かんが]える -- to think
+			今度[こんど] -- this time
+			惑星[わくせい] -- planet
+			全土[ぜんど] -- whole country
+			使[つか]う -- to use
+			つもり -- intention
+			狂[くる]う -- to go mad
+			</pre>
+		</div>
+		<div class='english'>
+			What? The Confederates on Antiga were bad enough,
+			but now you're going to use the Zerg against an entire planet?
+			This is insane.
+		</div>
+	</div>
+
+
+	<div class='subBlock'>
+		<narrator>Raynor</narrator>
+		<audio class='dialogue'><source src='./audio/TAM04ura.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			まったくだよ。考え直せ。
+		</div>
+		<div class='french'>
+			まったくだよ。 考え[かんが] 直せ[なおせ]。
+			<pre>
+			考える[かんが] -- to think
+			直す[なおす] -- to correct
+			</pre>
+		</div>
+		<div class='english'>
+			She's right, man. Think this through.
+		</div>
+	</div>
+
+	<div class='subBlock'>
+		<narrator>Mengsk</narrator>
+		<audio class='dialogue'><source src='./audio/TAM05ume.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			十分考えた結果だ。私を信じなさい。…さぁ、指示はわかっているね。
+			とりかかる時間だ。
+		</div>
+		<div class="french">
+			 十分[じゅうぶん] 考[かんが]えた 結果[けっか]だ。 私[わたし]を 信[しん]じなさい。
+			…さぁ、 指示[しじ]はわかっているね。とりかかる 時間[じかん]だ。
+			<pre>
+			十分[じゅうぶん] -- enough
+			考[かんが]える -- to think
+			結果[けっか] -- result
+			私[わたし] -- I
+			信[しん]じる -- to believe
+			指示[しじ] -- instruction
+			わかる -- to understand
+			とりかかる -- to start
+			時間[じかん] -- time
+			</pre>
+		</div>
+		<div class='english'>
+			I have thought it through. Believe me.
+			You all have your orders. Carry them out.
+		</div>
+	</div>
+</div>
+
+<h2>Bonus (left over data that never gets triggered while playing)</h2>
+
+<div class='transcriptText'>
+	<narrator>Raynor</narrator>
+	<audio class='dialogue'><source src='./audio/t9m00ura.flac' type='audio/mpeg'></audio>
+	<div class='japanese'>
+	わかった、わかった。この危険な代物を置く場所を見つけなきゃな。
+	</div>
+	<div class='french'>
+   	わかった、わかった。この 危険[きけん]な 代物[しろもの]を 置[お]く 場所[ばしょ]を 見[み]つけなきゃな。
+	<pre>
+	危険[きけん] -- danger
+	代物[しろもの] -- thing
+	置[お]く -- to put
+	場所[ばしょ] -- place
+	見[み]つける -- to find
+	</pre>
+    </div>
+	<div class='english'>
+		Yeah, yeah. I hear you. Now where'd I put
+		that damn thing?
+   </div>
+</div>

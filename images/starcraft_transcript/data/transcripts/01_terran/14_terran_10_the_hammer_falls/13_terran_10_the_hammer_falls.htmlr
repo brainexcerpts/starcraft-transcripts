@@ -1,0 +1,454 @@
+
+<h1>The hammer falls</h1>
+
+<div class='transcriptText'>
+   <div class='french'>
+		<h1> 運命[うんめい]のとき</h1>
+    	<pre>
+		 連邦同盟軍[れんぽうどうめいぐん] 本拠地[ほんきょち] 惑星[わくせい] タルソニス
+		 周辺[しゅうへん] 軌道上[きどうじょう]に 待機中[たいきちゅう]のコマンドシップ「ハイペリオン」にて
+	  	</pre>
+		<pre>
+		 本拠地[ほんきょち] -- headquarters
+		 惑星[わくせい] -- planet
+		 周辺[しゅうへん] -- circumference, outskirts
+		 軌道上[きどうじょう] -- on the orbit
+		 待機中[たいきちゅう] -- in waiting
+		</pre>
+	</div>
+
+	<div class='japanese'>
+	  <h1>運命のとき</h1>
+      <pre>
+	  連邦同盟軍本拠地惑星タルソニス
+	  周辺 軌道上に待機中の
+	  コマンドシップ「ハイペリオン」にて
+	  </pre>
+	</div>
+
+	<div class='english'>
+	    <h1>The hammer falls</h1>
+		<pre>
+		Command Ship Hyperion
+		Holding perimeter orbit over
+		Confederate Capitol World Tarsonis
+		</pre>
+   </div>
+</div>
+
+<h1>Mission Briefing</h1>
+
+<div class='transcriptText'>
+	<div class='subBlock'>
+		<div class='english'>
+			Objectives
+			- Destroy the Ion Cannon
+			- Raynor must survive
+		</div>
+		<div class='japanese'>
+			勝利条件
+			- イオン・キャノンを破壊せよ。
+			- ライナーの生存を確保せよ。
+		</div>
+		<div class='french'>
+			 勝利条件[しょうりじょうけん]
+			- イオン・キャノンを 破壊[はかい]せよ。
+			- ライナーの 生存[せいぞん]を 確保[かくほ]せよ。
+		</div>
+	</div>
+</div>
+
+
+
+<div class='transcriptText'>
+	<div class='subBlock'>
+		<narrator>Advisor</narrator>
+		<audio class='dialogue'><source src='./audio/TCB00tad.flac' type='audio/mpeg'></audio>
+		<div class='english'>
+			The fleet has lost contact with the ground forces at New Gettysburg.
+			General Mengsk has ordered the immediate disengagement of the
+			Korhal fleet from the Tarsonian system. Protoss and Zerg forces
+			continue to battle across the core continent of Tarsonis.
+			Receiving incoming transmission:
+		</div>
+		<div class='japanese'>
+			ネオ・ゲティスバーグの地上部隊及びその艦隊との交信が途絶えました。メンスク氏は、タルソニス周辺からコーハル艦隊の退却を指示。プロトスとザーグはタルソニスの中央大陸部で依然交戦中。メッセージを受信しました…。
+		</div>
+		<div class="french">
+			ネオ・ゲティスバーグの 地上[ちじょう] 部隊[ぶたい] 及び[および] その 艦隊[かんたい]との 交信[こうしん]が 途絶[とぜつ]えました。
+			 メンスク 氏[し]は、 タルソニス 周辺[しゅうへん]から コーハル 艦隊[かんたい]の 退却[たいきゃく]を 指示[しじ]。
+			 プロトスとザーグはタルソニスの 中央[ちゅうおう] 大陸[たいりく] 部[ぶ]で 依然[いぜん] 交戦[こうせん] 中[ちゅう]。
+			 メッセージを 受信[じゅしん]しました…。
+			<pre>
+			地上[ちじょう] -- ground, surface
+			部隊[ぶたい] -- force, unit
+			及び[および] -- and, as well as
+			艦隊[かんたい] -- fleet
+			交信[こうしん] -- communication
+			途絶[とぜつ]える -- to cease, to be stopped
+			氏[し] -- Mr., Mrs., Miss, Sir
+			周辺[しゅうへん] -- circumference, outskirts
+			退却[たいきゃく] -- retreat, withdrawal
+			指示[しじ] -- instruction, direction
+			中央[ちゅうおう] -- center, middle
+			大陸[たいりく] -- continent
+			部[ぶ] -- part, section
+			依然[いぜん] -- still, as yet
+			交戦[こうせん] -- fighting, hostilities
+			中[ちゅう] -- in, inside
+			</pre>
+		</div>
+	</div>
+
+
+	<div class='subBlock'>
+		<narrator>Raynor</narrator>
+		<audio class='dialogue'><source src='./audio/TCB01ura.flac' type='audio/mpeg'></audio>
+		<div class='english'>
+			I can't believe he actually left her down there!
+			I'm gone, and you'd better come with me.
+			There's no tellin' who Arcturus'll screw over next.
+		</div>
+		<div class='japanese'>
+			あんなところに彼女を置き去りにしたなんて…。オレは行くよ。あんたも一緒にきた方がいいぜ。アルクトゥルスが次にあんたを犠牲にしないとも限らないしな…。
+		</div>
+		<div class="french">
+			あんなところに 彼女[かのじょ]を 置[お]き 去[ざ]りにしたなんて…。
+			オレは 行[い]くよ。 あんたも 一緒[いっしょ]にきた 方[ほう]がいいぜ。
+			アルクトゥルスが 次[つぎ]に あんたを 犠牲[ぎせい]にしないとも 限[かぎ]らない しな…。
+			<pre>
+			彼女[かのじょ] -- she, her
+			置[お]き去[ざ]りにする -- to leave behind
+			行[い]く -- to go
+			一緒[いっしょ]に -- together
+			犠牲[ぎせい] -- sacrifice, victim
+			限[かぎ]る -- to restrict, to limit
+			</pre>
+		</div>
+	</div>
+
+
+	<div class='subBlock'>
+		<narrator>Advisor</narrator>
+		<audio class='dialogue'><source src='./audio/TCB02tad.flac' type='audio/mpeg'></audio>
+		<div class='english'>
+			Receiving incoming transmission:
+		</div>
+		<div class='japanese'>
+			メッセージを受信中…。
+		</div>
+		<div class="french">
+			メッセージを 受信[じゅしん] 中[ちゅう]…。
+		</div>
+	</div>
+</div>
+
+<div class='transcriptText'>
+	<div class='subBlock'>
+		<narrator>Mengsk</narrator>
+		<audio class='dialogue'><source src='./audio/TCB03ume.flac' type='audio/mpeg'></audio>
+		<div class='english'>
+			Gentlemen, you've done very well,
+			but remember that we've still got a job to do.
+			The seeds of a new Empire have been sewn,
+			and if we hope to reap -
+		</div>
+		<div class='japanese'>
+			みんな、よくやってくれた。だがまだ終わってはいない。新しい帝国を築く種はまかれたのだ。その実を得たいと思うなら…。
+		</div>
+		<div class="french">
+			みんな、 よくやってくれた。
+			だが まだ 終[お]わってはいない。
+			 新[あたら]しい 帝国[ていこく]を 築[きず]く 種[たね]は まかれた のだ。
+			その 実[み]を 得[え]たいと 思[おも]うなら…。
+
+			<pre>
+			だが -- but
+			終[お]わる -- to finish, to end
+			新しい[あたらしい] -- new
+			帝国[ていこく] -- empire
+			築[きず]く -- to build, to construct
+			種[たね] -- seed
+			蒔く[まく] -- to sow, to plant
+			まかれる -- to be sown, to be planted
+			実[み] -- fruit, seed
+			得[え]る -- to get, to acquire
+			</pre>
+		</div>
+	</div>
+
+
+	<div class='subBlock'>
+		<narrator>Raynor</narrator>
+		<audio class='dialogue'><source src='./audio/TCB04ura.flac' type='audio/mpeg'></audio>
+		<div class='english'>
+			Aw, to hell with you!
+		</div>
+		<div class='japanese'>
+			くたばれ、この野郎！
+		</div>
+		<div class="french">
+			くたばれ、この 野郎[やろう]!
+			<pre>
+			くたばる -- to die, to kick the bucket
+			</pre>
+		</div>
+	</div>
+</div>
+
+<div class='transcriptText'>
+	<div class='subBlock'>
+		<narrator>Arcturus Mengsk</narrator>
+		<audio class='dialogue'><source src='./audio/TCB05ume.flac' type='audio/mpeg'></audio>
+		<div class='english'>
+			You're making a terrible mistake.
+			Don't even think to cross me.
+			I've sacrificed too much to let this fall apart.
+		</div>
+		<div class='japanese'>
+			自分が何を言ってるかわかっているのか？私にたてつこうなどと考えるな。こうするまでに私は多くの犠牲を費やしたのだ。
+		</div>
+		<div class="french">
+			 自分[じぶん]が 何[なに]を 言[い]ってるかわかっているのか？
+			 私[わたし]に たてつこう など と 考[かんが]えるな。
+			こう する までに 私[わたし]は 多[おお]くの 犠牲[ぎせい]を 費[つい]やしたのだ。
+			<pre>
+			自分[じぶん] -- oneself
+			言[い]う -- to say, to speak
+			わかる -- to understand
+			たてつく -- to oppose, to rebel
+			考[かんが]える -- to think, to consider
+			こうする -- to do like this
+			までに -- until
+			多[おお]い -- many, much
+			犠牲[ぎせい] -- sacrifice, victim
+			費[つい]やす -- to spend, to devote
+			</pre>
+		</div>
+	</div>
+
+	<div class='subBlock'>
+		<narrator>Raynor</narrator>
+		<audio class='dialogue'><source src='./audio/TCB06ura.flac' type='audio/mpeg'></audio>
+		<div class='english'>
+			You mean like you sacrificed Kerrigan?
+		</div>
+		<div class='japanese'>
+			はっ、ケリガンを犠牲にしたようにか？
+		</div>
+		<div class="french">
+			はっ、 ケリガンを 犠牲[ぎせい]にした ように か？
+			<pre>
+			はっ -- ha! (exclamation)
+			</pre>
+		</div>
+	</div>
+
+	<div class='subBlock'>
+		<narrator>Mengsk</narrator>
+		<audio class='dialogue'><source src='./audio/TCB07ume.flac' type='audio/mpeg'></audio>
+		<div class='english'>
+			You'll regret that.
+			You don't seem to realize my situation here.
+			I will not be stopped. Not by you, or the Confederated,
+			or the Protoss or anyone! I will rule this sector or see
+			it burnt to ashes around me. If you try to get in my -
+		</div>
+		<div class='japanese'>
+			後悔するぞ。おまえは今の私の立場がわかっていないな。誰も私を止められん。
+			おまえも連邦同盟軍も、プロトスであろうとな！
+			このセクターを支配するのは私だそうでなければ全て燃やし尽くすまでだ。もし私の邪魔をしようと言うなら…。
+		</div>
+		<div class="french">
+			 後悔[こうかい]するぞ。
+			おまえは 今[いま]の 私[わたし]の 立場[たちば]がわかっていないな。
+			 誰[だれ]も 私[わたし]を 止[と]められん。
+			おまえも 連邦同盟軍[れんぽうどうめぐん]も、 プロトスであろうとな！
+			この セクターを 支配[しはい]するのは 私[わたし]だ そうでなければ 全[すべ]て 燃[も]やし 尽[つ]くす までだ。
+			もし 私[わたし]の 邪魔[じゃま]をしようと 言[い]うなら…。
+			<pre>
+			後悔[こうかい] -- regret
+			立場[たちば] -- standpoint, position
+			誰[だれ]も -- anyone, everybody
+			止[と]める -- to stop, to cease
+			連邦同盟軍[れんぽうどうめぐん] -- Confederate forces
+			支配[しはい]する -- to rule, to govern
+			そうでなければ -- otherwise
+			全[すべ]て -- all, the whole
+			燃[も]やす -- to burn
+			尽[つ]くす -- to exhaust, to use up
+			邪魔[じゃま] -- hindrance, obstacle
+			</pre>
+		</div>
+	</div>
+</div>
+
+
+<div class='transcriptText'>
+	<div class='subBlock'>
+		<narrator>Advisor</narrator>
+		<audio class='dialogue'><source src='./audio/TCB08tad.flac' type='audio/mpeg'></audio>
+		<div class='english'>
+			The fleet is prepped and ready, Commander. Awaiting orders.
+		</div>
+		<div class='japanese'>
+			艦隊の準備完了しました。
+			司令官、ご指示をお待ちします。
+		</div>
+		<div class='french'>
+			 艦隊[かんたい]の 準備[じゅんび] 完了[かんりょう] しました。
+			 司令官[しれいかん]、 ご 指示[しじ]をお 待[ま]ちします。
+			<pre>
+			艦隊[かんたい] -- fleet
+			準備[じゅんび] -- preparation, setup
+			完了[かんりょう] -- completion, conclusion
+			司令官[しれいかん] -- commander
+			指示[しじ] -- instruction, direction
+			待[ま]つ -- to wait
+			</pre>
+
+		</div>
+	</div>
+
+
+	<div class='subBlock'>
+		<narrator>Raynor</narrator>
+		<audio class='dialogue'><source src='./audio/TCB09ura.flac' type='audio/mpeg'></audio>
+		<div class='english'>
+			The hell with him. We're gone.
+		</div>
+		<div class='japanese'>
+			勝手にしろ。じゃあな。
+		</div>
+		<div class='french'>
+			 勝手[かって]にしろ。 じゃあな。
+			<pre>
+			勝手[かって] -- one's own convenience
+			</pre>
+		</div>
+	</div>
+</div>
+
+
+
+<div class='transcriptText'>
+	<div class='subBlock'>
+		<narrator>Advisor</narrator>
+		<audio class='dialogue'><source src='./audio/TCM20tad.flac' type='audio/mpeg'></audio>
+		<div class='english'>
+			It appears that General Duke has successfully activated Tarsonis'
+			primary defensive weapon, the Ion Cannon. The Cannon must be shut
+			down if any escape attempt is to be	made.
+		</div>
+		<div class='japanese'>
+			デューク将軍は、タルソニスの主要防御兵器「イオンキャノン」の始動に成功した様子です。撤退する前にキャノンを稼働停止にする必要があります。
+		</div>
+		<div class="french">
+			デューク 将軍[しょうぐん]は、 タルソニスの 主要[しゅよう] 防御[ぼうぎょ] 兵器[へいき]「イオンキャノン」の 始動[しどう]に 成功[せいこう]した 様子[ようす]です。
+			 撤退[てったい]する 前[まえ]に キャノンを 稼働[かどう] 停止[ていし]にする 必要[ひつよう]があります。
+			<pre>
+			主要[しゅよう] -- main, principal
+			防御[ぼうぎょ] -- defense, protection
+			兵器[へいき] -- arms, weapons
+			始動[しどう] -- starting up, activation
+			成功[せいこう] -- success
+			様子[ようす] -- appearance, state
+			撤退[てったい] -- evacuation, withdrawal
+			前[まえ] -- before, in front of
+			稼働[かどう] -- operation, drive
+			停止[ていし] -- stop, halt
+			必要[ひつよう] -- need, necessity
+			</pre>
+		</div>
+	</div>
+</div>
+
+
+<div class='transcriptText'>
+	<div class='subBlock'>
+		<div class='japanese'>
+			報告終了。
+		</div>
+		<div class='french'>
+			報告[ほうこく] 終了[しゅうりょう]。
+			<pre>
+			報告[ほうこく] -- report
+			終了[しゅうりょう] -- end, close
+			</pre>
+		</div>
+		<div class='english'>
+			End of report.
+		</div>
+	</div>
+</div>
+
+<h1>Mission Start</h1>
+
+<div class='transcriptText'>
+	<div class='subBlock'>
+		<narrator>Raynor</narrator>
+		<audio class='dialogue'><source src='./audio/TCM00ura.flac' type='audio/mpeg'></audio>
+		<div class='english'>
+			Well, Commander, it looks like we're on our own.
+			It's funny... it seems like yesterday Arcturus was the idealistic rebel crusader.
+			Now he's the law, and we're the criminals.
+			It kills me to know that we helped him achieve his goals of conquest.
+		</div>
+		<div class='japanese'>
+			司令官、オレ達だけになっちまったな。
+			それにしても、変な話だよな。
+			昨日までアルクトゥルスは理想主義の
+			「聖戦を起こした謀反人」だった。だけど
+			今じゃヤツが法律で、オレ達は犯罪者だ。
+			世界を征服するヤツの夢を手助け
+			してたって考えると、いやになるな。
+		</div>
+		<div class="french">
+			 司令官[しれいかん]、 オレ 達[たち]だけになっちまったな。
+			それにしても、 変[へん]な 話[はなし]だよな。
+			 昨日[きのう]まで アルクトゥルスは 理想主義[りそうしゅぎ]の
+			 「 聖戦[せいせん]を 起[お]こした 謀反人[むほんにん]」だった。
+			だけど 今[いま]じゃ ヤツが 法律[ほうりつ]で、 オレ 達[たち]は 犯罪者[はんざいしゃ]だ。
+			 世界[せかい]を 征服[せいふく]する ヤツの 夢[ゆめ]を 手助[てだす]けしてたって 考[かんが]えると、 いやになるな。
+			<pre>
+			司令官[しれいかん] -- commander
+			達[たち] -- plural suffix
+			変[へん] -- strange, odd
+			話[はなし] -- talk, story
+			昨日[きのう] -- yesterday
+			理想主義[りそうしゅぎ] -- idealism
+			聖戦[せいせん] -- holy war
+			起[お]こす -- to cause, to start
+			謀反人[むほんにん] -- rebel, traitor
+			法律[ほうりつ] -- law
+			犯罪者[はんざいしゃ] -- criminal
+			世界[せかい] -- world
+			征服[せいふく]する -- to conquer, to subjugate
+			夢[ゆめ] -- dream
+			手助[てだす]けする -- to help, to assist
+			考[かんが]える -- to think, to consider
+			</pre>
+		</div>
+	</div>
+
+
+	<div class='subBlock'>
+		<narrator>Raynor</narrator>
+		<audio class='dialogue'><source src='./audio/TCM01ura.flac' type='audio/mpeg'></audio>
+		<div class='english'>
+			Damnit! I shouldn't have left her go alone.
+		</div>
+		<div class='japanese'>
+			ちきしょう。彼女をひとりで行かせるんじゃなかった…。
+		</div>
+		<div class='french'>
+			 ちきしょう。 彼女[かのじょ]を ひとりで 行[い]かせるんじゃなかった…。
+			<pre>
+			ちきしょう -- damn it!
+			彼女[かのじょ] -- she, her
+			ひとり -- alone, one person
+			行[い]く -- to go
+			</pre>
+		</div>
+	</div>
+</div>

@@ -1,0 +1,581 @@
+
+<h1>Desperate alliance</h1>
+
+
+<div class='transcriptText'>
+	<div class='japanese'>
+		<h2>危機同盟</h2>
+
+		<pre>
+	    惑星司法官のオフィス
+	    惑星マー．サラ
+	    </pre>
+	</div>
+	<div class='french'>
+		<h2> 危機同盟[ききどうめい]</h2>
+
+		<pre>
+	    惑星司法官のオフィス
+	    惑星マー．サラ
+	    </pre>
+
+		<pre>
+		危機[きき] -- crisis, danger, risk
+		</pre>
+	</div>
+	<div class='english'>
+		<h2>Desperate alliance</h2>
+		<pre>
+			Office of the Colonial Magistrate
+			Mar Sara Colony
+		</pre>
+	</div>
+</div>
+
+
+<h1>Mission Briefing</h1>
+
+
+<div class='transcriptText'>
+	<div class='subBlock'>
+		<div class='japanese'>
+		   勝利条件
+			- 30分間生き延びよ。
+		</div>
+
+		<div class='french'>
+		   勝利条件[しょうりじょうけん]
+			- 30 分間[ふんかん] 生き延[いきの]びよ。
+			<pre>
+			延びる -- to stretch
+      		生き延びる[いきのびる] -- to survive, to live long
+
+		    grammar:
+		    命令形： (classical Japanese)
+		    くる → こよ
+		    たべる → たべよ
+		    くう → くえ
+		    similar to しろ、たべろ etc. but less harsher
+		    </pre>
+		</div>
+
+		<div class='english'>
+			Objectives
+			- Survive for 30 minutes
+		</div>
+	</div>
+</div>
+
+<div class='transcriptText'>
+	<div class='subBlock'>
+		<narrator>Advisor</narrator>
+		<audio class='dialogue'><source src='./audio/01.flac' type='audio/mpeg'></audio>
+
+		<div class='japanese'>
+			メッセージ受信中…接続完了しました。
+		</div>
+
+		<div class='french'>
+			メッセージ 受信中[じゅしんちゅう]… 接続完了[せつぞくかんりょう]しました。
+			<pre>
+			受信[じゅしん] -- reception, receiving
+			接続[せつぞく] -- connection
+			完了[かんりょう] -- completion, conclusion
+			</pre>
+		</div>
+
+		<div class='english'>
+			Receiving incoming transmission.
+			Com-link established:
+		</div>
+	</div>
+</div>
+
+<div class='transcriptText'>
+	<narrator>Duke</narrator>
+	<audio class='dialogue'><source src='./audio/02.flac' type='audio/mpeg'></audio>
+
+	<div class='japanese'>
+		君のメッセージは受け取ったよ。
+		率直に言って、君が連邦同盟軍の条例についてどう考えようと、
+		私の知ったことではない。
+		君のような 辺境惑星に住んでいる ならず者どもは皆、
+		似たり寄ったりだ。
+		お前たちには、忠誠心のかけらもない。せいぜい楽しく毎日を過ごしてくれ。
+	</div>
+	<div class='french'>
+		君のメッセージは 受け取[うけと]ったよ。
+		 率直[そっちょく]に 言[い]って、 君[きみ]が 連邦同盟軍[れんぽうどうめいぐん]の
+		 条例[じょうれい]についてどう 考[かんが]えようと、
+		 私[わたし]の 知[し]ったことではない。
+		君のような 辺境[へんきょう] 惑星[わくせい]に 住[す]んでいる ならず 者[もの]どもは 皆[みんな]、
+		 似たり寄ったり[にたりよったり] だ。
+		 お前[おまえ]たちには、 忠誠心[ちゅうせいしん]のかけらもない。せいぜい 楽[たの]しく 毎日[まいにち]を 過[す]ごしてくれ。
+
+		<pre>
+		受け取る -- to receive, accept, understand.
+		率直[そっちょく] -- frankness; candour; directness
+		言[い]う -- to say
+		条例[じょうれい] -- regulations, rules
+		考[かんが]える -- to think, to consider
+		辺境[へんきょう] -- remote region, border(land)
+		知る[しる] -- to know, to understand
+		ならず者 -- ruffian (voyou), scamp (garnement), hooligan (vandale)
+		皆[みんな] -- all, everyone
+		似たり寄ったり[にたりよったり] -- much the same.
+		忠誠心[ちゅうせいしん] -- loyalty faithfullness
+		かけら -- fragment splinter
+			彼には正直のかけらもない。
+			He does not have a particle of honesty in him.
+
+		せいぜい -- at the most, at best, to the utmost
+		楽[たの]しい -- enjoyable, fun
+		毎日[まいにち] -- every day
+		過[す]ごす -- to pass, to spend (time)
+		</pre>
+	</div>
+
+	<div class='english'>
+		I got your message, Magistrate, and frankly I don't care what you have
+		to say about Confederate regulations. You damn fringe world
+		yokels are all alike, don't know where your loyalties lie. Y'all have a
+		real good day now, y'hear?
+	</div>
+</div>
+
+<div class='transcriptText'>
+	<narrator>Advisor</narrator>
+	<audio class='dialogue'><source src='./audio/03.flac' type='audio/mpeg'></audio>
+
+	<div class='japanese'>
+		通信終了しました。
+		ご要望のデータは用意してあります。
+		16の外部基地で、ザーグと思われるエイリアンの侵入が目撃されたと報告されています。
+		連邦同盟軍は、現在活動している全市民軍を逮捕し、
+		ザーグに対してはいぜん攻撃を控えています。
+		すでに3つの基地がザーグによって壊滅。援軍の見込みはありませんが、
+		「コーハルの息子達」として知られる過激派と回線がつながっています…。
+	</div>
+
+	<div class='french'>
+		 通信終了[つうしんしゅうりょう]しました。
+		ご 要望[ようぼう]のデータは 用意[ようい]してあります。
+		16の 外部基地[がいぶきち]で、ザーグと 思われる[おもわれる]エイリアンの 侵入[しんにゅう]が
+		 目撃[もくげき]されたと 報告[ほうこく]されています。
+		 連邦同盟軍[れんぽうどうめいぐん]は、 現在活動[げんざいかつどう]している 全市民[ぜんしみん]
+		 軍[ぐん]を 逮捕[たいほ]し、
+		ザーグに 対して[たいして]はいぜん 攻撃[こうげき]を 控[ひか]えています。
+		すでに 3 つ[みっつ]の 基地[きち]がザーグによって 壊滅[かいめつ]。
+		 援軍[えんぐん]の 見込み[みこみ]はありませんが、
+		「コーハルの 息子達[むそこたち]」として 知[し]られる 過激派[かげきは]と
+		 回線[かいせん]がつながっています…。
+
+		<pre>
+		通信[つうしん] -- correspondence, communication
+		終了[しゅうりょう] -- end, close, termination
+		要望[ようぼう] -- demand, request
+		データ -- data
+		用意[ようい] -- preparation, arrangements
+		外部[がいぶ] -- external, outside
+		思われる -- to seem, to appear
+		侵入[しんにゅう] -- invasion, raid
+		目撃[もくげき] -- witnessing, sighting
+		現在[げんざい] -- present, current
+		活動[かつどう] -- action, activity
+		現在活動[げんざいかつどう] -- currently active
+		全市民[ぜんしみん] -- all citizens
+		逮捕[たいほ] -- arrest
+		対して[たいして] -- towards, against
+		攻撃[こうげき] -- attack
+		控[ひか]える -- to refrain, to hold back
+		3つ[みっつ] -- three
+		壊滅[かいめつ] -- destruction, annihilation
+		見込み -- hope, probability, likelihood
+		息子達[むそこたち] -- sons
+		過激派[かげきは] -- radicals, extremists
+		回線[かいせん] -- line
+		</pre>
+	</div>
+
+	<div class='english'>
+		Transmission ended. The report you requested is ready. Sixteen outland
+		stations have reported sightings of the alien invaders identified as Zerg.
+		The Confederates have arrested all standing militia forces and continue
+		to avoid action against the Zerg. Three stations have fallen to the
+		Zerg already. We've been unable to locate any source of military relief
+		except... the extremist faction known as The Sons of Korhal. Their
+		liaison is holding on line.
+	</div>
+</div>
+
+<div class='transcriptText'>
+	<div class='subBlock'>
+		<narrator>Mengsk</narrator>
+		<audio class='dialogue'><source src='./audio/04.flac' type='audio/mpeg'></audio>
+
+		<div class='japanese'>
+			やあ、司法官。
+			私の名はアルクトゥルス・メンスク。
+			「コーハルの息子達」のリーダーだ。
+			連邦同盟軍の奴らが私たちのグループをどう呼んでいるかはご存じだろう。
+			しかし、今までの君の行動から判断して、私は君がもっと頭の良い人間だと思っている。
+			ひとつところで活動するというのは私たちの習慣ではないのだが、
+			奴ら…ザーグどもは待つことすらしないようだな。司法官、取引がしたい。
+			今から、そちらに輸送船を降ろそう。生存者を乗せるといい。
+		</div>
+
+		<div class='french'>
+			やあ、 司法官[しほうかん]。
+			 私[わたし]の 名[な]は アルクトゥルス・メンスク[Arcturus Mengsk]。
+			「コーハルの 息子達[むそこたち]」のリーダーだ。
+			連邦同盟軍の 奴[やつ]らが 私[わたし]たちのグループをどう 呼[よ]んでいるかはご 存[ぞん]じだろう。
+			しかし、 今[いま]までの 君[きみ]の 行動[こうどう]から 判断[はんだん]して、
+			 私[わたし]は 君[きみ]がもっと 頭[あたま]の 良い[いい] 人間[にんげん]だと 思[おも]っている。
+			ひとつところで 活動[かつどう]するというのは 私[わたし]たちの 習慣[しゅうかん]ではないのだが、
+			 奴[やつ]ら…ザーグどもは 待[ま]つことすらしないようだな。 司法官[しほうかん]、 取引[とりひき]がしたい。
+			今から、そちらに 輸送船[ゆそうせん]を 降[お]ろそう。
+			 生存者[せいぞんしゃ]を 乗[の]せるといい。
+
+			<pre>
+			やあ -- hey
+			司法官[しほうかん] -- magistrate
+			名[な] -- name
+			リーダー -- leader
+			奴ら[やつら] -- they, those guys
+			ご存[ぞん]じ -- knowing
+			あなたはそれをご存知かも知れない -- You may already know that.
+			ご存知[ごぞんじ]ですか -- Are you aware that
+			アレン様を、ご存知ありませんか？
+			呼ぶ[よぶ] -- to call, to name
+			行動[こうどう] -- action, conduct
+			判断[はんだん] -- judgement, decision, conclusion.
+			頭[あたま] -- head, brains
+			良い[いい] -- good
+			人間[にんげん] -- human being
+			思[おも]う -- to think, to feel
+			活動[かつどう]する -- to operate
+			習慣[しゅうかん] -- habit, custom
+			待[ま]つ -- to wait
+			すらしない -- さえしない -- not so much as
+				「彼女は別れのあいさつさえしないで部屋から去っていった」
+				She left the room *without so much as* saying a goodbye
+			取引[とりひき] -- transaction, business.
+			輸送船[ゆそうせん] -- troop ship
+			輸送[ゆそう] -- transport
+			降ろす -- to drop, to unload
+			生存者[せいぞんしゃ] -- survivors
+			</pre>
+		</div>
+
+		<div class='english'>
+			Good day, Magistrate. My name is Arcturus Mengsk, and I represent
+			The Sons of Korhal. You're familiar with the Confederate propaganda
+			surrounding my group, but your reputation suggests you'll see past
+			it. It's never been our practice to operate in any one place for long,
+			but these Zerg don't look like they're going to wait. I'm going to
+			make you an offer, Magistrate. I'd like to help you out by sending down
+			a number of transports to your colony and evacuating any survivors.
+		</div>
+	</div>
+
+	<div class='subBlock'>
+		<audio class='dialogue'><source src='./audio/05.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			もちろん、私たちの活動は連邦同盟軍の法律を無視したものだ。
+			だからこそ、奴らは私たちについてデマや誤報をまき散らしているわけだが。
+			私たちの助けを受ければ、あなたも反逆者の名前で呼ばれることになる。
+			しかし、多くのひとの命は救われる。司法官、決断の時だ。
+		</div>
+
+		<div class='french'>
+			もちろん、 私[わたし]たちの 活動[かつどう]は 連邦同盟軍[れんぽうどうめいぐん]の
+			 法律[ほうりつ]を 無視[むし]したものだ。
+			だからこそ、 奴[やつ]らは 私[わたし]たちについてデマや 誤報[ごほう]を まき散[まきち]らしているわけだが。
+			私たちの 助[たす]けを 受[う]ければ、あなたも 反逆者[はんぎゃくしゃ]の 名前[なまえ]で 呼[よ]ばれることになる。
+			しかし、 多[おお]くのひとの 命[いのち]は 救[すく]われる。 司法官[しほうかん]、 決断[けつだん]の 時[とき]だ。
+
+			<pre>
+			法律[ほうりつ] -- law
+			無視[むし] -- disregard, ignore
+			だからこそ -- for this reason
+			デマ -- false rumor,
+			誤報[ごほう] -- misinformation
+			まき散[ち]らす -- to scatter, to spread.
+			助[たす]け -- assistance
+			受[う]ける -- to receive, to accept
+			反逆者[はんぎゃくしゃ] -- rebel, traitor.
+			呼ばれる -- to be called
+			命[いのち] -- life, destiny
+			救[すく]う -- to rescue from, to save
+			決断[けつだん] -- decision.
+			時[とき] -- time, hour
+			</pre>
+		</div>
+
+		<div class='english'>
+			You know, of course, that my
+			organization operates outside the
+			bounds of Confederate law. That's
+			why they spread their lies and
+			misinformation. If you decide to
+			accept our help, you'll be branded as
+			an outlaw too. But, it's a chance to
+			save those people. Time to make a
+			stand, Magistrate.
+		</div>
+	</div>
+</div>
+
+<div class='transcriptText'>
+	<narrator>Advisor</narrator>
+	<audio class='dialogue'><source src='./audio/07.flac' type='audio/mpeg'></audio>
+
+	<div class='japanese'>
+		通信完了…緊急事態発生！
+		避難地区がザーグによって襲撃！ 遭難信号の発信は12:20。
+	</div>
+
+	<div class='french'>
+		 通信完了[つうしんかんりょう]… 緊急事態[きんきゅうじたい] 発生[はっせい]!
+		 避難[ひなん] 地区[ちく]がザーグによって 襲撃[しゅうげき]!  遭難信号[そうなんしんご]の 発信[はっしん]は12:20。
+
+		<pre>
+	   緊急事態[きんきゅうじだい] -- state of emergency
+	   発生[はっせい] -- outbreak, occurrence
+	   避難[ひなん] -- evacuation, escape
+	   地区[ちく] -- district, area
+	   襲撃[しゅうげき] -- attack, emergency
+	   遭難信号[そうなんしんご] -- distress signal
+	   発信[はっしん] -- dispatch, transmission
+	   </pre>
+	</div>
+
+	<div class='english'>
+		Ending transmission. Priority Alert! Evacuation ZOne under attack by
+		Zerg forces. Distress beacon activated at 1220.
+	</div>
+</div>
+
+
+
+<h1>Mission Start</h1>
+
+<div class='transcriptText'>
+	<div class='subBlock'>
+		<narrator>Advisor</narrator>
+		<audio class='dialogue'><source src='./audio/13.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			司法官、分析結果によれば、ザーグの
+			攻撃をくぐり抜け、メンスク氏の輸送船に
+			向かうことは可能です。
+		</div>
+
+
+		<div class='french'>
+			司法官、 分析結果[ぶんせきけっか]によれば、ザーグの
+			 攻撃[こうげき]を くぐり抜け[くぐりぬけ]、メンスク 氏[し]の 輸送船[ゆそうせん]に
+			 向[む]かうことは 可能[かのう]です。
+
+			<pre>
+			分析[ぶんせき] -- analysis
+			結果[けっか] -- result, consequence
+			によれば -- according to
+			攻撃[こうげき] -- attack
+			くぐり抜[ぬ]ける -- to get trough, to escape
+			氏[し] -- Mr., Mrs.
+			輸送船[ゆそうせん] -- transport ship
+			向[む]かう -- to face, to go towards
+			可能[かのう] -- possible
+			</pre>
+		</div>
+	</div>
+</div>
+
+<div class='transcriptText'>
+	<div class='subBlock'>
+		<div class='japanese'>
+         勝利条件
+			- 30分間生き延びよ。
+			または
+			- ザーグのハッチェリーを破壊せよ。
+		</div>
+
+		<div class='french'>
+         勝利条件[しょうりじょうけん]
+			-  30分間[さんじゅうぷんかん] 生き延び[いきのび]よ。
+
+			または
+
+			- ザーグのハッチェリーを 破壊[はかい]せよ。
+
+			<pre>
+			破壊[はかい] -- destruction
+			</pre>
+		</div>
+
+      <div class='english'>
+			Objectives
+			- Survive for 30 minutes
+
+         	Or
+
+         	- Destroy the Zerg Hatchery
+		</div>
+	</div>
+</div>
+
+<div class='transcriptText'>
+	<div class='subBlock'>
+		<narrator>Vulture</narrator>
+		<audio class='dialogue'><source src='./audio/09.flac' type='audio/mpeg'></audio>
+
+		<div class='japanese'>
+			おい、燃えちまってるぞ！ SCVをおくって
+			修理させろ。オレのマシンも頼む。
+		</div>
+
+		<div class='french'>
+			おい、 燃[も]えちまってるぞ！ SCVをおくって
+			 修理[しゅうり]させろ。オレのマシンも 頼む[たのむ]。
+
+			<pre>
+			燃[も]える -- to burn
+			マシン -- machine
+			頼[たの]む
+			</pre>
+		</div>
+
+		<div class='english'>
+			Hey, this thing's on fire! You oughta' send
+			an SCV out here and repair it,
+			and fix my bike up too while he's at it.
+		</div>
+	</div>
+
+	<div class='subBlock'>
+		<narrator>Marine</narrator>
+		<audio class='dialogue'><source src='./audio/10.flac' type='audio/mpeg'></audio>
+
+		<div class='japanese'>
+			ヤバそうになったら、バンカーに
+			隠れてもいい。
+		</div>
+		<div class='french'>
+			ヤバそうになったら、バンカーに
+			 隠[かく]れてもいい。
+			<pre>
+			ヤバい -- dangerous, risky
+			隠[かく]れる -- to hide
+			</pre>
+		</div>
+		<div class='english'>
+			We can take cover in these bunkers
+			if things get too dicey.
+		</div>
+	</div>
+</div>
+
+<h2>10 minutes remaining</h2>
+
+<div class='transcriptText'>
+	<narrator>Advisor</narrator>
+	<audio class='dialogue'><source src='./audio/11.flac' type='audio/mpeg'></audio>
+
+	<div class='japanese'>
+		ドロップシップ到着まで10分。
+	</div>
+	<div class='french'>
+		ドロップシップ 到着[とうちゃく]まで 10分[じゅっぷん]。
+		<pre>
+		到着[とうちゃく] -- arrival
+		</pre>
+	</div>
+	<div class='english'>
+		Ten minutes until dropship arrival.
+	</div>
+</div>
+
+
+<h2>5 minutes remaining</h2>
+
+<div class='transcriptText'>
+	<narrator>Advisor</narrator>
+	<audio class='dialogue'><source src='./audio/12.flac' type='audio/mpeg'></audio>
+
+	<div class='japanese'>
+		ドロップシップ到着まで5分。
+	</div>
+	<div class='french'>
+		ドロップシップ 到着[とうちゃく]まで 5分[ごふん]。
+	</div>
+	<div class='english'>
+		Five minutes until dropship arrival.
+	</div>
+</div>
+
+<h2>1 minutes remaining</h2>
+
+<div class='transcriptText'>
+	<narrator>Advisor</narrator>
+	<audio class='dialogue'><source src='./audio/16.flac' type='audio/mpeg'></audio>
+
+	<div class='japanese'>
+		ドロップシップ到着まで1分。
+	</div>
+	<div class='french'>
+		ドロップシップ 到着[とうちゃく]まで 1分[いっぷん]。
+	</div>
+	<div class='english'>
+		One minute until dropship arrival.
+	</div>
+</div>
+
+<h2>Time's up</h2>
+
+<div class='transcriptText'>
+	<div class='subBlock'>
+		<narrator>Advisor</narrator>
+		<audio class='dialogue'><source src='./audio/17.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			ドロップシップ接近中
+		</div>
+		<div class='french'>
+			ドロップシップ 接近[せっきん]中
+			<pre>
+			接近[せっきん] -- approach
+			</pre>
+		</div>
+		<div class='english'>
+			Sons of Korhal dropships approaching.
+		</div>
+	</div>
+
+	<div class='subBlock'>
+		<narrator>Advisor</narrator>
+		<audio class='dialogue'><source src='./audio/18.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			ドロップシップに到着
+		</div>
+		<div class='french'>
+			ドロップシップに 到着[とうちゃく]
+		</div>
+		<div class='english'>
+			Dropships have arrived.
+		</div>
+	</div>
+
+	<div class='subBlock'>
+		<narrator>Dropship Pilot</narrator>
+		<audio class='dialogue'><source src='./audio/15.flac' type='audio/mpeg'></audio>
+
+		<div class='japanese'>
+			おとなしくしてんのよ、ボーヤ！
+		</div>
+		<div class='english'>
+			Strap yourselves in, boys.
+		</div>
+	</div>
+</div>
+
+
+

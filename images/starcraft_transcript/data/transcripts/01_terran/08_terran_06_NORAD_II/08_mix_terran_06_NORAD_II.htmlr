@@ -1,0 +1,706 @@
+
+<h1>NORAD II</h1>
+
+<div class='transcriptText'>
+	<div class='english'>
+		<h1>NORAD II</h1>
+		<pre>
+		Secret Staging Area
+		Antiga Prime Colony
+		</pre>
+	</div>
+	<div class='japanese'>
+		<h1>ノーラッド II</h1>
+		<pre>
+		惑星アンティーガ・プライム
+		秘密ステージエリアにて
+		</pre>
+	</div>
+	<div class='french'>
+		<h1>ノーラッド II</h1>
+		<pre>
+		 惑星[わくせい]アンティーガ・プライム
+		 秘密[ひみつ]ステージエリアにて
+		</pre>
+		<pre>
+		惑星[わくせい] -- planet
+		秘密[ひみつ] -- secret
+		ステージ -- stage
+		エリア -- area
+		</pre>
+	</div>
+</div>
+
+
+
+<h1>Mission Briefing</h1>
+
+<div class='transcriptText'>
+	<div class='subBlock'>
+		<div class='english'>
+			<h2>Objectives</h2>
+			- Protect Battlecruiser Norad II
+			- Bring Raynor and 2 dropships to Norad II
+		</div>
+
+		<div class='japanese'>
+			勝利条件
+			- バトルクルーザー・ノーラッドIIを堅守せよ。
+			- ノーラッドIIまで、ライナーとドロップシップ ２機を搬送せよ。
+		</div>
+
+		<div class='french'>
+			 勝利条件[しょうりじょうけん]
+			- バトルクルーザー・ノーラッドIIを 堅守[けんしゅ]せよ。
+			- ノーラッドIIまで、ライナーとドロップシップ ２機[にき]を 搬送[はんそう]せよ。
+		   <pre>
+		   堅守[けんしゅ] -- strong defense
+		   ２機[き] -- 2 units
+		   搬送[はんそう] -- transport
+		   -せよ -- imperative form of する
+		   </pre>
+		</div>
+	</div>
+</div>
+
+<div class='transcriptText'>
+	<div class='subBlock'>
+		<narrator>Advisor</narrator>
+		<audio class='dialogue'><source src='./audio/01.flac' type='audio/mpeg'></audio>
+
+		<div class='japanese'>
+			アンティガの反乱により、連邦同盟軍はパニックに陥っています。
+			現在、連邦同盟軍本部と前哨基地間の電送メッセージをハッキングしています。
+			ほとんどが解析不能ですが…
+			お待ちください。１つ解析可能なものが…。
+		</div>
+
+		<div class='french'>
+			アンティガの 反乱[はんらん]により、 連邦同盟軍[れんぽうどうめぐん]はパニックに 陥[おちい]っています。
+			 現在[げんざい]、 連邦同盟軍[れんぽうどうめいぐん] 本部[ほんぶ]と 前哨[ぜんしょう] 基地[きち] 間[かん]の 電送[でんそう] メッセージをハッキングしています。
+			ほとんどが 解析[かいせき] 不能[ふのう]ですが…
+			お 待[ま]ちください。 １つ[ひとつ] 解析[かいせき] 可能[かのう]なものが…。
+
+			<pre>
+			反乱[はんらん] -- rebellion
+			陥[おちい]る -- to fall into (chaos, depression, dilemma, illness, etc.)
+			本部 -- headquaters
+			前哨[ぜんしょう] -- outpost (fr: avant poste)
+			基地[きち] -- base
+			間[かん] -- between
+			前哨[ぜんしょう]基地[きち]間[かん] -- between the outpost and the base
+			電送[でんそう] -- electronic transmission
+			解析[かいせき] -- analysis
+			不能[ふのう] -- incompetency, impossibility
+			解析不能 -- unanalyzable
+			可能[かのう] -- possible
+			</pre>
+		</div>
+
+
+		<div class='english'>
+			It appears that the Confederates are in a state of panic about the
+			Antigan revolt. I'm picking up a high number of Confederate
+			transmissions going back and forth between their outposts and their
+			headquarters on Tarsonis. Most of the transmissions are heavily coded,
+			but wait, here's something:
+		</div>
+	</div>
+</div>
+
+
+<div class='transcriptText'>
+	<div class='subBlock'>
+		<narrator>Duke</narrator>
+		<audio class='dialogue'><source src='./audio/02.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			こちら、アルファ部隊旗艦ノーラッドIIのデューク将軍。
+			不時着後、ザーグの襲撃に合っている。
+			この信号を受け取ったら、すぐにでも応援を頼む！
+			繰り返す、これは緊急遭難信号…
+		</div>
+
+		<div class='french'>
+			こちら、アルファ 部隊[ぶたい] 旗艦[きかん]ノーラッドIIのデューク 将軍[しょうぐん]。
+			 不時着[ふじちゃく] 後[ご]、ザーグの 襲撃[しゅうげき]に 合[あ]っている。
+			この 信号[しんごう]を 受け取[うけと]ったら、すぐにでも 応援[おうえん]を 頼[たの]む！
+			 繰り返す[とりかえす]、これは 緊急[きんきゅう] 遭難信号[そうなんしんごう]…
+
+			<pre>
+			部隊[ぶたい] -- force unit
+			旗艦[きかん] -- flagship
+			将軍[しょうぐん] -- general
+			不時着[ふじちゃく] -- emergency landing
+			襲撃[しゅうげき] -- charge, raid
+			信号[しんごう] -- signal, traffic light.
+			受け取る -- to receive
+			応援[おうえん] -- aid, cheer
+			頼む[たのむ] -- to ask, to request
+			繰り返す[とりかえす] -- to repeat
+			緊急[きんきゅう] -- urgent, emergency
+			遭難信号[そうなんしんごう] -- distress signal
+			</pre>
+		</div>
+
+		<div class='english'>
+			This is General Duke calling from Alpha Squadron Flagship Norad II!
+			We've crash-landed and are being hit hard by the Zerg! Request
+			immediate backup from anyone receiving this signal! Repeat, this is
+			a priority one distress call-
+		</div>
+	</div>
+</div>
+
+
+<div class='transcriptText'>
+	<div class='subBlock'>
+		<narrator>Raynor</narrator>
+		<audio class='dialogue'><source src='./audio/03.flac' type='audio/mpeg'></audio>
+
+		<div class='japanese'>
+			ザーグに？ いいざまだ。一度どんなもんか味わってみた方がいいぜ。
+		</div>
+
+		<div class='french'>
+			ザーグに？ いいざまだ。 一度[いちど]どんなもんか 味[あじ]わってみた方がいいぜ。
+
+			<pre>
+			いいざま -- いい(好[よ]い) ざま (mess, sorry state)
+			-> en: serve you right! (fr: bien fait pour toi)
+			味[あじ]わう -- to taste
+			</pre>
+		</div>
+
+		<div class='english'>
+			Zerg? Here? Serves 'em right. 'Bout time they got a taste of what
+			it's like to be in there mixin' it up.
+		</div>
+	</div>
+
+
+	<div class='subBlock'>
+		<narrator>Mengsk</narrator>
+		<audio class='dialogue'><source src='./audio/04.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			ジム、彼らを助けに行ってくれないか。
+		</div>
+		<div class='french'>
+			ジム、 彼[かれ]らを 助[たす]けに 行[い]ってくれないか。
+			<pre>
+			彼[かれ]ら -- they
+			助[たす]ける -- to help
+			行[い]く -- to go
+			</pre>
+		</div>
+		<div class='english'>
+			Jim, I want you to move in and save that base.
+		</div>
+	</div>
+
+	<div class='subBlock'>
+		<narrator>Raynor</narrator>
+		<audio class='dialogue'><source src='./audio/05.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			冗談だろう？
+		</div>
+		<div class='french'>
+			 冗談[じょうだん]だろう？
+			<pre>
+			冗談[じょうだん] -- joke
+			</pre>
+		</div>
+		<div class='english'>
+			I'm positive I didn't hear that right.
+		</div>
+	</div>
+
+	<div class='subBlock'>
+		<narrator>Kerrigan</narrator>
+		<audio class='dialogue'><source src='./audio/06.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			気でも狂ったの？
+		</div>
+
+		<div class='french'>
+			 気[き]でも 狂[くる]ったの？
+			<pre>
+			-> Have you lost your mind? / gone insane
+			alt:気[き]が狂[くる]った
+			狂[くる]う -- to go mad
+			</pre>
+		</div>
+
+		<div class='english'>
+			Arcturus, have you lost your mind?
+		</div>
+	</div>
+
+	<div class='subBlock'>
+		<narrator>Mengsk</narrator>
+		<audio class='dialogue'><source src='./audio/07.flac' type='audio/mpeg'></audio>
+
+		<div class='japanese'>
+			まあ聞け。デューク大尉が冷血漢だというのはよくわかっている。
+			だが、つらい思いをする必要もあるまい。
+			連邦同盟軍の大尉とは、ずいぶん心強い味方だと思わないか。
+			逃すにはもったいないチャンスだ。
+		</div>
+
+		<div class='french'>
+			まあ 聞[き]け。デューク 大尉[たいい]が 冷血漢[れいけつかん]だというのはよくわかっている。
+			だが、つらい 思[おも]いをする 必要[ひつよう]もあるまい。
+			 連邦同盟軍[れんぽうどうめいぐん]の 大尉[たいい]とは、ずいぶん 心強い[こころづよい] 味方[みかた]だと思わないか。
+			 逃[のが]すにはもったいないチャンスだ。
+
+			<pre>
+			聞[き]け -- listen
+			大尉[たいい] -- captain
+			冷血漢[れいけつかん] -- cold blooded person
+			ずいぶん -- very, extremely
+    		心強い[こころづよい] -- encouraging, reassuring
+			逃[のが]す -- to miss, to give away
+		    </pre>
+		</div>
+
+		<div class='english'>
+			Listen, I know Duke's a clod hearted bastard, but an entire colony
+			shouldn't have to suffer for that. Besides, a Confederate general could
+			prove to be a powerful ally. This is an opportunity we cannot miss.
+		</div>
+	</div>
+</div>
+
+<div class='transcriptText'>
+	<div class='subBlock'>
+		<narrator>Kerrigan</narrator>
+		<audio class='dialogue'><source src='./audio/08.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			気に入らないわ。
+		</div>
+		<div class='french'>
+			 気[き]に 入[い]らないわ。
+			<pre>
+			気[き]に入[い]る -- to be pleased with
+			</pre>
+		</div>
+		<div class='english'>
+			I don't like this at all.
+		</div>
+	</div>
+
+	<div class='subBlock'>
+		<narrator>Mengsk</narrator>
+		<audio class='dialogue'><source src='./audio/09.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			好きかどうかの問題ではない。
+			やるのだ。
+		</div>
+		<div class='french'>
+			 好[す]きかどうかの 問題[もんだい]ではない。
+			やるのだ。
+			<pre>
+			問題[もんだい] -- problem, question
+			</pre>
+		</div>
+		<div class='english'>
+			I'm not asking you to like it. I'm asking you to do it.
+		</div>
+	</div>
+
+	<div class='subBlock'>
+		<narrator>Kerrigan</narrator>
+		<audio class='dialogue'><source src='./audio/10.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			…了解。
+		</div>
+		<div class='french'>
+			… 了解[りょうかい]。
+			<pre>
+			了解[りょうかい] -- understanding, comprehension
+			</pre>
+		</div>
+		<div class='english'>
+			Yes, Sir.
+		</div>
+	</div>
+
+	<div class='subBlock'>
+		<narrator>Raynor</narrator>
+		<audio class='dialogue'><source src='./audio/11.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			いいじゃないか。やろうぜ。
+		</div>
+		<div class='french'>
+			いいじゃないか。やろうぜ。
+		</div>
+		<div class='english'>
+			Great. Let's get this over with.
+		</div>
+	</div>
+</div>
+
+<h1>Mission Start </h1>
+
+<h2>Arrived at the base</h2>
+
+<div class='transcriptText'>
+	<narrator>Note</narrator>
+	<div class='english'>
+		A Terran building with hit points "in the red" will burn down unless
+		it is repaired.
+	</div>
+
+	<div class='japanese'>
+		テランの建造物でヒットポイントが
+		赤くなっているものは、修理しないと
+		燃え続けて倒壊します。
+	</div>
+
+	<div class='french'>
+		テランの 建造物[けんぞうぶつ]でヒットポイントが
+		 赤[あか]くなっているものは、 修理[しゅうり]しないと
+		 燃[も]え 続[つづ]けて 倒壊[とうかい]します。.
+
+		<pre>
+		建造物[けんぞうぶつ] -- building
+		修理[しゅうり] -- repair
+		燃える[もえる] -- to burn
+		つづける -- to continue
+		燃え続け[もえつづけ] -- continue to burn
+		倒壊[とうかい] -- collapse, crumbling
+	   </pre>
+	</div>
+</div>
+
+<h1>Beginning of the mission</h1>
+
+<div class='transcriptText'>
+	<narrator>Raynor</narrator>
+	<audio class='dialogue'><source src='./audio/11b.flac' type='audio/mpeg'></audio>
+
+	<div class='english'>
+		If we're doin' this, we'd better hurry. That
+		ship won't last long against those Zerg.
+	</div>
+
+	<div class='japanese'>
+		やるんだったら、さっさとやろうぜ。
+		ザーグの攻撃にあの船がもちそうにないからな。
+	</div>
+
+	<div class='french'>
+		やるんだったら、さっさとやろうぜ。
+		ザーグの 攻撃[こうげき] にあの 船[ふね]がもちそうにないからな。
+		<pre>
+		さっさと -- quickly, promptly
+		攻撃[こうげき] -- attack
+		もつ -- to hold, to carry
+		もちそう -- to be likely to hold out
+		もちそうにない -- not likely to hold out
+		</pre>
+	</div>
+</div>
+
+
+<h2>Bring Raynor and 2 dropships to Norad II</h2>
+
+
+<div class='transcriptText'>
+	<div class='subBlock'>
+		<narrator>Duke</narrator>
+		<audio class='dialogue'><source src='./audio/12.flac' type='audio/mpeg'></audio>
+		<div class='english'>
+			You're about the last folks I expected to
+			show up. What's your angle here, Mengsk?
+		</div>
+		<div class='japanese'>
+			おまえが助けにくるとは死んでも思わなかったよ。
+			メンスク、どういう魂胆だ？
+		</div>
+		<div class='french'>
+			おまえが 助[たす]けにくるとは 死[し]んでも 思[おも]わなかったよ。
+			メンスク、どういう 魂胆[こんたん]だ？
+
+			<pre>
+			魂胆[こんたん] -- an ulterior [underlying] motive, plot, scheme
+		   </pre>
+		</div>
+	</div>
+
+
+	<div class='subBlock'>
+		<narrator>Raynor</narrator>
+		<audio class='dialogue'><source src='./audio/13.flac' type='audio/mpeg'></audio>
+
+		<div class='english'>
+			Our angle? I'll give you an angle, you slimy Confederate piece of -
+		</div>
+
+		<div class='japanese'>
+			魂胆だと？ てめぇら同盟軍こそ、きたねぇ
+			ことばかりしやがるくせに！
+		</div>
+
+		<div class='french'>
+			 魂胆[こんたん]だと？ てめぇら 同盟軍[どうめいぐん]こそ、きたねぇ
+			ことばかりしやがるくせに！
+
+			<pre>
+			魂胆[こんたん] -- an ulterior [underlying] motive, plot, scheme
+			同盟[どうめい] -- alliance
+			きたない -- dirty, filthy
+			きたねぇ -> きたない
+			ことばかり -- nothing but
+			しやがる -- to do something (vulgar)
+			くせに -- although, despite (derogatory version of のに)
+		   </pre>
+		</div>
+	</div>
+
+
+	<div class='subBlock'>
+		<narrator>Mengsk</narrator>
+		<audio class='dialogue'><source src='./audio/14.flac' type='audio/mpeg'></audio>
+
+		<div class='japanese'>
+			ジム、黙っていなさい。ここは私が決めよう。
+			将軍、連邦同盟軍は崩壊寸前だ。ほとんどの
+			惑星が反乱を起こそうとしている。ザーグは
+			平気で暴れ回っている状態だ。今日、ここに
+			我々がこなかったら、どうなっていたかね？
+		</div>
+
+		<div class='french'>
+			ジム、 黙[だま]っていなさい。ここは 私[わたし]が 決[き]めよう。
+			 将軍[しょうぐん]、 連邦同盟軍[れんぽうどうめいぐん]は 崩壊[ほうかい] 寸前[すんぜん]だ。
+			ほとんどの 惑星[わくせい]が 反乱[はんらん]を 起[お]こそうとしている。ザーグは
+			 平気[へいき]で 暴れ回[あばれまわ]っている 状態[じょうたい]だ。 今日[きょう]、ここに
+			 我々[われわれ]がこなかったら、どうなっていたかね？
+
+			<pre>
+			黙[だま]る -- to be silent
+			決[き]める -- to decide
+			崩壊[ほうかい] -- collapse
+			寸前[すんぜん] -- on the verge, on the brink
+			崩壊寸前[ほうかいすんぜん] -- on the brink of collapse
+			惑星[わくせい] -- planet
+			反乱[はんらん] -- rebellion
+			平気[へいき] -- fine, calm, cool, composed
+			暴れ回る[あばれまわる] -- to rampage, to run riot
+			状態[じょうたい] -- state, condition
+			今日[きょう] -- today
+			我々[われわれ] -- we
+		   </pre>
+		</div>
+
+		<div class='english'>
+			Jim, enough! I'll handle this. The Confederacy is falling apart, Duke.
+			Its colonies are in open revolt. The Zerg are rampaging unchecked.
+			What would have happened here today if we hadn't shown
+			up?
+		</div>
+	</div>
+</div>
+
+
+<div class='transcriptText'>
+	<div class='subBlock'>
+		<narrator>Duke</narrator>
+		<audio class='dialogue'><source src='./audio/15.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			何が言いたい？
+		</div>
+		<div class='french'>
+			 何[なに]が 言[い]いたい？
+		</div>
+		<div class='english'>
+			Your point?
+		</div>
+	</div>
+
+
+	<div class='subBlock'>
+		<narrator>Mengsk</narrator>
+		<audio class='dialogue'><source src='./audio/16.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			私はあなたに選ぶ権利を与えているのだよ。
+			連邦同盟軍へ戻り敗北を選ぶか、我々に加わり
+			はびこるザーグから人類を救い出すか。難しい
+			選択とは思わないのだがね。将軍…。
+		</div>
+
+		<div class='french'>
+			 私[わたし]はあなたに 選[えら]ぶ 権利[けんり]を 与[あた]えているのだよ。
+			 連邦同盟軍[れんぽうどうめいぐん]へ 戻[もど]り 敗北[はいぼく] を 選[えら]ぶか、
+			 我々[われわれ]に 加[くわ]わり
+			はびこるザーグから 人類[じんるい]を 救[すく]い 出[だ]すか。
+			 難[むずか]しい 選択[せんたく]とは 思[おも]わないのだがね。 将軍[しょうぐん]…。
+
+			<pre>
+			選ぶ[えらぶ] -- to choose
+			権利[けんり] -- right, privilege
+			与[あた]える -- to give
+			戻[もど]り -- return
+			敗北[はいぼく] -- defeat
+			加[くわ]わる -- to be added, to be append.
+			はびこる -- to infest, to run rampant
+			人類[じんるい] -- mankind, humanity
+			救い出す[すくいだす] -- to rescue, to free
+			難[むずか]しい -- difficult
+			選択[せんたく] -- selection, choice
+		   </pre>
+		</div>
+
+		<div class='english'>
+			I'm giving you a choice.
+			You can return to the Confederacy and lose,
+			or you can join us and help save our
+			entire race from being overrun by the Zerg.
+			I don't think it's a difficult decision.
+		</div>
+	</div>
+
+	<div class='subBlock'>
+		<narrator>Duke</narrator>
+		<audio class='dialogue'><source src='./audio/17.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			きさまの仲間になれだと？ 仮にも私は将軍だぞ！
+		</div>
+
+		<div class='french'>
+			きさまの 仲間[なかま]になれだと？  仮[かり]にも 私[わたし]は 将軍[しょうぐん]だぞ！
+
+			<pre>
+			仲間[なかま] -- company, fellow, colleague
+			仮[かり]にも -- even for an instant, even as a joke
+		   </pre>
+		</div>
+
+		<div class='english'>
+			Join forces? With you? I'm a general, for	God's sake!
+		</div>
+	</div>
+</div>
+
+<div class='transcriptText'>
+	<div class='subBlock'>
+		<narrator>Mengsk</narrator>
+		<audio class='dialogue'><source src='./audio/18.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			軍を持たぬ将軍か？ バックウォーター程度の
+			ポストではなく、あなたを閣僚として我が組織に
+			迎え入れよう。私の忍耐度を試そうというのなら、
+			やめておけ、エドモンド。
+		</div>
+
+		<div class='french'>
+			 軍[ぐん]を 持[も]たぬ 将軍[しょうぐん]か？ バックウォーター 程度[ていど]の
+			ポストではなく、あなたを 閣僚[かくりょう]として 我[わが]が 組織[そしき]に
+			 迎[むか]え 入[い]れよう。私の 忍耐[にんたい] 度[ど]を 試[ため]そうというのなら、
+			やめておけ、エドモンド。
+
+			<pre>
+			閣僚[かくりょう] -- cabinet minister
+			我[わが] -- I
+			組織[そしき] -- organization,
+			迎[むか]え入[い]れる -- to show in, to usher in
+			忍耐[にんたい] patience, perseverance.
+			-度[ど] -- degree, extent (suffix)
+			試[ため]す -- to test, to try
+		   </pre>
+		</div>
+
+		<div class='english'>
+			A general without an army. I'm offering
+			you a position in my cabinet, not just some
+			backwater post. Don't test my patience, Edmund.
+		</div>
+	</div>
+
+	<div class='subBlock'>
+		<narrator>Duke</narrator>
+		<audio class='dialogue'><source src='./audio/19.flac' type='audio/mpeg'></audio>
+
+		<div class='japanese'>
+			…わかった。メンスク、取り引き成立だ。
+		</div>
+
+		<div class='french'>
+			…わかった。メンスク、 取り引き[とりひき] 成立[せつりつ]だ。
+
+			<pre>
+			取り引き[とりひき] -- transaction, business
+			成立[せいりつ] -- to hold, establishment, completion
+		   </pre>
+		</div>
+
+		<div class='english'>
+			All right, Mengsk. You've got a deal.
+		</div>
+	</div>
+
+   <div class='subBlock'>
+      <narrator>Mengsk</narrator>
+      <audio class='dialogue'><source src='./audio/20.flac' type='audio/mpeg'></audio>
+      <div class='japanese'>
+         正しい選択だよ。デューク将軍。
+      </div>
+      <div class='french'>
+		 正[ただ]しい 選択[せんたく]だよ。デューク 将軍[しょうぐん]。
+		<pre>
+		正[ただ]しい -- correct, right
+		選択[せんたく] -- selection, choice
+		</pre>
+	 </div>
+      <div class='english'>
+         You've made the right choice, General Duke.
+      </div>
+   </div>
+</div>
+
+
+<div class='transcriptText'>
+	<div class='subBlock'>
+		<narrator>Raynor</narrator>
+		<audio class='dialogue'><source src='./audio/21.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			本気でこんな狸親父を信じるのか？
+		</div>
+
+		<div class='french'>
+			 本気[ほんき]でこんな 狸[たぬき] 親父[おやじ]を 信[しん]じるのか？
+
+			<pre>
+			狸親父[たぬきおやじ] cunning old man
+		    </pre>
+		</div>
+
+		<div class='english'>
+			I Can't believe you're really going to trust this snake!
+		</div>
+	</div>
+
+
+
+	<div class='subBlock'>
+		<narrator>Mengsk</narrator>
+		<audio class='dialogue'><source src='./audio/22.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			ジム、狸も飼えばかわいいものだ。
+		</div>
+
+		<div class='french'>
+			ジム、 狸[たぬき]も 飼[か]えばかわいいものだ。
+
+			<pre>
+			狸[たぬき]も飼[か]えばかわいいものだ。
+			飼[か]う -- to raise, to have (an animal)
+		   </pre>
+		</div>
+
+		<div class='english'>
+			Don't worry, Jim. He's our snake now.
+		</div>
+	</div>
+</div>
+

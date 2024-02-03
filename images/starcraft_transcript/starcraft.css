@@ -1,0 +1,257 @@
+/* --------------------------
+
+	override main theme: 
+
+---------------------------- */
+
+html {
+    background-image: url("Purple_Nebula.png");
+    background-repeat: repeat; 
+}
+
+body {
+    background-color: rgba(0, 0, 0, 0);
+    /* text color: */
+    color: rgb(172, 231, 129);  
+}
+
+.empty {
+	background: none;
+}
+
+/*Link color*/
+#content a,
+#content a:link
+{
+    color: #99bbff;
+    text-decoration: underline;
+}
+
+/*on hover*/
+#content a:hover 
+{
+    color: #ddff99;
+}
+
+#header h1 a,
+#header h3 {
+    color: #99bbff;
+}
+
+
+ul#nav li a:hover{
+    color: #ddff99;
+	background: none;
+}
+
+ul#nav {
+	border-top: 0;
+    background: none;
+    color: #00cc00;
+}
+
+p.about {
+	border-top: 0;
+    background: none;
+}
+
+.commentform textarea {
+	
+}
+
+/* ------------   
+End override 
+--------------- */
+
+#starcraft {
+    width: 800px;
+    margin:auto;
+}
+
+
+*, 
+#starcraft .playbutton, 
+#starcraft .pausebutton, 
+#starcraft .resetbutton
+{
+    cursor: url(cursor_frames/frame1.png), default;
+    -webkit-animation: cursor 600ms infinite;
+    animation: cursor 600ms infinite;
+}
+
+@-webkit-keyframes cursor {
+    0% {cursor: url(cursor_frames/frame1.png), default;}
+    25% {cursor: url(cursor_frames/frame2.png), default;}
+    50% {cursor: url(cursor_frames/frame3.png), default;}
+    75% {cursor: url(cursor_frames/frame4.png), default;}
+    100% {cursor: url(cursor_frames/frame5.png), default;}            
+} 
+
+@keyframes cursor {
+    0% {cursor: url(cursor_frames/frame1.png), default;}
+    25% {cursor: url(cursor_frames/frame2.png), default;}
+    50% {cursor: url(cursor_frames/frame3.png), default;}
+    75% {cursor: url(cursor_frames/frame4.png), default;}
+    100% {cursor: url(cursor_frames/frame5.png), default;}            
+}
+
+/*
+    alternative js to set cursor to pointer for all elements with cursor:pointer: instead of the css below
+    var elms = document.getElementsByTagName("*");
+    var n = elms.length;
+    for(var i = 0; i < n; i ++) {
+        if(window.getComputedStyle(elms[i]).cursor == "pointer") {
+            elms[i].style.cursor = "url(./images/starcraft_transcript/pointer.png)";
+        }
+    }
+*/
+
+a,
+a img,
+.playbutton,
+.pausebutton,
+.resetbutton,
+#starcraft a, 
+#starcraft .playbutton, 
+#starcraft .pausebutton, 
+#starcraft .resetbutton {
+    cursor: url(pointer.png), pointer !important
+}        
+
+             
+/* Styling of furigana */
+#starcraft .french ruby rt {             
+    border-bottom: 0;
+    color: rgba(0, 0, 0, 0);                         
+    text-decoration: underline dotted rgba(64, 107, 213, 1);  
+    font-size: 0.7em;
+}
+
+#starcraft .french ruby:hover rt { 
+    color: rgba(172, 231, 129, 1);                         
+    text-decoration: underline dotted rgba(255, 255, 255, 0);              
+    font-size: 0.7em;
+}
+/* END Styling of furigana */
+
+
+#starcraft h1
+{
+    color: rgb(172, 231, 129);
+    padding-top: 2.5em;
+}
+
+#starcraft .transcriptText h1{
+    padding-top: 0; 
+}
+
+#starcraft h2,
+#starcraft h3,
+#starcraft narrator
+{
+    color: #99bbff;
+}
+
+#starcraft pre {
+    white-space: pre-line;
+    padding: 50px;
+}
+
+/*Link color*/
+#starcraft a:link,
+#starcraft a
+{
+    color: #00cc00;
+    text-decoration: underline;
+}
+
+/*on hover*/
+#starcraft a:hover
+{
+    color: #ddff99;
+}
+
+/* green terminals are not translations actually*/
+#starcraft .transcriptText.green-terminal {
+    color: rgb(172, 231, 129);
+    padding: 10px 10px 5px 10px;
+}
+
+/* light theme: */
+#starcraft .transcriptBox.outer {
+    background-color: rgb(233, 231, 231);
+    color:#000000;
+    border-radius: 3px;
+    border: 1px solid #000000;
+}
+
+#starcraft .transcriptBox {
+    border-radius: 5px;
+    padding: 5px;
+    position: relative;
+}
+
+/* dark theme: */
+#starcraft .transcriptBox.dark {
+    /*background: #000000;*/
+    border: 1px solid #800000;            
+}
+
+#starcraft .transcriptBox.dark h1 {
+    color: #99bbff;
+}
+
+#starcraft .transcriptBox.outer.dark {
+    background-color: rgba(0,0,0,0.5);
+    padding: 3px;
+    width: 100%;
+    border-radius: 6px;
+    border: 2px solid #331f1f;
+}
+
+#starcraft .transcriptBox .header {        
+    position: absolute;
+    left: 20px;
+}
+
+#starcraft .icon_fr_pos,
+#starcraft .icon_en_pos,
+#starcraft .icon_jp_pos {
+    display: inline-block;
+    padding-left: 10px;
+}
+
+#starcraft .flag-highlighted {
+    border-style: solid;
+    border-width: 2px;
+    border-color: #ddff99;
+    width: 16px;
+    height: 11px;
+}
+
+#starcraft .transcriptText {
+    padding: 30px 10px 5px 10px; /*Leave room for header icons*/
+    color: white;
+}
+
+
+#starcraft .dark .transcriptText .english,
+#starcraft .dark .transcriptText .japanese,
+#starcraft .dark .transcriptText .french,
+#starcraft ul li {
+    color: #b8bbcc;
+
+}
+
+#starcraft .transcriptText .english {
+    display: block;
+}
+
+#starcraft .transcriptText .japanese {
+    display: none;
+}
+
+#starcraft .transcriptText .french {
+    display: none;
+    font-size: medium;
+}

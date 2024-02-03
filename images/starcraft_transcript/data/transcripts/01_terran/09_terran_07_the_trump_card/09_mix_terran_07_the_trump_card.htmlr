@@ -1,0 +1,619 @@
+<h1>The trump card</h1>
+
+<div class='transcriptText'>
+	<div class='japanese'>
+		<h1>切り札</h1>
+		<pre>
+			惑星アンティーガ・プライム
+			秘密ステージエリアにて
+		</pre>
+	</div>
+
+	<div class='french'>
+		<h1> 切り札[きりふだ]</h1>
+
+		<pre>
+		惑星[わくせい]アンティーガ・プライム
+		秘密[ひみつ]ステージエリアにて
+		</pre>
+
+		<pre>
+		切り札[きりふだ] -- trump card
+		惑星[わくせい] -- planet
+		秘密[ひみつ] -- secret
+		ステージ -- stage
+		エリア -- area
+		</pre>
+	</div>
+
+	<div class='english'>
+		<h1>The trump card</h1>
+		<pre>
+		Secret Staging Area
+		Antiga Prime Colony
+		</pre>
+	</div>
+</div>
+
+
+
+<h1>Mission Briefing</h1>
+
+<div class='transcriptText'>
+	<div class='japanese'>
+		勝利条件
+		- サイ・エミッターを敵の基地に設置せよ。
+		- ケリガンの生存を確保せよ。
+	</div>
+
+	<div class='english'>
+		Objectives
+		- Bring the Psi Emitter to the enemy base
+		- Kerrigan must survive
+	</div>
+
+   <div class='french'>
+		 勝利条件[しょうりじょうけん]
+   		- サイ・エミッターを 敵[てき]の基地に 設置[せっち]せよ。
+		- ケリガンの 生存[せいぞん]を 確保[かくほ]せよ。
+		<pre>
+		勝利[しょうり] -- victory
+		条件[じょうけん] -- condition
+		敵[てき] -- enemy
+		基地[きち] -- base
+		設置[せっち] -- installation
+		生存[せいぞん] -- survival
+		確保[かくほ] -- guarantee, ensure
+		</pre>
+   </div>
+</div>
+
+<div class='transcriptText'>
+	<div class='subBlock'>
+		<narrator>Advisor</narrator>
+		<audio class='dialogue'><source src='./audio/01.flac' type='audio/mpeg'></audio>
+
+		<div class='japanese'>
+			司令官、この場所が発見されてしまいました。
+			２時間前に、連邦同盟軍の特殊攻撃部隊がアンティガ・プライムに着陸、
+			こちらの防衛線周辺でベース・キャンプを設営しました。
+			アルクトゥルス・メンスク氏から連絡が入っています。
+		</div>
+
+		<div class='french'>
+			 司令官[しれいかん]、この 場所[ばしょ]が 発見[はっけん]されてしまいました。
+			 ２時間前[にじかんまえ]に、 連邦同盟軍[れんぽうどうめいぐん]の 特殊[とくしゅ] 攻撃[こうげき] 部隊[ぶたい]がアンティガ・プライムに 着陸[ちゃくりく]、
+			こちらの 防衛線[ぼうえいせん] 周辺[しゅうへん]でベース・キャンプを 設営[せつえい]しました。
+			アルクトゥルス・メンスク 氏[し]から 連絡[れんらく]が 入[はい]っています。
+
+			<pre>
+			司令官[しれいかん] -- commander
+			場所[ばしょ] -- place, location
+			発見[はっけん] -- discovery
+			特殊[とくしゅ] -- special
+			攻撃[こうげき] -- attack
+			部隊[ぶたい] -- force, unit
+			着陸[ちゃくりく] -- landing
+			防衛[ぼうえい] -- defense
+			防衛線[ぼうえいせん] -- line of defense
+			周辺[しゅうへん] -- surroundings
+			設営[せつえい] -- construction, set up
+			氏[し] -- Mr.
+			連絡[れんらく] -- contact, communication
+			入る[はいる] -- to enter, to get in
+		   </pre>
+		</div>
+
+		<div class='english'>
+			Commander, our position has been discovered. As of two hours ago, a
+			large Confederate strike force arrived on Antiga Prime and
+			established a base camp within our defensive perimeter. Arcturus
+			Mengsk is calling a meeting.
+		</div>
+	</div>
+</div>
+
+<div class="transcriptText">
+	<div class='subBlock'>
+		<narrator>Mengsk</narrator>
+		<audio class='dialogue'><source src='./audio/02.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			連邦同盟軍の攻撃部隊のことは気になるだろうが、
+			まず、我々は重大な問題を論議しなければならない。
+			我々が奪回してきたデータディスクは、
+			兵器の設計図ではなかったのだ。
+			ケリガン少尉から説明させよう。
+		</div>
+
+		<div class='french'>
+			 連邦同盟軍[れんぽうどうめいぐん]の 攻撃部隊[こうげきぶたい]のことは 気[き]になるだろうが、
+			まず、 我々[われわれ]は 重大[じゅうだい]な 問題[もんだい]を 論議[ろんぎ]しなければならない。
+			 我々[われわれ]が 奪回[だっかい]してきたデータディスクは、
+			 兵器[へいき]の 設計図[せっけいず]ではなかったのだ。
+			ケリガン 少尉[しょうい]から 説明[せつけい]させよう。
+
+			<pre>
+			攻撃部隊[こうげきぶたい] -- strike force
+			気[き]になる -- to be concerned about
+			我々[われわれ] -- we
+			重大[じゅうだい] -- serious, grave
+			問題[もんだい] -- problem, issue
+		   	論議[ろんぎ] -- discussion, debate
+			奪回[だっかい] -- recovery, recapture
+			兵器[へいき] -- weapons
+			設計図[せっけいず] -- blue print, engineering drawing
+			少尉[しょうい] -- second lieutenant
+			説明[せつめい] -- explanation
+		   </pre>
+		</div>
+
+		<div class='english'>
+			Greetings. I know you're all concerned about the Confederate
+			strike force, but first we have a grave matter to discuss. It seems
+			our data discs didn't hold weapon designs after all. Lieutenant
+			Kerrigan will explain.
+		</div>
+	</div>
+</div>
+
+<div class='transcriptText'>
+	<div class='subBlock'>
+		<narrator>Kerrigan</narrator>
+		<audio class='dialogue'><source src='./audio/03.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			連邦同盟軍が感応能力を持った人間を訓練するプログラムを持っているのは知ってるわね。
+			ゴーストにする訓練よ。
+			その研究から、ザーグはゴーストの超能力に同調することがわかっているの。
+		</div>
+
+		<div class='french'>
+			 連邦同盟軍[れんぽうどうめいぐん]が 感応[かのう] 能力[のうりょうく]を 持[も]った 人間[にんげん]を 訓練[くんれん]するプログラムを 持[も]っているのは 知[し]ってるわね。
+			ゴーストにする 訓練[くんれん]よ。
+			その 研究[けんきゅう]から、ザーグはゴーストの 超能力[ちょうのうりょく]に 同調[どうちょう]することがわかっているの。
+
+			<pre>
+			感応[かのう] -- sympathy, response
+			能力[のうりょう] -- ability, capacity
+			感応[かのう]能力[のうりょうく] -- psychic ability
+			持[も]つ -- to hold, to have
+			人間[にんげん] -- human being
+			訓練[くんれん] -- practice, training
+			研究[けんきゅう] -- research, study
+			超能力[ちょうのうりょく] -- extra-sensory ability, psychic ability.
+			同調[どうちょう]する -- attune to (fr: senssible à), synchronise, go along
+		   </pre>
+		</div>
+
+		<div class='english'>
+			You all know that the Confederates run a program for psychically gifted
+			humans, training them to be Ghosts.
+			Those running the program found that the Zerg are attuned to the
+			psychic emanations of Ghosts.
+		</div>
+	</div>
+
+
+	<div class='subBlock'>
+		<narrator>Raynor</narrator>
+		<audio class='dialogue'><source src='./audio/04.flac' type='audio/mpeg'></audio>
+
+		<div class='japanese'>
+			じゃあ、ザーグはきみに会いにきてるのか？
+			いいことずくめだな。
+		</div>
+
+		<div class='french'>
+			じゃあ、ザーグはきみに 会[あ]いにきてるのか？
+			いいことずくめだな。
+
+			<pre>
+			ずくめ -- entire, complete, without exception
+			いいことずくめだな -> one good thing after another
+
+			例文[れいぶん]:
+				規則[きそく]ずくめの生活[せいかつ]
+			  ⇒ a life all bound by rules and regulations
+		   </pre>
+		</div>
+
+		<div class='english'>
+			So the Zerg are here for you, darlin'? This keeps gettin' better
+			and better.
+		</div>
+	</div>
+
+
+	<div class='subBlock'>
+		<narrator>Kerrigan</narrator>
+		<audio class='dialogue'><source src='./audio/05.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			うるさいわね。連邦同盟軍はゴーストとザーグに関連する研究を秘密裏に行ってるの。
+			私たちが盗んだものはパズルの１ピースみたいなものだけど、１番大事なピースだわ。
+			サイエミッターのね。このエミッターは広い範囲でゴーストのテレパシー波を拡大できるの。
+			惑星全土に届くくらいよ。
+		</div>
+
+		<div class='french'>
+			うるさいわね。 連邦同盟軍[れんぽうどうめいぐん]はゴーストとザーグに 関連[かんれん]する 研究[けんきゅう]を 秘密裏[ひみつり]に 行[おこな]ってるの。
+			 私[わたし]たちが 盗[ぬす]んだものはパズルの１ピースみたいなものだけど、 １番[いちばん] 大事[だいじ]なピースだわ。
+			サイエミッターのね。このエミッターは 広[ひろい]い 範囲[はんい]でゴーストのテレパシー 波[は]を 拡大[かくだい]できるの。
+			惑星 全土[ぜんど]に 届[とど]くくらいよ。
+
+			<pre>
+			関連[かんれん] -- relation, relevance
+			に関連する -- in connection with, in relation to
+			研究[けんきゅう] -- research, study
+			秘密裏[ひみつり] -- behind the door/scene
+			盗む[ぬすむ] -- to steal
+			パズル -- puzzle
+			ピース -- piece
+			大事[だいじ] -- important
+			広い[ひろい] -- wide, spacious
+			範囲[はんい] -- extent, scope
+			波[なみ] -- wave
+			-波[は] -- wave (suffix)
+			拡大[かくだい] -- magnification, enlargement
+			全土[ぜんど] -- the whole nation/land
+		   </pre>
+		</div>
+
+		<div class='english'>
+			Shut up. There's been a lot of secret Confederate research
+			surrounding Ghosts and the Zerg. What we stole was a small but
+			critical piece of the puzzle: designs for a Transplanar Psionic Waveform
+			Emitter. The emitters broadcast the neural imprint of a Ghost, but
+			at a much greater magnitude. These things reach accross worlds.
+		</div>
+	</div>
+</div>
+
+<div class='transcriptText'>
+	<div class='subBlock'>
+		<narrator>Arcturus Mengsk</narrator>
+		<audio class='dialogue'><source src='./audio/06.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			連邦同盟軍はサイエミッターを利用して、ザーグをある特定の場所へおびき出しているのだ。
+			司令官、あなたの惑星マー・サラも、選ばれたの一つだったのだよ。
+	   </div>
+		<div class='french'>
+			 連邦同盟軍[れんぽうどうめいぐん]はサイエミッターを 利用[りよう]して、ザーグをある 特定[とくてい]の 場所[ばしょ]へ おびき出[おびきだ]しているのだ。
+			 司令官[しれいかん]、あなたの 惑星[わくせい]マー・サラも、 選[えら]ばれた 場所[ばしょ]の 一つ[ひとつ]だったのだよ。
+			<pre>
+			利用[りよう] -- use, utilisation
+			特定[とくてい] -- specific, particular
+			場所[ばしょ] -- place, location
+			おびき出す -- to lure out, to decoy
+			選ぶ[えらぶ] -- to choose, to select
+			一つ[ひとつ] -- one, one thing
+			</pre>
+		</div>
+
+		<div class='english'>
+			The Confederacy used these Psi Emitters to lure the Zerg into
+			isolated containment areas. Your colony-Mar Sara-Commander, was
+			one such location.
+		</div>
+	</div>
+
+
+	<div class='subBlock'>
+		<narrator>Raynor</narrator>
+		<audio class='dialogue'><source src='./audio/07.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			どういう意味だ？
+		</div>
+		<div class='french'>
+			どういう 意味[いみ]だ？
+		</div>
+		<div class='english'>
+			What are you saying?
+		</div>
+	</div>
+</div>
+
+<div class='transcriptText'>
+	<div class='subBlock'>
+		<narrator>Arcturus Mengsk</narrator>
+		<audio class='dialogue'><source src='./audio/08.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			ザーグが連邦同盟軍によって開発された秘密兵器だと言っているのだ。
+			連邦同盟軍は、あなたたちを兵器実験の対象にしたんだ！
+		</div>
+		<div class='french'>
+			ザーグが 連邦同盟軍[れんぽうどうめいぐん]によって 開発[かいはつ]された 秘密兵器[ひみつへいき]だと 言[い]っているのだ。
+			連邦同盟軍は、あなたたちを 兵器[へいき] 実験[じっけん]の 対象[たいしょう]にしたんだ！
+			<pre>
+			開発[かいはつ] -- development
+			秘密[ひみつ] -- secret
+			兵器[へいき] -- weapon
+			実験[じっけん] -- experiment
+			対象[たいしょう] -- target, object
+			</pre>
+		</div>
+		<div class='english'>
+			I'm saying the Zerg are a secret weapon developed by the Confederacy.
+			I'm saying you were all subjects of a Confederate weapons test.
+		</div>
+	</div>
+
+
+	<div class='subBlock'>
+		<audio class='dialogue'><source src='./audio/09.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			彼らが核兵器でコーハルを破壊し支配を置いた１世紀前と同じように、
+			ザーグを使って他のライバルを一掃しようというのだ。
+			しかも今度はそれを非道行為と言われることはない。
+			ザーグが彼らの研究の賜だと思う者はいないからだ。
+			それどころか、ザーグを壊滅させたとして、英雄に祭り上げられるだろう。
+			連邦同盟軍には罪を贖ってもらわねばならん。
+		</div>
+
+		<div class='french'>
+			 彼[かれ]らが 核兵器[かくへいき]でコーハルを 破壊[はかい]し 支配[しはい]を 置[お]いた １世紀前[いっせいきまえ]と 同[おな]じように、
+			ザーグを 使[つか]って 他[ほか]のライバルを 一掃[いっそう]しようというのだ。
+			しかも 今度[こんど]はそれを 非道行為[ひどうこうい]と 言[い]われることはない。
+			ザーグが 彼[かれ]らの 研究[けんきゅう]の 賜[たま]だと 思[おも]う 者[もの]はいないからだ。
+			それどころか、ザーグを 壊滅[かいめつ]させたとして、 英雄[えいゆう]に 祭[まつ]り 上[あ]げられるだろう。
+			 連邦同盟軍[れんぽうどうめいぐん]には 罪[つみ]を 贖[あがな]ってもらわねばならん。
+			<pre>
+			核兵器[かくへいき] -- nuclear weapon
+			破壊[はかい] -- destruction
+			支配[しはい] -- rule, control
+			置く[おく] -- to put, to place
+			世紀[せいき] -- century
+			同じ[おなじ] -- same
+			同じように[おなじように] -- in the same way
+			使う[つかう] -- to use
+			他[ほか] -- other
+			一掃[いっそう] -- sweep away, elimination
+			非道行為[ひどうこうい] -- atrocity, inhuman act
+			言う[いう] -- to say
+			賜[たま] -- gift, grant
+			思う[おもう] -- to think
+			者[もの] -- person
+			それどころか -- on the contrary
+			壊滅[かいめつ] -- destruction, annihilation
+			英雄[えいゆう] -- hero
+			祭り上げる[まつりあげる] -- to celebrate, to praise
+			罪[つみ] -- crime, sin
+			贖う[あがなう] -- to redeem, to atone
+			</pre>
+		</div>
+
+		<div class='english'>
+			Just as they destroyed Korhal with nuclear weapons to establish
+			dominance a generation ago, they would use the Zerg to put an end
+			to their other rivals. Only this time there'd be no outrage: who could
+			suspect the aliens were their creation? No, they'd be lauded as
+			heroes for coming in and destroying the Zerg. It's time the Confederacy
+			paid for its crimes.
+		</div>
+	</div>
+
+
+	<div class='subBlock'>
+		<audio class='dialogue'><source src='./audio/10.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			こうするのだ。
+			ケリガン少尉に連邦同盟軍基地にサイエミッターを設置してもらう。
+			司令官、あなたは彼女を護送してくれ。
+			ザーグが来れば、連邦同盟軍は封鎖を解くだろう。
+			そこから我々は逃げ出せる。さあ、はじめよう。
+		</div>
+		<div class='french'>
+			こうするのだ。
+			ケリガン 少尉[しょうい]に 連邦同盟軍[れんぽうどうめいぐん] 基地[きち]にサイエミッターを 設置[せっち]してもらう。
+			 司令官[しれいかん]、あなたは 彼女[かのじょ]を 護送[ごそう]してくれ。
+			ザーグが 来[こ]れば、 連邦同盟軍[れんぽうどうめいぐん]は 封鎖[ふうさ]を 解[と]くだろう。
+			そこから 我々[われわれ]は 逃[に]げ 出[だ]せる。さあ、はじめよう。
+			<pre>
+				設置[せっち] -- installation
+				護送[ごそう] -- escort
+				封鎖[ふうさ] -- blockade, isolation
+				解く[とく] -- to solve, to untie
+				逃げ出す[にげだす] -- to run away, to escape
+			</pre>
+		</div>
+		<div class='english'>
+			And I know just the way. Lieutenant	Kerrigan is going to plant an
+			emitter at the Confederate base	camp. Commander, you will provide
+			her with an escort. When the Zerg arrive, they'll break the blockade for
+			us and we'll make our escape. Now get moving.
+		</div>
+	</div>
+</div>
+
+<h1>Mission start</h1>
+
+<div class='transcriptText'>
+	<div class='subBlock'>
+		<narrator>Kerrigan</narrator>
+		<audio class='dialogue'><source src='./audio/12.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			アルクトゥルス、それがいいことだとは思え
+			ないの。たとえ誰であろうと、ザーグを操って
+			襲わせるなんてことはしない方がいいわ。
+		</div>
+		<div class='french'>
+			アルクトゥルス、それがいいことだとは 思[おも]えないの。
+			たとえ 誰[だれ]であろうと、ザーグを 操[あやつ]って
+			 襲[おそ]わせるなんてことはしない 方[ほう]がいいわ。
+			<pre>
+			操る[あやつる] -- to manipulate, to operate
+			襲う[おそう] -- to attack, to assault
+			襲[おそ]わせる -- to make someone attack
+			</pre>
+		</div>
+		<div class='english'>
+			I'm having doubts about this, Arcturus.
+			I just don't think anyone deserves to have the Zerg unleashed on them.
+		</div>
+	</div>
+
+
+	<div class='subBlock'>
+		<narrator>Mengsk</narrator>
+		<audio class='dialogue'><source src='./audio/13.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			今回のことは個人的な感情が入るのもやむを
+			えん。しかし、過去のせいで判断が狂うのは
+			いかん。少尉、指示を実行するのだ。
+		</div>
+		<div class='french'>
+			 今回[こんかい]のことは 個人的[こじんてき]な 感情[かんじょう]が 入[はい]るのもやむをえん。
+			 しかし、 過去[かこ]のせいで 判断[はんだん]が 狂[くる]うのはいかん。
+			 少尉[しょうい]、 指示[しじ]を 実行[じっこう]するのだ。
+			<pre>
+			個人的[こじんてき] -- personal
+			感情[かんじょう] -- feeling, emotion
+			入る[はいる] -- to enter, to get in
+			やむをえん -> やむをえない -- cannot be helped
+			過去[かこ] -- past
+			判断[はんだん] -- judgement, decision
+			狂う[くるう] -- to go mad, to get out of order
+			いかん -> いけない -- must not do
+			少尉[しょうい] -- second lieutenant
+			指示[しじ] -- instruction, order
+			実行[じっこう] -- execution, implementation
+			</pre>
+		</div>
+		<div class='english'>
+			I know you have personal feelings about this,
+			but you can't let your past cloud your judgement.
+			Carry out your orders, lieutenant.
+		</div>
+	</div>
+
+	<div class='subBlock'>
+		<narrator>Kerrigan</narrator>
+		<audio class='dialogue'><source src='./audio/14.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			…了解。
+		</div>
+		<div class='french'>
+			… 了解[りょうかい]。
+		</div>
+		<div class='english'>
+			Yes, sir.
+		</div>
+	</div>
+</div>
+
+<div class='transcriptText'>
+	<narrator>Tip</narrator>
+
+
+	<div class='subBlock'>
+		<div class='japanese'>
+		   &lt;離陸&gt; コマンドを使って建造物を移動させることができます。
+		</div>
+		<div class='french'>
+			&lt; 離陸[りりく]&gt; コマンドを 使[つか]って 建造物[けんぞうぶつ]を 移動[いどう]させることができます。
+			<pre>
+			離陸[りりく] -- takeoff, departure
+			使う[つかう] -- to use
+			建造物[けんぞうぶつ] -- building
+			移動[いどう] -- movement, transfer
+			</pre>
+		 </div>
+		<div class='english'>
+			Use the Liftoff command to move your buildings.
+		</div>
+	</div>
+
+
+    <div class='subBlock'>
+        <div class='japanese'>
+         	サイエンス・ヴェッセルとミサイルタレットは
+         	クロークしている敵ユニットを探知できます。
+      	</div>
+
+		<div class='french'>
+			サイエンス・ヴェッセルとミサイルタレットは
+			クロークしている 敵[てき]ユニットを 探知[たんち]できます。
+			<pre>
+			探知[たんち] -- detection
+			</pre>
+		</div>
+		<div class='english'>
+			Science Vessels and Missile Turrets can detect cloaked enemy units.
+		</div>
+    </div>
+
+
+    <div class='subBlock'>
+      	<div class='japanese'>
+        	コムサットステーションにあるスキャナー・
+        	スウィープも探知能力があります。
+      	</div>
+		<div class='french'>
+			コムサットステーションにあるスキャナー・
+			スウィープも 探知能力[たんちのうりょく]があります。
+			<pre>
+			探知[たんち] -- detection
+			能力[のうりょく] -- ability, capacity
+			</pre>
+		</div>
+		<div class='english'>
+			Comsat Stations can also detect cloaked units with Scanner Sweep.
+		</div>
+   </div>
+</div>
+
+
+
+<h2>After transporting the Psi Emitter to enemy base</h2>
+
+<div class='transcriptText'>
+	<div class='subBlock'>
+		<narrator>Kerrigan</narrator>
+		<audio class='dialogue'><source src='./audio/16.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			サイエミッターを設置。でも、もうこんなことは二度としないって約束してちょうだい。
+		</div>
+		<div class='french'>
+			サイエミッターを 設置[せっち]。でも、もうこんなことは 二度と[にどと]しないって 約束[やくそく]してちょうだい。
+			<pre>
+				設置[せっち] -- installation
+				二度[にど] -- twice
+				二度と[にどと] -- never again
+				約束[やくそく] -- promise, agreement
+				ちょうだい -- please (give me, do for me)
+
+			</pre>
+		</div>
+		<div class='english'>
+			Psi-Emitter in place. Just promise me we'll never do anything like this again.
+		</div>
+	</div>
+
+	<div class='subBlock'>
+		<narrator>Mengsk</narrator>
+		<audio class='dialogue'><source src='./audio/17.flac' type='audio/mpeg'></audio>
+		<div class='french'>
+			 人類[じんるい]を 救[すく]うためには、 我々[われわれ]は 何[なに]をすることも 厭わぬ[いとわぬ]つもりだ。
+			 それほど 我々[われわれ]に 課[か]せられた 責任[せきにん]は 重[おも]いのだ。
+			<pre>
+			人類[じんるい] -- humanity
+			救う[すくう] -- to save, to rescue
+			何[なに] -- what
+			厭わぬ[いとわぬ] -- not to hesitate to do
+			つもり -- intention, plan
+			課す[かす] -- to assign, to impose
+			課せられる[かせられる] -- to be assigned, to be imposed
+			責任[せきにん] -- responsibility
+			重い[おもい] -- heavy, serious
+			</pre>
+		</div>
+		<div class='japanese'>
+			人類を救うためには、我々は何をすることも厭わぬつもりだ。
+			それほど我々に課せられた責任は重いのだ。
+		</div>
+
+		<div class='english'>
+			We will do whatever it takes to save humanity.
+			Our responsibility is too great to do any less.
+		</div>
+	</div>
+</div>
+

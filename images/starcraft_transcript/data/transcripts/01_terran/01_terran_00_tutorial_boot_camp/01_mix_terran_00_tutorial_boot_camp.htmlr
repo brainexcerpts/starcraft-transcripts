@@ -1,0 +1,948 @@
+<h1>Terran Campaign: "rebel yell"</h1>
+
+<div class='transcriptText'>
+	<div class='english'>
+		<h1>Terran Campaign: "rebel yell"</h1>
+	</div>
+
+	<div class='japanese'>
+		<h1>テラン キャンペーン： 反乱の呼び声</h1>
+	</div>
+
+	<div class='french'>
+		<h1>テラン キャンペーン： 反乱[はんらん]の 呼び声[よびごえ]</h1>
+		<pre>
+		反乱[はんらん] -- rebellion, insurrection
+		呼び声[よびごえ] -- call, hail
+		</pre>
+	</div>
+</div>
+
+<h2>Prologue</h2>
+<div class='transcriptText'>
+	<audio controls="">
+		<source src="./audio/trdyroom.flac" type="audio/mpeg">
+	</audio>
+
+	<!-- <img src="./shot_0.png" alt="shot_0.png" width="100%" height="100%"> -->
+
+
+	<div class='japanese'>
+		ギルド戦争終結より10年、 圧制的なテラン連邦同盟軍は、
+		数ある惑星群の中で不動の地位を築き上げていた。
+		その地位はわずか4日前、 思わぬことから崩された。
+		ワープ空間から出現した巨大なエイリアンの艦隊が、 無防備な連邦同盟軍惑星本部チャウ· サラを壊滅したのである。
+		連邦同盟軍は、 次の標的が惑星マー- サラになると危惧し、 連邦同盟軍はあなたを仲裁役として派遣した。
+		惑星司法官として、 あなたはパニックを起こしている住人を落ち着かせ、 保護する指令が与えられている。
+
+	</div>
+
+	<div class='french'>
+		ギルド 戦争[せんそう] 終結[しゅうけつ]より10年、
+		圧制的[あっせいてき]なテラン 連邦同盟[れんぽうどうめい] 軍[ぐん]は、
+		数[かず]ある 惑星[わくせい] 群[ぐん]の中で 不動[ふどう]の 地位[ちい]を 築き上[きずきあ]げていた。
+		その地位はわずか4 日前[よっかまえ]、 思わぬことから 崩[くず]された。
+		ワープ 空間[くうかん]から 出現[しゅつげん]した 巨大[きょだい]なエイリアンの 艦隊[かんたい]が、
+		無防備[むぼうび]な 連邦同盟軍[れんぽうどうめい] 惑星本部[わくせいはんぶ]チャウ·サラを 壊滅[かいめつ]したのである。
+		連邦同盟軍[れんぽうどうめい]は、 次の 標的[ひょうてき]が 惑星マー·サラになると 危惧[きぐ]し、 連邦同盟軍はあなたを
+		仲裁[ちゅうさい] 役[やく]として 派遣[はけん]した。
+		惑星[わくせい] 司法官[しほうかん]として、 あなたはパニックを 起[お]こしている
+		住人[じゅうにん]を 落ち着かせ[おちつかせ]、 保護[ほうご]する 指令[しれい]が 与[あた]えられている。
+
+		 <pre>
+		戦争[せんそう] -- war
+		より -- from, since
+		終結[しゅうけつ] -- end; close
+		圧制的[あっせいてき] -- oppressive; despotic
+		連邦同盟[れんぽうどうめい] -- Federal league
+		軍[ぐん] -- army, troops
+		数[かず]ある -- numerous
+		惑星[わくせい] -- planet
+		群[ぐん] -- group, crowd, swarm
+		惑星群[わくせいぐん] -- planetary system
+		不動[ふどう] -- Immobility、fixed
+		地位[ちい] -- (social) position
+		築き上げる[きずきあげる] -- to build up
+		4日前 -- [よっかまえ] four days before.
+		わずか -- only; merely; (a) little;
+		思[おも]わぬ -- unexpected
+		崩[くず]す -- to destroy, to demolish
+		空間[くうかん] -- space, room, airspace
+		出現[しゅつげん] -- appearance, arrival
+		巨大[きょだい] -- huge, gigantic, enormous
+		艦隊[かんたい] -- fleet
+		無防備[むぼうび] -- defenseless
+		本部[ほんぶ] -- headquarters
+		壊滅[かいめつ] -- destruction, annihilation
+		標的[ひょうてき] -- target
+		危惧[きぐ] -- apprehension, fear
+		仲裁[ちゅうさい] -- arbitration, mediation
+		派遣[はけん] -- temporary employee.
+		司法官[しほうかん] -- officer of the court
+		起こす[おこす] -- to raise, to cause, to wake someone
+		住人[じゅうにん] -- residents
+		落ち着く[おちつく] -- to calm down
+		保護[ほうご]する -- protect, safeguard
+		指令[しれい] -- command, instruction
+		</pre>
+	</div>
+
+	<div class='english'>
+		In the decade since the end of the Guild Wars,
+		the oppressive Terran Confederacy has stood unchallenged in its
+		supremacy over colonized space.
+
+		All of that changed four days ago when a large alien fleet emerged
+		from warp-space and laid waste to the unsuspecting Confederate
+		colony of Chau Sara.
+
+		The Confederacy, fearing that the alien fleet's next target will be
+		the colony of Mar Sara, has sent you to intervene. Acting as
+		Magistrate, you are to safeguard the  colonists and keep their panic from
+		escalating any further.
+	</div>
+</div>
+
+
+<!-- <img src="./shot_1.png" alt="shot_1.png" width="100%" height="100%"> -->
+
+<h1>Boot camp</h1>
+
+<div class='transcriptText'>
+	<div class="japanese">
+		<h1>Tutorial: ブート・キャンプ</h1>
+		<pre>
+			惑星司法官のオフィス
+			惑星マー ．サラ
+			2499年12月12日 2:25 SCT
+		</pre>
+	</div>
+
+	<div class="french">
+		<h1>Tutorial: ブート・キャンプ</h1>
+		<pre>
+			惑星司法官[わくせいしほうかん]のオフィス
+			惑星[わくせい]マー ．サラ
+			2499年12月12日 2:25 SCT
+		</pre>
+	</div>
+
+
+	<div class="english">
+		<h1>Tutorial: "boot camp"</h1>
+
+		<pre>
+			Office of the Colonial Magistrate
+			Mar Sara Colony
+			2:25 SCT, 12.12.2499
+		</pre>
+	</div>
+</div>
+
+<h1>Mission Briefing</h1>
+
+<div class='transcriptText'>
+	<div class="japanese">
+		<h2>勝利条件</h2>
+		- サプライデポを3基建設せよ
+		- リファイナリーを建設せよ。
+		- ペスペネガスを100採集せよ。
+	</div>
+
+	<div class="french">
+		<h2> 勝利[しょうり] 条件[じょうけん]</h2>
+		- サプライデポを3 基[さんき] 建設[けんせつ]せよ
+		- リファイナリーを建設せよ。
+		- ペスペネガスを100 採集[さいしゅう]せよ。
+
+		<pre>
+		勝利[しょうり] -- victory
+		条件[じょうけん] -- condition
+		基[き] -- counter for installed or mounted objects (suffix)
+		建設[けんせつ] -- construction
+		建設[けんせつ]する -- to build, to construct
+		採集[さいしゅう] -- collecting
+
+		せよ≈ しろ (するの 命令形[めいれいけい]) (sounds noble/aristocratic)
+		</pre>
+	</div>
+
+
+	<div class="english">
+		<h2>Objectives</h2>
+		- Build 3 Supply Depots
+		- Build a Refinery
+		- Gather 100 Vespene Gas
+	</div>
+</div>
+
+
+
+<div class='transcriptText'>
+	<audio class="dialogue"><source src="./audio/t0b00tad.flac" type="audio/mpeg"></audio>
+	<narrator>Advisor</narrator>
+	<div class="japanese">
+		惑星マー ．サラへようこそ、 司法官。
+		ご要望通り、 設備の使用方法についてのデモをご用意しておきました。
+		必要なときにいつでもご覧になれます。
+
+	</div>
+
+	<div class="french">
+		惑星マー ．サラへようこそ、 司法官。
+		ご要望[ようぼう] 通[どう]り、 設備[せつび]の使用方法についてのデモをご用意しておきました。
+		必要なときにいつでもご覧になれます。
+		<pre>
+		要望[ようぼう] -- request, demand
+		-通[どう]り -- (suffix) in accordance to
+		</pre>
+	</div>
+
+	<div class='english'>
+		Welcome to Mar Sara, Magistrate. The equipment demonstration you
+		requested is prepared and may be initiated at your convenience.
+	</div>
+</div>
+
+
+
+<div class='transcriptText'>
+	<audio class='dialogue'><source src='./audio/t0b01tad.flac' type='audio/mpeg'></audio>
+
+	<div class="japanese">
+		スタートを選択するとデモをご覧になります。
+		必要ない場合は(tutorial)をスキップ選択してください。
+	</div>
+
+	<div class="french">
+		スタートを 選択[せんたく]するとデモを ご覧[ごらん]になります。
+		必要[ひつよう]ない 場合[ばあい]は(tutorial)をスキップ選択してください。
+		<pre>
+		選択[せんたく] -- selection, choice
+		ご覧[ごらん] -- viewing
+		必要[ひつよう] -- necessary, needed
+		場合[ばあい] -- case, situation
+		</pre>
+	</div>
+
+	<div class='english'>
+		Simply select "Start" to begin the
+		demonstration. You may skip the
+		demonstration by selecting "Skip Tutorial."
+	</div>
+</div>
+
+<h2>The following happens when no action is taken</h2>
+
+<div class='transcriptText'>
+
+	<div class="subBlock">
+		<audio class='dialogue'><source src='./audio/t0b02tad.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			よろしければ、「スタート」を選択してください。
+		</div>
+
+		<div class='english'>
+			Whenever you feel you are ready you may select "Start."
+		</div>
+	</div>
+
+	<div class='subBlock'>
+		<audio class='dialogue'><source src='./audio/t0b03tad.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			いつでもどうぞ。
+		</div>
+		<div class='english'>
+			Anytime is fine.
+		</div>
+	</div>
+
+	<div class='subBlock'>
+		<audio class='dialogue'><source src='./audio/t0b04tad.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+		よろしいですか？
+		</div>
+		<div class='english'>
+		You're okay to go.
+		</div>
+	</div>
+
+	<div class='subBlock'>
+		<audio class='dialogue'><source src='./audio/t0b05tad.flac' type='audio/mpeg'></audio>
+			<div class='japanese'>
+			司法官？ どうなさいました？
+			</div>
+			<div class='english'>
+			Magistrate? Are you all right?
+			</div>
+	</div>
+</div>
+
+
+<div class='transcriptText'>
+
+	<p>(no audio)</p>
+	<div class='subBlock'>
+		<div class='japanese'>
+			報告終了。
+		</div>
+		<div class='french'>
+			報告終了[ほうこくしゅうりょう]。
+			<pre>
+			報告[ほうこく] -- report
+			終了[しゅうりょう] -- end, close
+			</pre>
+		</div>
+		<div class='english'>
+			End of Briefing.
+		</div>
+	</div>
+
+	<div class='subBlock'>
+		<div class='japanese'>
+			報告終了。
+			（本気ですよ）
+		</div>
+		<div class='french'>
+			報告終了。
+			（本気[ほんき]ですよ）
+			<pre>
+			本気[ほんき] -- seriously, really
+			</pre>
+		</div>
+		<div class='english'>
+			End of Briefing.
+			(Really.)
+		</div>
+	</div>
+
+
+	<div class='subBlock'>
+		<div class='japanese'>
+			報告終了。
+			(今度こそ本当に
+			終了ですからね！)
+		</div>
+		<div class='french'>
+			報告終了。
+			(今度[こんど]こそ 本当[ほんとう]に
+			終了ですからね！)
+			<pre>
+			今度[こんど] -- now, this time
+			本当[ほんとう]に -- really, truly
+			</pre>
+		</div>
+		<div class='english'>
+			End of Briefing.
+			(This time I mean it!)
+		</div>
+	</div>
+
+	<div class='subBlock'>
+		<div class='japanese'>
+			報告終了。
+			(終わりだって言ったでしょ？)
+		</div>
+		<div class='french'>
+			報告終了。
+			( 終わり[おわり]だって 言[い]ったでしょ？)
+			<pre>
+			終わる[おわる] -- to finish, to end
+			言う[いう] -- to say
+			</pre>
+		</div>
+		<div class='english'>
+			End of Briefing.
+			(Hey, it's your dime anyway.)
+		</div>
+	</div>
+</div>
+
+<div class='transcriptText'>
+	<p>(no audio)</p>
+	<div class='japanese'>
+		<pre>
+		報告終了。
+		中華風レモンチキン
+		鶏胸肉の切り身 1ポンド
+		コーンスターチ スプーン1杯
+		濃口しょうゆ スプーン3杯
+		レモンのスライス 一切れ
+
+		Starcraftの調理師たち
+		コック長 澤永敏郎
+		ソムリエ 細井俊宏
+		プログラム料理 佐々木均
+		日本語料理高橋ジェイド
+		門井里実
+		</pre>
+	</div>
+
+	<div class='french'>
+		<pre>
+		報告終了。
+		中華風[ちゅうかふう]レモンチキン
+		鶏胸肉[むねにく]の 切り身[きりみ] 1ポンド
+		コーンスターチ スプーン1杯
+		濃口[こいくち]しょうゆ スプーン3杯
+		レモンのスライス 一切れ[ひときれ]
+
+		Starcraftの 調理師[ちょうりし]たち
+		コック 長[ちょう] 澤永敏郎
+		ソムリエ 細井俊宏
+		プログラム 料理[りょうり] 佐々木均
+		日本語料理[にほんごりょうり]高橋ジェイド
+		門井里実
+		</pre>
+
+		<pre>
+		中華風[ちゅうかふう] -- Chinese style
+		鶏胸肉[むねにく] -- chicken breast
+		切り身[きりみ] -- slice
+		コーンスターチ -- corn starch
+		濃口[こいくち]しょうゆ -- dark soy sauce
+		スプーン -- spoon
+		スライス -- slice
+		一切れ[ひときれ] -- one slice
+		調理師[ちょうりし] -- cook, chef
+		コック 長[ちょう] -- head chef
+		澤永敏郎[さわながとしろう] -- Sawanaga Toshiro
+		ソムリエ -- sommelier
+		細井俊宏[ほそいとしひろ] -- Hosoi Toshihiro
+		プログラム料理[りょうり] -- programming cooking
+		佐々木均[ささきひとし] -- Sasaki Hitoshi
+		日本語料理[にほんごりょうり] -- Japanese (language) cooking
+		高橋ジェイド[たかはしじぇいど] -- Takahashi Jade
+		門井里実[かどいさとみ] -- Kadoi Satomi
+	</div>
+
+	<div class='english'>
+		<pre>
+		End of Briefing.
+		CHINESE LEMON CHICKEN
+		1 pound sliced chicken breast.
+		1 tsp corn starch.
+		3 tbsp soy sauce (dark).
+		1 sliced lemon.
+		</pre>
+	</div>
+</div>
+
+
+<h1>Mission Start</h1>
+
+<div class='transcriptText'>
+
+	<div class='subBlock'>
+		<narrator>Advisor</narrator>
+		<audio class='dialogue'><source src='./audio/t0m00tad.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			戦場での建設と資源の採集に、
+			T-  280型SCVは欠かせないユニットです
+		</div>
+
+		<div class='french'>
+			戦場[せんじょ]での 建設[けんせつ]と 資源[しげん]の 採集[さいしゅう]に、
+			T-  280型[にひやくはちじゅう] SCV[エス　シー　ヴィー]は 欠[か]かせないユニットです
+
+			<pre>
+			戦場[せんじょ] -- battlefield
+			建設[けんせつ] -- construction
+			採集[さいしゅう] -- collecting
+			資源[しげん] -- resources
+			欠[か]かせない -- vital, fundamental, imperative
+			</pre>
+		</div>
+
+		<div class='english'>
+			The T-280 SCV is the cornerstone of our hostile-environment
+			construction and resource gathering operations.
+		</div>
+	</div>
+
+
+
+	<div class='subBlock'>
+		<narrator>SCV</narrator>
+		<audio class='dialogue'><source src='./audio/roger.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			ラジャー！
+		</div>
+		<div class='french'>
+			ラジャー！
+			<pre>
+				roger!
+			</pre>
+		</div>
+		<div class='english'>
+			Roger That !
+		</div>
+	</div>
+</div>
+
+
+<div class='transcriptText'>
+	<div class='subBlock'>
+		<narrator>Advisor</narrator>
+		<audio class='dialogue'><source src='./audio/t0m01tad.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			本拠地を拡大させるには、多くのSCVが必要です。
+		</div>
+
+		<div class='french'>
+			本拠地[ほんきょち]を 拡大[かくだい]させるには、多く[おおく] のSCVが必要です。
+			<pre>
+			本拠地[ほんきょち] -- base, headquarters
+			拡大[かくだい] -- magnification, expansion
+			多く[おおく] -- many, much
+			</pre>
+		</div>
+
+
+		<div class='english'>
+			In order to build a thriving colony, numerous SCVs are necessary.
+		</div>
+	</div>
+
+	<div class='subBlock'>
+		<narrator>Advisor</narrator>
+		<audio class='dialogue'><source src='./audio/t0m21tad.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			コマンドセンターで新しいSCVを生産できます。
+		</div>
+
+		<div class='french'>
+			コマンドセンターで 新しい[あたらしい]SCVを 生産[せいさん]できます。
+			<pre>
+			新しい[あたらしい] -- new
+			生産[せいさん] -- production
+			</pre>
+		</div>
+
+		<div class='english'>
+			You can build additional SCVs at
+			a Command Center.
+		</div>
+	</div>
+</div>
+
+<div class='transcriptText'>
+	<p>(no audio)</p>
+	<div class='subBlock'>
+		<div class='english'>
+			- Select the Command Center.
+			- Click on the Build SCV button.
+		</div>
+		<div class='japanese'>
+			- コマンドセンターを選択します。
+			- &ltSCV&gtボタンをクリックします。
+		</div>
+	</div>
+</div>
+
+<div class='transcriptText'>
+	<div class='subBlock'>
+		<audio class='dialogue'><source src='./audio/t0m22tad.flac' type='audio/mpeg'></audio>
+		<div class="'english">
+			It is these blue crystals that are source of minerals.
+			Use your SCVs to gather additional minerals.
+		</div>
+		<div class='japanese'>
+			この青いクリスタルが資源です。
+			SCVにミネラルを採集させます。
+		</div>
+
+		<div class='french'>
+			この 青い[あおい]クリスタルが 資源[しげん]です。
+			SCVにミネラルを 採集[さいしゅう]させます。
+
+			<pre>
+			青い[あおい] -- blue
+			資源[しげん] -- resources
+			採集[さいしゅう] -- collecting
+			</pre>
+		</div>
+	</div>
+</div>
+
+
+<h2>After making SCV</h2>
+
+<div class='transcriptText'>
+	<div class='subBlock'>
+		<narrator>Advisor</narrator>
+		<audio class='dialogue'><source src='./audio/t0m24tad.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			ユニットを追加するときは、ユニットをサポート
+			できる数だけサプライデポが必要です。
+		</div>
+
+		<div class='french'>
+			ユニットを 追加[ついか]するときは、ユニットをサポート
+			できる 数[かず]だけサプライデポが 必要[ひつよう]です。
+			<pre>
+			追加[ついか]する -- to add, to supplement
+			</pre>
+		</div>
+
+		<div class='english'>
+			In order to equip additional personnel you
+			must have enough supply depots to support them.
+		</div>
+	</div>
+
+	<div class='subBlock'>
+		<narrator>Advisor</narrator>
+		<audio class='dialogue'><source src='./audio/t0m25tad.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			SCVがサプライデポを建設できます。
+		</div>
+		<div class='french'>
+			SCVがサプライデポを 建設[けんせつ]できます。
+			<pre>
+			建設[けんせつ] -- construction
+			</pre>
+		</div>
+		<div class='english'>
+			You can use SCV's to build additional supply
+			depots.
+		</div>
+	</div>
+
+</div>
+
+
+<div class="transcriptText">
+	<p>(no audio)</p>
+	<div class='subBlock'>
+		<narrator>Instruction</narrator>
+		<div class='japanese'>
+			- SCVを選択します。
+			- &lt構造物を建設&gtボタンをクリックします。
+			- &ltサプライデポ建設&gtボタンをクリックします。
+		</div>
+
+		<div class='french'>
+			- SCVを 選択[せんたく]します。
+			- &lt 構造物[けんぞうぶつ]を建設&gtボタンをクリックします。
+			- &ltサプライデポ建設&gtボタンをクリックします。
+
+			<pre>
+			構造物[けんぞうぶつ] -- structure, architectural structure.
+			</pre>
+		</div>
+
+		<div class='english'>
+			- Select an SCV.
+			- Click on the Build Structure button.
+			- Click on the Build Supply Depot button.
+		</div>
+	</div>
+</div>
+
+<h2>After supply depot construction</h2>
+
+<div class='transcriptText'>
+	<p>(no audio)</p>
+	<div class='subBlock'>
+		<narrator>Tip</narrator>
+		<div class='japanese'>
+			メッセージを受け取ったあとにスペースキーを押すと、
+			メッセージを発した部分にセンタリングできます。
+		</div>
+		<div class='french'>
+			メッセージを 受け取った[うけとった]あとにスペースキーを 押す[おす]と、
+			メッセージを 発した[はっした] 部分[ぶぶん]にセンタリングできます。
+			<pre>
+			受け取る[うけとる] -- to receive, to get
+			押す[おす] -- to push, to press
+			発する[はっする] -- to emit
+			部分[ぶぶん] -- part, portion
+			</pre>
+		</div>
+		<div class='english'>
+			After receiving a transmission, you can use the SPACE BAR to center on
+			the source of the transmission.
+		</div>
+	</div>
+</div>
+
+<div class='transcriptText'>
+	<div class='subBlock'>
+		<narrator>Advisor</narrator>
+		<audio class='dialogue'><source src='./audio/t0m28tad.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			司法官、資源倉庫が空になりました。
+		</div>
+
+		<div class='french'>
+			司法官、資源 倉庫[そうこう]が 空[から]になりました。
+			<pre>
+			倉庫[そうこ] -- storehouse
+			空[から] -- empty
+			</pre>
+		</div>
+
+		<div class='english'>
+			Magistrate, our stockpile of minerals has run out.
+		</div>
+	</div>
+</div>
+
+<div class='transcriptText'>
+	<p>(no audio)</p>
+	<div class='subBlock'>
+		<narrator>Tip</narrator>
+		<div class='japanese'>
+			資源の総量はスクリーンの右上に表示されています。
+		</div>
+
+		<div class='french'>
+			資源の 総量[そうりょう]はスクリーンの 右上[みぎうえ]に 表示[ひょうじ]されています。
+			<pre>
+			総量[そうりょう] -- aggregate amount
+			右上[みぎうえ] -- upper right
+			表示[ひょうじ] -- display
+			</pre>
+		</div>
+
+		<div class='english'>
+			Your resource total is displayed in the upper right corner of the screen.
+		</div>
+	</div>
+</div>
+
+<div class='transcriptText'>
+	<div class='subBlock'>
+		<narrator>Advisor</narrator>
+		<audio class='dialogue'><source src='./audio/t0m29tad.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			SCVを選択して「採集」コマンドをクリスタルの上でクリックすると、クリスタルを採集できます
+		</div>
+
+		<div class='english'>
+			Select an SCV and use the gather command on the crystals to collect more minerals.
+		</div>
+
+	</div>
+</div>
+
+<h2>After Refinery construction</h2>
+
+<div class='transcriptText'>
+	<p>(no audio)</p>
+	<div class='subBlock'>
+		<div class='english'>
+			Vespene Gas counter activated.
+		</div>
+
+		<div class='japanese'>
+			ベスペネガスのカウンターが起動しました。
+		</div>
+	</div>
+</div>
+
+<div class='transcriptText'>
+	<div class='subBlock'>
+		<narrator>Advisor</narrator>
+		<audio class='dialogue'><source src='./audio/t0m31tad.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			リファイナリーは未精製のベスペネガスを、
+			SCVが採集できる形に加工します
+		</div>
+
+		<div class='french'>
+			リファイナリーは 未精製[みせいせい]のベスペネガスを、
+			SCVが採集できる 形[かたち]に 加工[かこう]します
+
+			<pre>
+			未精製[みせいせい] -- un-refined
+			形[かたち] -- form, shape
+			加工[かこう] -- manufacturing, processing
+			</pre>
+		</div>
+
+		<div class='english'>
+			The Refinery processes raw Vespene gas,
+			converting it into a form which your SCVs can gather.
+		</div>
+	</div>
+</div>
+
+<div class='transcriptText'>
+	<p>(no audio)</p>
+	<div class='subBlock'>
+		<narrator>Note</narrator>
+		<div class='japanese'>
+			SCVをたくさん使ってベスペネガスを採集することはできますが、
+			リファイナリーの中には1度に1体のSCVしか入ることができません。
+		</div>
+
+		<div class='french'>
+			SCVをたくさん 使って[つかって]ベスペネガスを採集することはできますが、
+			リファイナリーの 中[なか]には1度に1体のSCVしか入ることができません。
+
+			<pre>
+			使う[つかう] -- to use
+			中[なか] -- inside
+			1体[いったい] -- one unit
+			</pre>
+		</div>
+
+		<div class='english'>
+			Multiple SCVs can gather Vespene from the same Refinery,
+			but only one SCV can be inside the Refinery at a time.
+		</div>
+	</div>
+</div>
+
+
+<h2>When moving marines far from base</h2>
+
+<div class='transcriptText'>
+	<narrator>Marine</narrator>
+
+	<div class='subBlock'>
+		<audio class='dialogue'><source src='./audio/t0m33tma.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			話させてもらってもかまわねぇですか？
+		</div>
+		<div class='french'>
+			話[はな]させてもらってもかまわねぇですか？
+			<pre>
+			話[はな]す -- to speak
+			話[はな]させる -- to let speak
+			話[はな]させてもらう -- to be allowed to speak
+			</pre>
+		</div>
+		<div class='english'>
+			Permission to speak freely, sir?
+		</div>
+	</div>
+
+	<div class='subBlock'>
+		<audio class='dialogue'><source src='./audio/t0m34tma.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			オレ達をうまく使うコツってのがあるんでさぁ。
+
+			敵地に行くのに防御しながら進みてぇときは
+			&lt;攻撃&gt;コマンドを使うといいんですよ。
+
+			敵の攻撃なんか無視して、とにかく目的地に
+			着こうってときは&lt;移動&gt;コマンドを使うんですよ。
+
+			さぁ、どうされますかい？
+		</div>
+
+		<div class='french'>
+			オレ 達[たち]をうまく使うコツってのがあるんでさぁ。
+
+			敵地[てきち]に 行[い]くのに 防御[ぼうきょ]しながら進[すす]みてぇときは
+			&lt; 攻撃[こうげき]&gt;コマンドを使うといいんですよ。
+
+			敵の攻撃なんか 無視[むし]して、とにかく 目的地[もくてきち]に
+			着[つ]こうってときは&lt;移動[いどう]&gt;コマンドを使うんですよ。
+
+			さぁ、どうされますかい？
+
+			<pre>
+			オレ -- I (masculine)
+			達[たち] -- plural suffix
+			コツ -- knack, trick
+			敵地[てきち] -- enemy territory
+			行く[いく] -- to go
+			進む[すすむ] -- to advance
+			防御[ぼうきょ] -- defense
+			攻撃[こうげき] -- attack
+			無視[むし] -- disregard, ignore
+			目的地[もくてきち] -- destination
+			着く[つく] -- to arrive
+			移動[いどう] -- movement
+			</pre>
+		</div>
+
+
+		<div class='english'>
+			I'm not sure you know what you're doing.
+
+			If you're going to send us into hostile
+			territory and you want us to defend
+			ourselves, use the ATTACK command.
+
+			If you want us to ignore enemy fire and go
+			exactly to the spot you've targeted, use the MOVE command.
+		</div>
+	</div>
+</div>
+
+<div class='transcriptText'>
+	<p>(no audio)</p>
+	<div class='subBlock'>
+		<narrator>Tip</narrator>
+		<div class='japanese'>
+			右クリックでもっとも適したコマンドを自動で行えるようになっています。
+
+
+			- 地面を右クリックすると&lt移動&gtコマンドになります。
+			- 敵ユニットや敵の基地を右クリックすると、&lt攻撃&gtコマンドになります。
+		</div>
+
+		<div class='french'>
+			右[みぎ]クリックでもっとも 適[てき]したコマンドを 自動[じどう]で
+			行える[おこなえる]ようになっています。
+
+			- 地面を右クリックすると&lt移動&gtコマンドになります。
+			- 敵[てき]ユニットや敵の基地を右クリックすると、&lt 攻撃[こうげき]&gtコマンドになります。
+
+			<pre>
+			右[みぎ] -- right
+			適[てき] -- suitable, appropriate
+			自動[じどう] -- automatic
+			行う[おこなう] -- to do, to perform
+			地面[じめん] -- ground
+			敵[てき] -- enemy
+			基地[きち] -- base
+			攻撃[こうげき] -- attack
+			</pre>
+		</div>
+
+		<div class='english'>
+			You can click with the Right Mouse Button to issue Auto Commands.
+
+			- Right clicking on the ground issues a move command.
+			- Right clicking on an enemy issues an attack command.
+		</div>
+	</div>
+
+</div>
+
+<h2>After gathering 100 Vespene Gas</h2>
+
+
+<div class='transcriptText'>
+	<narrator>Advisor</narrator>
+	<audio class='dialogue'><source src='./audio/t0m27tad.flac' type='audio/mpeg'></audio>
+	<div class='japanese'>
+		以上で設備のデモは終了です。
+		マー・サラ基地には通信設備もそろっています。
+	</div>
+
+	<div class='french'>
+		以上[いじょう]で 設備[せつび]のデモは終了です。
+		マー・サラ 基地[きち]には 通信設備[つうしんせつび]も そろっています。
+
+		<pre>
+		以上[いじょう] -- the end, conclusion
+		設備[せつび] --  facilities; installation
+		基地[きち] -- base
+		通信設備[つうしんせつび] -- transmission equipment.
+		そろう -- to be complete, to be all present
+		</pre>
+	</div>
+
+	<div class='english'>
+		This concludes the equipment demonstration. There will now be a fully
+		catered reception at Mar Sara Base.
+	</div>
+</div>
+

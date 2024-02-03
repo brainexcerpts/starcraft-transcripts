@@ -1,0 +1,136 @@
+    // Starcraft shortcuts 
+    // $1 : designates where the cursor will be after the snippet is inserted
+    // resourceExtname == .htmlr : only works in files with the extension .htmlr
+    // (avoid conflicts with other shortcuts)
+    {
+        "key": "ctrl+d",
+        "command": "editor.action.insertSnippet",
+        "when": "editorTextFocus && resourceExtname == .htmlr", 
+        "args": {
+            "snippet": 
+                //"<div class='$1'>\n${TM_SELECTED_TEXT}\n</div>"     
+
+                // Will preserve the indentation of the selected text,
+                // however, you need to press tab to make the cursor go to the right place, 
+                // (contrary to the previous snippet)                
+                "${1:${TM_SELECTED_TEXT/^([ \\t]*)[\\s\\S]*$/$1/}}<div class='$0'>\n${TM_SELECTED_TEXT/^(.*?)$(\\r?\\n)?/\t$1$2/gm}\n$1</div>" 
+        }
+    },
+    {
+        "key": "ctrl+shift+j",
+        "command": "editor.action.insertSnippet",
+        "when": "editorTextFocus && resourceExtname == .htmlr", 
+        "args": {            
+            //"snippet": "<div class='japanese'>\n${TM_SELECTED_TEXT}\n</div>"
+            "snippet": "${1:${TM_SELECTED_TEXT/^([ \\t]*)[\\s\\S]*$/$1/}}<div class='japanese'>\n${TM_SELECTED_TEXT/^(.*?)$(\\r?\\n)?/\t$1$2/gm}\n$1</div>$0" 
+        }
+    },
+    {
+        "key": "ctrl+shift+f",
+        "command": "editor.action.insertSnippet",
+        "when": "editorTextFocus && resourceExtname == .htmlr", 
+        "args": {
+            //"snippet": "<div class='french'>\n${TM_SELECTED_TEXT}\n</div>"
+            "snippet": "${1:${TM_SELECTED_TEXT/^([ \\t]*)[\\s\\S]*$/$1/}}<div class='french'>\n${TM_SELECTED_TEXT/^(.*?)$(\\r?\\n)?/\t$1$2/gm}\n$1</div>$0" 
+        }
+    },
+    {
+        "key": "ctrl+shift+e",
+        "command": "editor.action.insertSnippet",
+        "when": "editorTextFocus && resourceExtname == .htmlr", 
+        "args": {
+            //"snippet": "<div class='english'>\n${TM_SELECTED_TEXT}\n</div>"
+            "snippet": "${1:${TM_SELECTED_TEXT/^([ \\t]*)[\\s\\S]*$/$1/}}<div class='english'>\n${TM_SELECTED_TEXT/^(.*?)$(\\r?\\n)?/\t$1$2/gm}\n$1</div>$0" 
+        }
+    },
+    {
+        "key": "ctrl+shift+t",
+        "command": "editor.action.insertSnippet",
+        "when": "editorTextFocus && resourceExtname == .htmlr", 
+        "args": {
+            //"snippet": "<div class='transcriptText'>\n${TM_SELECTED_TEXT}\n</div>"
+            "snippet": "${1:${TM_SELECTED_TEXT/^([ \\t]*)[\\s\\S]*$/$1/}}<div class='transcriptText'>\n${TM_SELECTED_TEXT/^(.*?)$(\\r?\\n)?/\t$1$2/gm}\n$1</div>$0" 
+        }
+    },
+    {
+        "key": "ctrl+shift+m",
+        "command": "editor.action.insertSnippet",
+        "when": "editorTextFocus && resourceExtname == .htmlr", 
+        "args": {
+            "snippet": "<div class='transcriptText'>\n\t<div class='english'>\n\t\t${TM_SELECTED_TEXT}\n\t</div>\n\t<div class='japanese'>\n\n\t</div>\n\t<div class='french'>\n\n\t</div>\n</div>"
+            //"snippet": "${1:${TM_SELECTED_TEXT/^([ \\t]*)[\\s\\S]*$/$1/}}<div class='transcriptText'>\n${TM_SELECTED_TEXT/^(.*?)$(\\r?\\n)?/\t$1$2/gm}\n$1</div>$0" 
+        }
+    },
+    {
+        "key": "ctrl+shift+s",
+        "command": "editor.action.insertSnippet",
+        "when": "editorTextFocus && resourceExtname == .htmlr", 
+        "args": {
+            //"snippet": "<div class='transcriptText'>\n${TM_SELECTED_TEXT}\n</div>"
+            "snippet": "${1:${TM_SELECTED_TEXT/^([ \\t]*)[\\s\\S]*$/$1/}}<div class='subBlock'>\n${TM_SELECTED_TEXT/^(.*?)$(\\r?\\n)?/\t$1$2/gm}\n$1</div>$0" 
+        }
+    },
+    {
+        "key": "ctrl+shift+a",
+        "command": "editor.action.insertSnippet",
+        "when": "editorTextFocus && resourceExtname == .htmlr", 
+        "args": {
+            //"snippet": "<audio class='dialogue'><source src='./audio/$1${TM_SELECTED_TEXT}.wav' type='audio/mpeg'></audio>"
+            // from : D:\DOCUMENTS\_Lang_japanese_materials\stacraft japanese\campaign\01_terran\00_tutorial\t0b03tad.wav (entire selection)
+            // extract : t0b03tad.wav
+            // match path and file name  then only keep the file name ($2)
+            "snippet": "<audio class='dialogue'><source src='./audio/$1${TM_SELECTED_TEXT/(.*\\\\)([^\\\\]+)/$2/}' type='audio/mpeg'></audio>"
+            
+            
+            
+        }
+    },
+    {
+        "key": "ctrl+enter",
+        "command": "editor.action.insertSnippet",
+        "when": "editorTextFocus && resourceExtname == .htmlr", 
+        "args": {
+            "snippet": "<p>${TM_SELECTED_TEXT}</p>"
+        }
+    },
+    {
+        "key": "shift+enter",
+        "command": "editor.action.insertSnippet",
+        "when": "editorTextFocus && resourceExtname == .htmlr", 
+        "args": {
+            "snippet": "<br>\n"
+        }
+    },
+    {
+        "key": "ctrl+h",
+        "command": "editor.action.insertSnippet",
+        "when": "editorTextFocus && resourceExtname == .htmlr", 
+        "args": {
+            "snippet": "<h1>${TM_SELECTED_TEXT}</h1>"
+        }
+    },
+    {
+        "key": "ctrl+2",
+        "command": "editor.action.insertSnippet",
+        "when": "editorTextFocus && resourceExtname == .htmlr", 
+        "args": {
+            "snippet": "<h2>${TM_SELECTED_TEXT}</h2>"
+        }
+    },
+    {
+        "key": "ctrl+n",
+        "command": "editor.action.insertSnippet",
+        "when": "editorTextFocus && resourceExtname == .htmlr", 
+        "args": {
+            "snippet": "<narrator>${TM_SELECTED_TEXT}</narrator>"
+        }
+    }
+    ,
+    {
+        "key": "ctrl+p",
+        "command": "editor.action.insertSnippet",
+        "when": "editorTextFocus && resourceExtname == .htmlr", 
+        "args": {
+            "snippet": "<pre>\n\t${TM_SELECTED_TEXT}\n</pre>"
+        }
+    }  

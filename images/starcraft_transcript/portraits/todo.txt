@@ -1,0 +1,2 @@
+TODO:
+catpure gif portraits and automatically place them along the narrators' names 

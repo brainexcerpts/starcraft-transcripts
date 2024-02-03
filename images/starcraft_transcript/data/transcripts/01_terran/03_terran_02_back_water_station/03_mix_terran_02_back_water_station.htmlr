@@ -1,0 +1,604 @@
+
+<h1>Backwater station</h1>
+
+
+<div class='transcriptText'>
+	<div class='japanese'>
+		<h2>バックウォーター・ステーション</h2>
+
+		<pre>
+	    惑星司法官のオフィス
+	    惑星マー．サラ
+	    </pre>
+	</div>
+
+	<div class='french'>
+		<h2>バックウォーター・ステーション</h2>
+
+		<pre>
+	    惑星司法官[わくせいしほうかん]のオフィス
+	    惑星マー．サラ
+	    </pre>
+	</div>
+
+	<div class='english'>
+		<h2>Backwater station</h2>
+
+		<pre>
+		Office of the Colonial Magistrate
+		Mar Sara Colony
+		</pre>
+	</div>
+</div>
+
+
+
+<h1>Mission Briefing</h1>
+
+<div class='transcriptText'>
+	<div class='subBlock'>
+		<div class='japanese'>
+	      勝利条件
+			- 侵入したエイリアンを根絶せよ。
+			- ジム・ライナーの生存を確保せよ。
+		</div>
+
+		<div class='french'>
+	       勝利条件[しょうりじょうけん]
+			-  侵入[しんにゅう]したエイリアンを 根絶[こんぜつ]せよ。
+			- ジム・ライナーの 生存[せいぞん]を 確保[かくほ]せよ。
+			<pre>
+			侵入[しんにゅう] -- invasion
+			根絶[こんぜつ] -- eradication
+			生存[せいぞん] -- existence, survival
+			確保[かくほ] -- maintain, insure
+			</pre>
+		</div>
+
+		<div class='english'>
+			Objectives
+			- Eradicate the alien infestation
+			- Raynor must survive
+		</div>
+	</div>
+
+	<div class='subBlock'>
+		<narrator>Advisor</narrator>
+		<audio class='dialogue'><source src='./audio/01.flac' type='audio/mpeg'></audio>
+
+		<div class='japanese'>
+		   メッセージ受信中…接続完了しました。
+		</div>
+		<div class='french'>
+			メッセージ 受信中[じゅしんちゅう]… 接続完了[せつぞくかんりょう]しました。
+		 </div>
+		<div class='english'>
+		   Receiving incoming transmission.
+		   Com-link established:
+		</div>
+	</div>
+
+	<div class='subBlock'>
+		<narrator>Raynor</narrator>
+		<audio class='dialogue'><source src='./audio/03.flac' type='audio/mpeg'></audio>
+
+		<div class='japanese'>
+			おい、調子はどうだ？ 避難させた連中のことは心配するな。
+			連邦同盟軍の奴らとのトラブルを避けて、
+			バケモノどもに出くわさなけりゃ、みんなで昼寝でもできるだろうぜ。
+		</div>
+
+		<div class='french'>
+			おい、 調子[ちょうし]はどうだ？
+			 避難[ひなん]させた 連中[れんちゅう]のことは 心配[しんぱい]するな。
+			 連邦同盟軍[れんぽうどうめいぐん]の 奴[やつ]らとのトラブルを 避[さ]けて、
+			バケモノどもに 出[で]くわさなけりゃ、みんなで 昼寝[ひるね]でもできるだろうぜ。
+
+			<pre>
+			調子[ちょうし] -- condition, state of health
+		    連中[れんちゅう] -- guys, company
+			心配[しんぱい] -- worry, concern
+			奴[やつ] -- fellow, guy
+		    避[さ]ける -- to avoid
+			トラブル -- trouble
+			バケモノ -- monster, beast
+			出[で]くわす -- to happen to meet, to come across
+			出[で]くわさなけりゃ -> 出[で]くわさなければ
+		    昼寝[ひるね] -- nap
+		    </pre>
+		</div>
+
+		<div class='english'>
+			Hey, what's up, man? Got yer refugees tucked in nice and tight.
+			Provided you can sidestep anymore surprises from our Confederate
+			friends, and we can keep them away from those critters, they
+			should have an easy time.
+		</div>
+	</div>
+</div>
+
+<div class='transcriptText'>
+	<narrator>Advisor</narrator>
+	<audio class='dialogue'><source src='./audio/04.flac' type='audio/mpeg'></audio>
+
+	<div class='japanese'>
+		緊急事態発生！
+		バックウォーター・ステーションが未確認の有機生命体から攻撃を受けています。
+		遭難信号の発信は06:58。
+		タルソニスの全連邦同盟軍は警戒態勢に入ってください。
+		現在、入電待機中です…。
+	</div>
+
+	<div class='french'>
+		 緊急[きんきゅう] 事態[じたい] 発生[はっせい]!
+		バックウォーター・ステーションが 未確認[みかくにん]の 有機[ゆうき] 生命体[せいめいたい]から 攻撃[こうげき]を 受[う]けています。
+		遭難[そうなん] 信号[しんご]の 発信[はっしん]は06:58。
+		タルソニスの 全[ぜん]連邦同盟軍は 警戒[けいかい] 態勢[たいせい]に 入[はい]ってください。
+		 現在[げんざい]、 入電[にゅうでん] 待機[たいき]中です…。
+
+		<pre>
+		緊急[きんきゅう] -- urgent, emergency
+		事態[じたい] -- state of affairs
+		緊急[きんきゅう]事態[じたい] -- state of emergency
+		発生[はっせい] -- outbreak, spring forth
+		未確認[みかくにん] -- unconfirmed
+		有機[ゆうき] -- organic
+		生命体[せいめいたい] -- life-form
+		攻撃[こうげき] -- attack
+		受ける[うける] -- to receive, to get
+		遭難[そうなん] -- disaster, accident
+		信号[しんご] -- signal
+		遭難[そうなん]信号[しんご] -- Distress signal, SOS
+		発信[はっしん] -- transmission, dispatch
+		全[ぜん] -- all, whole
+		警戒[けいかい] -- to be vigilant
+		態勢[たいせい] -- attitude, readiness
+		現在[げんざい] -- present, current
+		入電[にゅうでん] -- incoming telephone call, telegraph received
+		待機[たいき] -- standby, wait for orders
+		</pre>
+	</div>
+
+	<div class='english'>
+		Priority Alert! Backwater station under attack by unknown alien
+		organisms. Distress beacon activated at 0658. Alerting Confederate
+		headquarters on Tarsonis... Stand by for incoming transmission.
+	</div>
+</div>
+
+<div class='transcriptText'>
+	<div class='subBlock'>
+		<narrator>Duke</narrator>
+		<audio class='dialogue'><source src='./audio/05.flac' type='audio/mpeg'></audio>
+
+		<div class='japanese'>
+			バックウォーターからの遭難信号は受信した。
+			あとはこちらにまかせて、君たちは待機してくれ。
+			必要な情報があれば連絡しよう。
+		</div>
+
+		<div class='french'>
+			バックウォーターからの 遭難信号[ひなんしんごう]は 受信[じゅしん]した。
+			あとはこちらにまかせて、 君[きみ] たちは 待機[たいき]してくれ。
+			 必要[ひつよう]な 情報[じょうほう]があれば 連絡[れんらく]しよう。
+			 <pre>
+				まかせる -- to entrust to another
+				こちらにまかせて -- leave it to me
+				君[きみ] -- you
+			 </pre>
+		</div>
+
+		<div class='english'>
+			We've already received the distress beacon from Backwater, and we'll
+			take care of it. You just sit tight.
+			You'll be notified if there's anything we think you need to know.
+		</div>
+	</div>
+
+	<div class='subBlock'>
+		<narrator>Raynor</narrator>
+		<audio class='dialogue'><source src='./audio/06.flac' type='audio/mpeg'></audio>
+
+		<div class='japanese'>
+			くそっ。おいっ、のんきに連邦同盟軍の援軍なんか待ってると、基地はやられちまうぞ。
+			オレはすぐにあっちに向かう。
+			お前も援軍をよこしてくれれば、なんとか市民を助けられるはずだ。
+			オレを信じろ。
+		</div>
+
+		<div class='french'>
+			くそっ。おいっ、のんきに 連邦同盟軍[れんぽうどうめいぐん]の 援軍[えんぐん]なんか 待[ま]ってると、
+			 基地[きち]はやられちまうぞ。
+			オレはすぐにあっちに 向[む]かう。
+			お前も援軍をよこしてくれれば、なんとか 市民[しみん]を 助[たす]けられるはずだ。
+			オレを信じろ。
+
+			<pre>
+			のんきに -- carelessly, recklessly
+			援軍[えんぐん] -- reinforcement
+			待[ま]つ -- to wait
+			基地[きち] -- base
+			やられる -- to suffer damage
+			ちまう -> てしまう
+			やられちまうぞ -> やられてしまうぞ
+			すぐに -- immediately
+			向[む]かう -- to face, to go towards
+			よこす -- to send, to forward
+			援軍[えんぐん]をよこしてくれれば -> send reinforcements
+			なんとか -- somehow, anyhow
+			市民[しみん] -- citizen
+			助[たす]ける -- to help, to save
+			</pre>
+		</div>
+
+		<div class='english'>
+			Damn! Listen, if we wait for Confederate reinforcements, that
+			station's dust. I'll head out there now, do what I can. You send in
+			some militia, and we'll save those folks. Trust me.
+		</div>
+	</div>
+</div>
+
+<h1>Mission Start</h1>
+
+
+<div class='transcriptText'>
+	<narrator>Raynor</narrator>
+	<audio class='dialogue'><source src='./audio/09.flac' type='audio/mpeg'></audio>
+
+	<div class='japanese'>
+		よう、会えてうれしいぜ。さっそく暴れに行こうか。
+	</div>
+
+	<div class='french'>
+		よう、 会[あ]えてうれしいぜ。さっそく 暴[あば]れに 行[い]こうか。
+		<pre>
+		暴[あば]れる -- to act violently, to rage
+		</pre>
+	</div>
+
+	<div class='english'>
+		Glad to see you, boys. Time to kick some
+		serious butt.
+	</div>
+
+</div>
+
+<h2>Bring unit to Zerg colony</h2>
+
+<div class='transcriptText'>
+	<narrator>Raynor</narrator>
+	<audio class='dialogue'><source src='./audio/14.flac' type='audio/mpeg'></audio>
+
+	<div class='japanese'>
+		おわっ…と、なんだこりゃ？
+		地面が生きてるみたいだぜ。
+	</div>
+	<div class='french'>
+		おわっ…と、なんだこりゃ？
+		 地面[じめん]が 生[い]きてるみたいだぜ。
+		<pre>
+		地面[じめん] -- ground
+		生[い]きてる -- to live
+		みたいだぜ -- it seems
+		</pre>
+	</div>
+	<div class='english'>
+		What the hell is that? Looks like
+		the ground there is alive.
+	</div>
+</div>
+
+<h2>Bring unit to bunker and rescue base</h2>
+
+<div class='transcriptText'>
+	<div class='subBlock'>
+	    <narrator>SCV</narrator>
+		<audio class='dialogue'><source src='./audio/11.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			助かったよ。ザーグのおかげで、
+			この何日かバンカーにこもりきりだったんだ。
+		</div>
+
+		<div class='french'>
+			 助[た]かったよ。ザーグのおかげで、
+			この 何日か[なんにちか]バンカーにこもりきりだったんだ。
+			<pre>
+		    何日[なんにち]か -- several days
+		    バンカー -- bunker
+		    こもる -- to be confined in
+			-きり -- only, just
+			こもりきり -- to be confined in (by oneself)
+		    </pre>
+		</div>
+
+		<div class='english'>
+			Thanks for the rescue. We've been holed up in these bunkers for days
+			hiding from the Zerg!
+		</div>
+	</div>
+
+	<div class='subBlock'>
+		<narrator>Raynor</narrator>
+		<audio class='dialogue'><source src='./audio/10.flac' type='audio/mpeg'></audio>
+
+		<div class='japanese'>
+			ちっと古いが、こいつはこれでなかなか使えるんだ。
+		</div>
+
+		<div class='french'>
+			ちっと 古い[ふるい]が、こいつはこれでなかなか 使[たうか]えるんだ。
+			ちっと -- ちょっと
+		</div>
+
+		<div class='english'>
+			These things have been out here awhile.
+			But they could be pretty useful.
+		</div>
+	</div>
+</div>
+
+<h2>Bring unit to rescue Command Center</h2>
+
+
+<div class='transcriptText'>
+	<narrator>Firebat</narrator>
+	<audio class='dialogue'><source src='./audio/12.flac' type='audio/mpeg'></audio>
+	<div class='japanese'>
+	    火、貸そうか？
+	</div>
+
+	<div class='french'>
+	    火、貸そうか？
+	    貸す -- to lend
+	</div>
+
+	<div class='english'>
+	    Need a light?
+	</div>
+ </div>
+
+
+<h2>Bring unit to Infested Command Center</h2>
+
+<div class='transcriptText'>
+	<div class='subBlock'>
+		<narrator>Marine</narrator>
+		<audio class='dialogue'><source src='./audio/15_v2.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+		    コマンドセンターが…
+			ひでえもんだぜ。
+		</div>
+		<div class='french'>
+		    コマンドセンターが…
+			ひでえもんだぜ。
+			<pre>
+			ひでえ -> ひでい -- terrible, awful
+			もん -> もの -- thing
+		</div>
+		<div class='english'>
+			What the hell did they do to that Command Center?
+		</div>
+	</div>
+
+    <div class='subBlock'>
+    	<narrator>Firebat</narrator>
+	    <audio class='dialogue'><source src='./audio/15.flac' type='audio/mpeg'></audio>
+	    <div class='japanese'>
+	        コマンドセンターが…
+	        ひでえもんだぜ。
+	    </div>
+	    <div class='english'>
+	        What the hell did they do to
+	        that Command Center?
+	    </div>
+    </div>
+
+	<div class='subBlock'>
+		<narrator>Raynor</narrator>
+		<audio class='dialogue'><source src='./audio/17.flac' type='audio/mpeg'></audio>
+
+		<div class='japanese'>
+			ひでぇもんだぜ！
+			もうこいつは終わりだ…
+			焼いちまうぞ。
+		</div>
+
+		<div class='french'>
+			ひでぇもんだぜ！
+			もうこいつは 終[お]わりだ…
+			 焼[や]いちまうぞ。
+			<pre>
+			終[お]わり -- the end
+			焼[や]く -- to burn
+			やいちまう -> やいてしまう
+			</pre>
+		</div>
+
+		<div class='english'>
+			Whatever it is, it ain't natural.
+			Burn it, boys.
+		</div>
+	</div>
+</div>
+
+
+<h2>After destroying Infested Command Center</h2>
+
+
+<div class='transcriptText'>
+	<div class='subBlock'>
+		<narrator>Advisor</narrator>
+		<audio class='dialogue'><source src='./audio/18.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			メッセージ受信中…。
+		</div>
+		<div class='english'>
+			Receiving incoming transmission...
+		</div>
+	</div>
+
+	<div class='subBlock'>
+		<narrator>Duke</narrator>
+		<audio class='dialogue'><source src='./audio/19.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			ライナー秘書官、連邦同盟軍の
+			重要な基地を破壊したことにより、
+			お前は惑星法に背いた。
+			お前を逮捕する。
+			武器を捨て、速やかに投降せよ。
+
+		</div>
+
+		<div class='french'>
+			ライナー 秘書官[ひしょかん]、 連邦同盟軍[れんぽうどうめいぐん]の
+			 重要[じゅうよう]な 基地[ちき]を 破壊[はかい]したことにより、
+			 お前[おまえ]は 惑星[わくせい] 法[ほう]に 背[そむ]いた。
+			 お前[おまえ]を 逮捕[たいほ]する。
+			 武器[ぶき]を 捨[す]て、 速[すみ]やかに 投降[とうこう]せよ。
+
+			<pre>
+		    秘書官[ひしょかん] -- minister's secretary
+			連邦同盟軍[れんぽうどうめいぐん] -- Confederate
+			重要[じゅうよう] -- important
+			基地[ちき] -- base
+		    破壊[はかい] -- destruction
+			により -- by means of, due to
+			お前[おまえ] -- you
+			惑星[わくせい] -- planet
+			-法[ほう] -- law (suffix)
+		    背[そむ]く -- to go against, to disobey, to infringe
+		    逮捕[たいほ] -- to arrest
+			武器[ぶき] -- weapon
+			捨[す]てる -- to throw away
+		    速[すみ]やかに -- promptly
+		    投降[とうこう] -- surrender
+		    </pre>
+		</div>
+	    <div class='english'>
+	        Marshal Raynor, by destroying a
+	        vital Confederate installation, you
+	        and your men have violated standing
+	        colonial law. As of right now, you're
+	        all under arrest. I suggest you throw
+	        down your weapons and come
+	        peaceably.
+	    </div>
+	</div>
+
+
+
+	<div class='subBlock'>
+		<narrator>Raynor</narrator>
+		<audio class='dialogue'><source src='./audio/20.flac' type='audio/mpeg'></audio>
+
+		<div class='japanese'>
+			気は確かかよ？ 基地を破壊しな
+			かったら、この惑星全部がアレに
+			飲み込まれていたかもしれないん
+			だぜ！ あんたがもうちょっと早く
+			そのケツを上げてりゃ…
+		</div>
+
+		<div class='french'>
+			 気[き]は 確[たし]かかよ？  基地[きち]を 破壊[はかい]しなかったら、この 惑星全部[わくせいぜんぶ]がアレに
+			 飲み込[のみこ]まれていたかもしれないんだぜ！ あんたがもうちょっと 早[はや]く
+			そのケツを 上[あ]げてりゃ…
+
+			<pre>
+			気[き] -- spirit, mind
+			確[たし]か -- certain, sure
+			気は確か -- in one's senses, sane.
+			気は確かかよ？ -- Are you insane!?
+			基地[きち] -- base
+			全部[ぜんぶ] -- all, whole
+			アレ -- that thing
+			飲み込む -- to gulp down
+			早い[はやい] -- early, fast
+			ケツ -- ass
+			上[あ]げる -- to raise
+			上[あ]げてりゃ -> -> 上げていれば
+			</pre>
+		</div>
+
+		<div class='english'>
+			Are you outta your mind!? If we hadn't burned that damn factory,
+			this entire colony could have been overrun!
+			Maybe if you hadn't taken your sweet time in getting here
+		</div>
+	</div>
+
+
+
+	<div class='subBlock'>
+		<narrator>Duke</narrator>
+		<audio class='dialogue'><source src='./audio/21.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			もう一度だけ言うぞ。私はお前の
+			無駄口につきあう暇などない。
+			さっさと武器を捨てろ！
+		</div>
+
+		<div class='french'>
+			もう 一度[いちど]だけ 言[い]うぞ。 私[わたし]は お前[おまえ]の 無駄口[むだぐち]につきあう 暇[ひま]などない。
+			さっさと 武器[ぶき]を 捨[す]てろ！
+			<pre>
+			 一度[いちど] -- one Time
+			 暇[ひま] -- spare time
+		     無駄口[むだぐち] -- chatter
+		     つきあう -- to go along with
+		    </pre>
+		</div>
+
+		<div class='english'>
+			Now I asked you nice the first time, boy. I didn't come here to
+			talk with you. Now throw down them weapons!
+		</div>
+	</div>
+
+	<div class='subBlock'>
+		<narrator>Raynor</narrator>
+		<audio class='dialogue'><source src='./audio/22.flac' type='audio/mpeg'></audio>
+
+		<div class='japanese'>
+			連邦同盟軍の野郎とまともな話を
+			しようなんて、オレがアホだったよ！
+		</div>
+
+		<div class='french'>
+			連邦同盟軍の 野郎[やろう]とまともな 話[はなし]を
+			しようなんて、オレがアホだったよ！
+
+			<pre>
+		    野郎[やろう] -- guy, asshole
+		    まとも -- honesty, direct, serious
+		    話[はなし] -- talk, story
+			アホ -- idiot, fool
+		    </pre>
+		</div>
+
+		<div class='english'>
+			Guess you wouldn't be a
+			Confederate if you weren't a
+			complete pain in the ass.
+		</div>
+	</div>
+</div>
+
+
+<h2>In case of failure</h2>
+
+<div class='transcriptText'>
+	<div class='japanese'>
+		ライナーが殺害されました。
+	</div>
+	<div class='french'>
+		ライナーが 殺害[さつがい]されました。
+		<pre>
+		殺害[さつがい] -- killing, murder
+		</pre>
+	</div>
+	<div class='english'>
+		Raynor was killed.
+	</div>
+</div>

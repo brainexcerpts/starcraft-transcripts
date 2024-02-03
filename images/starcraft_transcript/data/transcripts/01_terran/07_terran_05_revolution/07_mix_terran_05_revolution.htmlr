@@ -1,0 +1,585 @@
+<h1>Revolution</h1>
+
+<div class='transcriptText'>
+	<div class='japanese'>
+		<h1>革命</h1>
+		<pre>
+		アンティーガ・プライム第２衛星
+		秘密ステージエリアにて
+		</pre>
+	</div>
+
+	<div class='french'>
+		<h1> 革命[かくめい]</h1>
+		<pre>
+		アンティーガ・プライム第２ 衛星[えいせい]
+		 秘密[ひみつ]ステージエリアにて
+		</pre>
+		<pre>
+			革命[かくめい] -- revolution
+			第２衛星[だいにえいせい] -- second satellite
+			秘密[ひみつ] -- secret
+			ステージ -- stage
+			エリア -- area
+		</pre>
+	</div>
+
+	<div class='english'>
+		<h1>Revolution</h1>
+
+		<pre>
+		Secret Staging Area
+		Second moon of Antiga Prime
+		</pre>
+	</div>
+</div>
+
+
+<h1>Mission Briefing</h1>
+
+<div class='transcriptText'>
+	<div class='subBlock'>
+		<div class='japanese'>
+			勝利条件
+			- ケリガンをアンティガのコマンドセンターまで移動させよ。
+			- アンティガ市民軍を保護せよ。
+			- ライナーとケリガンの生存を確保せよ。
+		</div>
+
+		<div class='french'>
+			勝利条件[しょうりじょうけん]
+			- ケリガンをアンティガのコマンドセンターまで 移動[いどう]させよ。
+			- アンティガ 市民軍[しみんぐん]を 保護[ほご]せよ。
+			- ライナーとケリガンの 生存[せいぞん]を 確保[かくほ]せよ。
+
+			<pre>
+			勝利条件[しょうりじょうけん] -- victory conditions
+			移動[いどう] -- movement
+			市民軍[しみんぐん] -- militia
+			保護[ほご] -- protect
+			生存[せいぞん] -- survival
+			確保[かくほ] -- ensure
+			</pre>
+		</div>
+
+		<div class='english'>
+			Objectives
+			- Bring Kerrigan to the Antigan Command Center
+			- Defend the Antigan rebels
+			- Raynor and Kerrigan must survive
+		</div>
+	</div>
+</div>
+
+<div class='transcriptText'>
+	<div class='subBlock'>
+		<narrator>Raynor</narrator>
+		<audio class='dialogue'><source src='./audio/01.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			本部で、ディスクの分析を開始した。
+			わりと早いうちにデコードできるらしい。
+			何が入ってるかわからないけど、役に立つといいな。
+		</div>
+
+		<div class='french'>
+			 本部[ほんぶ]で、ディスクの 分析[ぶんせき]を 開始[かいし]した。
+			わりと 早[はや]いうちにデコードできるらしい。
+			 何[なに]が 入[はい]ってるかわからないけど、 役[やく]に 立[た]つといいな。
+
+			<pre>
+			本部[ほんぶ] -- headquarters
+			分析[ぶんせき] -- analysis
+			開始[かいし] -- start, commence
+			早[はや]いうちに -- soon, before long
+			デコード -- decode
+			入[はい]る -- to enter, to contain
+			役[やく]に立[た]つ -- to be useful
+			</pre>
+		</div>
+
+		<div class='english'>
+			Hey, man. Headquarters has begun analysis of the discs.
+			They expect to have them decoded shortly.
+			I hope whatever's on those discs is worth it.
+		</div>
+	</div>
+</div>
+
+<div class='transcriptText'>
+	<div class='subBlock'>
+		<narrator>Advisor</narrator>
+		<audio class='dialogue'><source src='./audio/02.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			アルクトゥルス・メンスク氏よりメッセージ受信…。
+		</div>
+
+		<div class='french'>
+			アルクトゥルス・メンスク 氏[し]よりメッセージ 受信[じゅしん]…。
+		</div>
+
+		<div class='english'>
+			Receiving incoming transmission from Arcturus Mengsk:
+		</div>
+	</div>
+</div>
+
+<div class="transcriptText">
+	<div class='subBlock'>
+		<narrator>Mengsk</narrator>
+		<audio class='dialogue'><source src='./audio/03.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			司令官、ライナー大尉、よくやってくれた。
+			今回の努力が、連邦同盟軍の辺境惑星への圧力を和らげたことは間違いない。
+			しかし、まだ、やらなくてはいけないことがある。
+			私の第２の補佐官、ケリガン少尉から説明を聞いてくれ。
+		</div>
+		<div class='french'>
+			 司令官[しれいかん]、ライナー 大尉[たいい]、よくやってくれた。
+			 今回[こんかい]の 努力[どりょく]が、 連邦同盟軍[れんぽうどうめぐん]の 辺境惑星[へんきょうわくせい]への 圧力[あつりょく]を 和[やわ]らげたことは 間違[まちが]いない。
+			しかし、まだ、やらなくてはいけないことがある。
+			 私[わたし]の 第[だい] ２[に]の 補佐官[ほさかん]、ケリガン 少尉[しょうい]から 説明[せつめい]を 聞[き]いてくれ。
+
+			<pre>
+			司令官[しれいかん] -- commandant, general
+			大尉[たいい] -- captain
+			今回[こんかい] -- this time, this occasion
+			努力[どりょく] -- effort, exertion
+			辺境[へんきょう] -- frontier, borderland
+			圧力[あつりょく] -- pressure, coercion
+			和[やわ]らげる -- to soften, to relieve.
+			補佐官[ほさかん] -- military assistant 補佐(assistant, assistance)
+			少尉[しょうい] -- second lieutenant
+			</pre>
+		</div>
+		<div class='english'>
+			You and Captain Raynor have done well, commander.
+			I believe our efforts have weakened the Confederacy's grip on the fringe
+			worlds, but our job out here isn't done yet. Lieutenant Kerrigan,
+			my second in command, will elaborate.
+		</div>
+	</div>
+</div>
+
+
+<div class="transcriptText">
+	<div class='subBlock'>
+		<narrator>Kerrigan</narrator>
+		<audio class='dialogue'><source src='./audio/04.flac' type='audio/mpeg'></audio>
+
+		<div class='japanese'>
+			用件だけ伝えるわ。
+			アンティガ・プライムで連邦同盟軍に対する反乱が起きるという情報があるの。
+			あいにく、連邦同盟軍はこれに気づいていて、アルファ部隊の１部を配置している。
+			総指揮はデューク将軍よ。
+		</div>
+
+		<div class='french'>
+			 用件[ようけん] だけ 伝[つた]えるわ。
+			アンティガ・プライムで 連邦同盟軍[れんぽうどうめぐん]に 対[たい]する 反乱[はんらん]が 起[お]きるという 情報[じょうほう]があるの。
+			あいにく、 連邦同盟軍[れんぽうどうめぐん]はこれに 気[き]づいていて、アルファ 部隊[ぶたい]の １部[いちぶ]を 配置[はいち]している。
+			 総指揮[そうしき]はデューク 将軍[しょうぐん]よ。
+
+			<pre>
+			用件[ようけん] -- subject, matters, business, object, things to be done.
+			伝[つた]える -- to convey, to report, to transmit
+			反乱[はんらん] -- rebellion, revolt, insurrection
+			起[お]きる -- to occur, to happen
+			情報[じょうほう] -- information, intelligence
+			気[き]づく -- to notice, to recognize
+			部隊[ぶたい] -- force, unit
+			1部[いちぶ] -- part, portion
+			配置[はいち]する -- deploy
+			総指揮[そうしき] -- supreme command
+			将軍[しょうぐん] -- general ("Shougun")
+			</pre>
+		</div>
+
+		<div class='english'>
+			I'll get straight to the point. Our sources tell us that Antiga Prime is
+			ready to begin open revolt against the Confederacy.
+			Unfortunately, the Confederates seem to be aware of this as well.
+			They've stationed a large detachment of Alpha Squadron troops there,
+			under the command of General Duke.
+		</div>
+	</div>
+</div>
+
+<div class="transcriptText">
+	<div class='subBlock'>
+		<narrator>Mengsk</narrator>
+		<audio class='dialogue'><source src='./audio/05.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			そこであなたにお願いしたい。アンティガを 解放してほしいのだ。
+			アンティガの人々にいいイメージを持ってもらうためにもね。
+			ケリガン少尉がデューク 将軍の 部隊をなんとかしてくれるだろう。
+			他の連邦同盟軍は、あなたがうまくやってくれ。
+		</div>
+		<div class='french'>
+			そこであなたにお 願[ねが]いしたい。アンティガを 解放[かいほう]してほしいのだ。
+			アンティガの 人々[ひとびと]にいいイメージを 持[も]ってもらうためにもね。
+			ケリガン 少尉[しょうい]がデューク 将軍[しょうぐん]の 部隊[ぶたい]をなんとかしてくれるだろう。
+			 他[ほか]の 連邦同盟軍[れんぽうどうめぐん]は、あなたがうまくやってくれ。
+
+			<pre>
+			お願[ねが]いしたい -- I'd like to ask you
+			解放[かいほう] -- release, liberation, setting free
+			人々[ひとびと] -- people
+			イメージ -- image
+			持[も]ってもらう -- to have, to get
+			少尉[しょうい] -- second lieutenant
+			将軍[しょうぐん] -- general ("Shougun")
+			部隊[ぶたい] -- force, unit
+			なんとか -- somehow, anyhow
+			他[ほか]の -- other
+			</pre>
+		</div>
+		<div class='english'>
+			It will be your job, Commander, to free this colony and show our good
+			intent to the Antigan people. Lieutenant Kerrigan will help you
+			deal with Duke's officers. The rest of the Confederates are yours to
+			deal with.
+		</div>
+	</div>
+</div>
+
+<h1>Mission Start</h1>
+
+<div class='transcriptText'>
+	<!-- <img src="./shot_1.png" alt="06_hint_screen.png" width="100%" height="100%">	 -->
+
+	<div class='japanese'>
+		<h2>スヌークフフトの秘訣</h2>
+
+		テランのレイスとゴーストにはクローク能力があります。
+		探知能力があるユニットに発見されなければ、
+		クロークしている間は攻撃される心配はありません。
+		Aスタート時に秘訣を表示(S) 前の秘訣[P]
+	</div>
+
+	<div class='french'>
+		スヌークフフトの秘訣
+
+		テランのレイスとゴーストにはクローク能力があります。
+		探知能力があるユニットに発見されなければ、
+		クロークしている間は攻撃される心配はありません。
+		Aスタート時に秘訣を表示(S) 前の秘訣[P]
+
+		<pre>
+			秘訣[ひけつ]
+			レイス-- Wraith (Terran flying unit)
+			ゴースト -- ghost (Terran terrestrial unit)
+			探知[たんち]
+			能力[のうりょく]
+			発見[はっけん] -- discovery
+			見されなければ -- unless it's discovered
+			攻撃[こうげき]
+		</pre>
+	</div>
+</div>
+
+
+<h2>Meeting with Kerrigan</h2>
+
+<div class='transcriptText'>
+	<div class='subBlock'>
+		<narrator>Kerrigan</narrator>
+		<audio class='dialogue'><source src='./audio/07.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			ライナー 大尉。
+			近辺領域の偵察を完了したわ…バカ！この変態！
+		</div>
+
+		<div class='french'>
+			ライナー 大尉[たいい]。
+			 近辺領域[きんぺんりょういき]の 偵察[ていさつ]を 完了[かんりょう]したわ…バカ！この 変態[へんたい]！
+
+			<pre>
+			大尉[たいい] -- captain
+			近辺[きんぺん] -- vicinity
+			領域[りょういき] -- area
+			偵察[ていさつ] -- scout reconnaissance.
+			完了[かんりょう] -- completion
+			バカ -- idiot
+			変態[へんたい] -- pervert, freak
+			</pre>
+		</div>
+
+		<div class='english'>
+			Captain Raynor, I've finished scouting out the area, and... you pig!
+		</div>
+	</div>
+
+	<div class='subBlock'>
+		<narrator>Raynor</narrator>
+		<audio class='dialogue'><source src='./audio/08.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			なんだよ、俺がなにか言ったか
+		</div>
+		<div class='french'>
+			なんだよ、 俺[おれ]がなにか 言[い]ったか
+		</div>
+		<div class='english'>
+			What? I haven't even said anything to you yet!
+		</div>
+	</div>
+
+	<div class='subBlock'>
+		<narrator>Kerrigan</narrator>
+		<audio class='dialogue'><source src='./audio/09.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			だけど、考えてたでしょ？
+		</div>
+		<div class='french'>
+			だけど、 考[かんが]えてたでしょ？
+		</div>
+		<div class='english'>
+			Yeah, but you we're thinking it.
+		</div>
+	</div>
+
+	<div class='subBlock'>
+		<narrator>Raynor</narrator>
+		<audio class='dialogue'><source src='./audio/10.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			そうか、きみはテレパスだったよな…なあ、
+			とりあえずこっちにとりかからないか？
+		</div>
+		<div class='french'>
+			そうか、きみはテレパスだったよな…なあ、
+			とりあえずこっちにとりかからないか？
+			<pre>
+			取[と]り掛[か]かる -- to begin; to set about; to start
+			</pre>
+		</div>
+		<div class='english'>
+			Oh yeah, you're a telepath. Look, let's just get on with this, okay?
+		</div>
+	</div>
+
+	<div class='subBlock'>
+		<narrator>Kerrigan</narrator>
+		<audio class='dialogue'><source src='./audio/11.flac' type='audio/mpeg'></audio>
+		<div class='french'>
+			そうね
+		</div>
+		<div class='japanese'>
+			そうね
+		</div>
+		<div class='english'>
+			Right.
+		</div>
+	</div>
+</div>
+
+<h2>Bring unit to enemy turrets</h2>
+
+<div class='transcriptText'>
+	<narrator>Kerrigan</narrator>
+	<audio class='dialogue'><source src='./audio/13b.flac' type='audio/mpeg'></audio>
+	<div class='japanese'>
+		これ、嫌なのよね。クロークしてても探知
+		されちゃうから…。
+		これを先にどうにかしない？
+	</div>
+
+	<div class='french'>
+		これ、 嫌[いや]なのよね。クロークしてても 探知[たんち]
+		されちゃうから…。
+		これを 先[さき]にどうにかしない？
+
+		<pre>
+		嫌[いや] -- disagreeable, detestable, unpleasant
+		クローク -- cloak (unit's skill to become invisible in Starcraft)
+		探知[たんち] -- detection
+		</pre>
+	</div>
+
+	<div class='english'>
+		I hate these things. They can sense me even when I'm cloaked.
+		We should take these out.
+	</div>
+</div>
+
+
+<h2>Bring unit near Antigan base</h2>
+
+
+<div class='transcriptText'>
+	<p>(no audio)</p>
+	<narrator>Hint</narrator>
+	<div class='japanese'>
+		ケリガンは敵から身を隠して近づくことができる
+		クローク能力を持っています。
+
+		しかし、ミサイル・タレットのような探知機があると
+		クロークしていても、見つかってしまいます。
+	</div>
+
+	<div class='french'>
+		ケリガンは 敵[てき]から 身[み]を 隠[かく]して 近[ちか]づくことができる
+		クローク 能力[のうりょく]を 持[も]っています。
+
+		しかし、ミサイル・タレットのような 探知機[たんちき]があると
+		クロークしていても、 見[み]つかってしまいます。
+
+		<pre>
+		敵[てき] -- enemy
+		身[み] -- body
+		隠[かく]す -- to hide, to conceal
+		身を隠す[みをかくす] -- to hide oneself
+		近[ちか]づく -- to approach
+		能力[のうりょく] -- ability
+		探知機[たんちき] -- detector
+		見つかる[みつかる] -- to be found, to be discovered
+		</pre>
+	</div>
+
+	<div class='english'>
+		Kerrigan can use her Cloaking ability to sneak by most enemy forces.
+
+		Only "detectors" such as Missile Turrets can be used to spot cloaked units.
+	</div>
+</div>
+
+<h2>Bring Kerrigan to Antigan Command Center</h2>
+
+<div class='transcriptText'>
+	<div class='subBlock'>
+		<div class='japanese'>
+			（ケリガンが連邦同盟軍の司令官を殺害）
+		</div>
+
+		<div class='french'>
+			(ケリガン が 連邦同盟軍[れんぽうどうめぐん]の 司令官[しれいかん]を 殺害[さつがい])
+
+			<pre>
+			司令官[しれいかん] -- commandant, general
+			殺害[さつがい] -- killing, murder
+			</pre>
+		</div>
+
+		<div class='english'>
+			(Kerrigan kills the Confederate Officer)
+		</div>
+	</div>
+</div>
+
+<div class='transcriptText'>
+	<div class='subBlock'>
+		<narrator>Kerrigan</narrator>
+		<audio class='dialogue'><source src='./audio/16.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			司令官、こっちはまかせておいて。
+			アンティガの人達も私たちをバックアップ
+			してくれると思うわ。
+		</div>
+		<div class='french'>
+			 司令官[しれいかん]、こっちはまかせておいて。
+			アンティガの 人達[ひとたち]も 私[わたし]たちをバックアップしてくれると思うわ。
+			<pre>
+
+			</pre>
+		</div>
+		<div class='english'>
+			I've taken care of business on this end,
+			Commander. I think the Antigans are ready to back us up, too.
+		</div>
+	</div>
+
+	<div class='subBlock'>
+		<narrator>Antigan Marine</narrator>
+		<audio class='dialogue'><source src='./audio/17.flac' type='audio/mpeg'></audio>
+
+		<div class='japanese'>
+			もちろんだ。オレ達は連中からずっと
+			ひどい目にあってきたからな。
+		</div>
+
+		<div class='french'>
+			もちろんだ。オレ 達[たち]は 連中[れんちゅう]からずっと
+			ひどい 目[め]にあってきたからな。
+
+			<pre>
+			連中[れんちゅう] -- those guys (derogatory)
+			目に合う -- to experience (something unpleasant), to meet with (tragedy, failure, etc.), to go through.
+			</pre>
+		</div>
+
+		<div class='english'>
+			That's right. We've tolerated these
+			Confederate goons long enough!
+		</div>
+	</div>
+
+
+	<div class='subBlock'>
+		<narrator>Advisor</narrator>
+		<audio class='dialogue'><source src='./audio/13.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			司令官、連邦同盟軍の攻撃艦隊がこちらに接近中です。
+		</div>
+
+		<div class='french'>
+			 司令官[しれいかん]、 連邦同盟軍[れんぽうどうめぐん]の 攻撃[こうげき] 艦隊[かんたい]がこちらに 接近[せっきん] 中[ちゅう]です。
+
+			<pre>
+			攻撃[こうげき] -- attack
+			艦隊[かんたい] -- fleet
+			接近[せっきん] -- getting closer
+			-中[ちゅう] -- in the middle of (suffix)
+			接近中 -- approaching
+			</pre>
+		</div>
+
+		<div class='english'>
+			Commander, I'm picking up a large Confederate strike force advancing on our position.
+		</div>
+	</div>
+
+	<div class='subBlock'>
+		<narrator>Kerrigan</narrator>
+		<audio class='dialogue'><source src='./audio/18.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			こういうことだけ早いわね。
+		</div>
+		<div class='french'>
+			こういうことだけ 早[はや]いわね。
+		</div>
+		<div class='english'>
+			Well, they're not wasting time.
+		</div>
+	</div>
+</div>
+
+<div class="transcriptText">
+	<div class='subBlock'>
+		<div class='japanese'>
+			<h2>新勝利条件</h2>
+			-  連邦同盟軍[れんぽうどうめぐん]の 基地[きち]を 破壊[はかい]せよ。
+			- ライナーとケリガンの 生存[せいぞん]を 確保[かくほ]せよ。
+
+			<pre>
+			革命[かくめい] -- revolution
+			破壊[はかい] -- destruction
+			</pre>
+		</div>
+
+		<div class='french'>
+			<h2>新勝利条件</h2>
+			-  連邦同盟軍[れんぽうどうめぐん]の 基地[きち]を 破壊[はかい]せよ。
+			- ライナーとケリガンの 生存[せいぞん]を 確保[かくほ]せよ。
+
+			<pre>
+			革命[かくめい] -- revolution
+			破壊[はかい] -- destruction
+			</pre>
+		</div>
+
+		<div class='english'>
+			<h2>New mission objectives</h2>
+			- Destroy the Confederate base.
+			- Raynor and Kerrigan must survive
+		</div>
+	</div>
+</div>
+

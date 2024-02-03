@@ -1,0 +1,684 @@
+<h1>The Jacobs installation</h1>
+
+<div class='transcriptText'>
+	<div class='subBlock'>
+    	<div class='japanese'>
+	    	    <h1>ジェイコブス基地</h1>
+				避難から３時間後
+	    	    <pre>
+	    	    前惑星司法官のオフィス
+	    	    惑星マー．サラ
+	    	    </pre>
+	    </div>
+
+		<div class='french'>
+			<h1>ジェイコブス 基地[きち]</h1>
+			 避難[ひなん]から３ 時間後[じかんご]
+			<pre>
+			 前惑星司法官[ぜんわくせいしほうかん]のオフィス
+			惑星マー．サラ
+			</pre>
+			<pre>
+			基地[きち] -- base
+			避難[ひなん] -- evacuation
+			前[ぜん] -- former
+			惑星[わくせい] -- planet
+			司法官[しほうかん] -- magistrate
+			オフィス -- office
+			</pre>
+		</div>
+
+		<div class='english'>
+			<h1>The Jacobs installation</h1>
+			Office of the former Colonial Magistrate
+			Mar Sara Colony
+			Three hours after colonial evacuation
+		</div>
+    </div>
+</div>
+
+<h1>Mission Briefing</h1>
+
+<div class='transcriptText'>
+	<div class='subBlock'>
+    	<div class='japanese'>
+	    		勝利条件
+	    		- 連邦同盟軍のネットワークに介入し、データディスクを奪回せよ。
+	    		- ライナーの生存を確保せよ。
+	    	</div>
+
+	    	<div class='french'>
+	    		-  連邦同盟軍[れんぽうどうめいぐん]のネットワークに 介入[かいにゅう]し、データディスクを 奪回[だっかい]せよ。
+	    		- ライナーの 生存[せいぞん]を 確保[かくほ]せよ。
+	    		<pre>
+	    		介入[かいにゅう] -- intervention
+	    		奪回[だっかい] -- recovery
+	    		確保[かくほ] -- ensure
+				</pre>
+	    	</div>
+
+	    	<div class='english'>
+	    		Objectives
+	    		- Retrieve data disc from the Confederate network
+	    		- Raynor must survive
+	    	</div>
+    </div>
+</div>
+
+<div class='transcriptText'>
+	<div class='subBlock'>
+    	<narrator>Advisor</narrator>
+	    	<audio class='dialogue'><source src='./audio/01.flac' type='audio/mpeg'></audio>
+	    	<div class='japanese'>
+	    		「コーハルの息子達」との関係を当局が調査終了するまであなたは謹慎処分となります。
+	    		メッセージを受信中…。
+	    	</div>
+
+	    	<div class='french'>
+	    		「コーハルの 息子達[むすこたち]」との 関係[かんけい]を 当局[とうきょく]が 調査終了[ちょうさしゅうりょう]するまで
+	    		あなたは 謹慎[きんしん] 処分[しょぶん]となります。
+	    		メッセージを 受信中[じゅしんちゅう]…。
+
+	    		<pre>
+				息子[むすこ] -- son
+				息子達[むすこたち] -- sons
+				関係[かんけい] -- relation, connection
+				当局[とうきょく] -- authorities
+				調査[ちょうさ] -- investigation
+				終了[しゅうりょう] -- end, close, termination
+				謹慎[きんしん] -- penitence
+				処分[しょぶん] -- disposal
+				謹慎[きんしん]処分[しょぶん]となります -- to be suspended
+				</pre>
+	    	</div>
+
+	    	<div class='english'>
+	    		Your tenure as Colonial Magistrate is suspended, pending an official
+	    		investigation of your affiliation with the Sons of Korhal. Receiving
+	    		incoming transmission...
+	    	</div>
+    </div>
+</div>
+
+
+
+<div class='transcriptText'>
+	<div class='subBlock'>
+		<narrator>Raynor</narrator>
+		<audio class='dialogue'><source src='./audio/02.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			よう。アルクトゥルスの部下達に助けてもらったんだ。
+			オレ達と一緒でやつらも連邦同盟軍のやってることに、いやになってるんだ。
+			やつらの評判がどんなものかは知ってるが、
+			十分公平な立場でいると思っている。
+			アルクトゥルスが話をしたいらしい。
+		</div>
+		<div class='french'>
+			よう。アルクトゥルスの 部下達[ぶかたち]に 助[たす]けてもらったんだ。
+			オレ 達[たち]と 一緒[いっしょ]でやつらも 連邦同盟軍[れんぽうどうめいぐん]のやってることに、いやになってるんだ。
+			やつらの 評判[ひょうばん]がどんなものかは 知[し]ってるが、
+			 十分[じゅうぶん] 公平[こうへい]な 立場[たちば]でいると 思[おも]っている。
+			アルクトゥルスが 話[はなし]をしたいらしい。
+
+			<pre>
+			部下[ぶか] -- subordinate
+			助ける[たすける] -- to help
+			一緒[いっしょ] -- together
+			評判[ひょうばん] -- fame, reputation
+			知[し]る -- to know
+			十分[じゅうぶん] -- enough, sufficient
+			公平[こうへい] -- fairness, impartial, justice
+			立場[たちば] -- standpoint, position, point of view
+			公平な立場 -- fair stance
+			話[はなし] -- talk, story
+			</pre>
+		</div>
+		<div class='english'>
+			Hey, man. Arcturus' boys sprung me from the prison ship. Apparently,
+			they're as frustrated with the Confederates as we are! I know
+			their reputation, but they seem to be on the level. I think Arcturus
+			wanted to speak with you...
+		</div>
+	</div>
+
+	<div class='subBlock'>
+		<narrator>Mengsk</narrator>
+		<audio class='dialogue'><source src='./audio/03.flac' type='audio/mpeg'></audio>
+
+		<div class='japanese'>
+			司令官、マー・サラはほとんど
+			ザーグに占領されてしまったな。
+			連邦同盟軍はこの惑星を見捨てたようだ。
+			我々もそのつもりだが。
+			しかし、ここを去る前に１つやっておきたいことがあるのだ。
+		</div>
+
+		<div class='french'>
+			 司令官[しれいかん]、マー・サラはほとんど
+			ザーグに 占領[せんりょう]されてしまったな。
+			 連邦同盟軍[れんぽうどうめいぐん]はこの 惑星[わくせい]を 見捨[みす]てたようだ。
+			  我々[われわれ]もそのつもりだが。
+			しかし、ここを 去[さ]る 前[まえ]に１つやっておきたいことがあるのだ。
+
+			<pre>
+			司令官[しれいかん] -- commandant, general
+			占領[せんりょう] -- occupation
+			見捨[みす]てる -- to abandon, to desert
+			我々[われわれ] -- we
+			去[さ]る -- to leave
+			やっておく -- to do something in advance
+			</pre>
+		</div>
+
+		<div class='english'>
+			Commander, Mar Sara is almost completely overrun by the Zerg.
+			The Confederates are abandoning the planet, and so are we. However,
+			there is one thing I'd like to do before we leave.
+		</div>
+	</div>
+
+
+	<div class='subBlock'>
+		<audio class='dialogue'><source src='./audio/04.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			ここの連邦同盟軍前哨基地を急襲し、
+			ネットワークの中から兵器の模型図か設計図のようなものを探し出してもらいたいのだ。
+			連邦同盟軍は避難の準備でパニックになっている。
+			基地への出入りは意外と容易にできるだろう。
+		</div>
+		<div class='french'>
+			ここの連邦同盟軍 前哨[ぜんしょう] 基地[きち]を 急襲[きゅうしゅう]し、
+			ネットワークの 中[なか]から 兵器[へいき]の 模型[もけい] 図[ず]か 設計図[せっけいず]のようなものを 探し出し[さがしだし]てもらいたいのだ。
+			連邦同盟軍は 避難[ひなん]の 準備[じゅんび]でパニックになっている。
+			基地への 出入り[でいり]は 意外[いがい]と 容易[ようい]にできるだろう。
+
+			<pre>
+			前哨[ぜんしょう] -- outpost
+			急襲[きゅうしゅう] -- to raid
+			兵器[へいき] -- weapons
+			模型[もけい] -- model, maquette
+			図[ず] -- drawing
+			模型[もけい] -- schematic
+			設計[せっけい] -- design, plan
+			設計図[せっけいず] -- design/engineering drawing, blue print
+			探し出す -- to track down, to locate
+			避難[ひなん] -- evacuation
+			準備[じゅんび] -- preparation
+			出入[でい]り -- in and out
+			意外[いがい] -- unexpected
+			意外と -- surprisingly
+			容易[ようい]に -- easily
+			</pre>
+		</div>
+		<div class='english'>
+			I want you to raid this colony's Confederates outpost and retrieve
+			whatever design or weapons' schematics that you can find in
+			their networks. With the chaos of the Confederates' evacuation, you
+			shouldn't have any trouble getting in or out of their installation.
+		</div>
+	</div>
+
+
+    <div class='subBlock'>
+        <narrator>Raynor</narrator>
+        <audio class='dialogue'><source src='./audio/05.flac' type='audio/mpeg'></audio>
+        <div class='japanese'>
+            オレも行こう。
+        </div>
+		<div class='japanese'>
+            オレも 行[い]こう。
+        </div>
+        <div class='english'>
+            I'm into it.
+        </div>
+    </div>
+
+
+    <div class='subBlock'>
+        <div class='french'>
+            報告終了[ほうこくしゅうりょう]。
+        </div>
+		<div class='japanese'>
+            報告終了
+        </div>
+		<div class='english'>
+			End of transmission.
+		</div>
+    </div>
+</div>
+
+
+
+<h1>Mission Start</h1>
+
+<h2>Bring unit to Teleporter Sector 5</h2>
+
+<div class='transcriptText'>
+	<div class='subBlock'>
+		<audio class='dialogue'><source src='./audio/18.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			テレポートフィールド始動。
+		</div>
+		<div class='french'>
+			テレポートフィールド 始動[しどう]。
+			<pre>
+			始動[しどう] (開始[かいし]) -- starting
+			</pre>
+		</div>
+		<div class='english'>
+			Teleportation field activated.
+		</div>
+	</div>
+
+	<div class='subBlock'>
+		<div class='japanese'>
+			セクター５へテレポート。
+		</div>
+		<div class='english'>
+			You have teleported to Sector 5.
+		</div>
+	</div>
+</div>
+
+<h2>Bring unit near security camera computer</h2>
+
+<div class='transcriptText'>
+	<narrator>Civilian</narrator>
+	<audio class='dialogue'><source src='./audio/11.flac' type='audio/mpeg'></audio>
+
+	<div class='japanese'>
+		おい！ ここは立ち入り禁止だぞ！
+	</div>
+
+	<div class='french'>
+		おい！ ここは 立ち入り[たちいり] 禁止[きんし]だぞ！
+		<pre>
+		立ち入り[たちいり] -- entry
+		禁止[きんし] -- prohibition
+		立ち入り禁止[たちいりきんし] -- no entry
+		</pre>
+	</div>
+
+	<div class='english'>
+		Hey! You're not allowed in here!
+    </div>
+</div>
+
+<h2>Bring unit to security camera computer</h2>
+
+<div class='transcriptText'>
+	<narrator>Advisor</narrator>
+	<audio class='dialogue'><source src='./audio/16.flac' type='audio/mpeg'></audio>
+	<div class='french'>
+		セキュリティカメラ始動。
+		<pre>
+		始動[しどう] (開始[かいし]) -- starting
+		</pre>
+	</div>
+
+	<div class='japanese'>
+		セキュリティカメラ始動。
+	</div>
+
+	<div class='english'>
+		Security Cameras Activated.
+	</div>
+</div>
+
+<h2>Bring unit to Teleporter Sector 6</h2>
+
+<div class='transcriptText'>
+	<div class='subBlock'>
+		<audio class='dialogue'><source src='./audio/18.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			テレポートフィールド始動。
+		</div>
+		<div class='english'>
+			Teleportation field activated.
+		</div>
+	</div>
+
+	<div class='subBlock'>
+		<div class='japanese'>
+			セクター6へテレポート。
+		</div>
+		<div class='english'>
+			You have teleported to Sector 6.
+		</div>
+	</div>
+</div>
+
+
+<h2>Bring unit to defense system computer</h2>
+
+<div class='transcriptText'>
+	<div class='japanese'>
+		自動防衛システム始動。
+	</div>
+
+	<div class="french">
+		 自動防衛[じどうぼうえい] システム 始動[しどう]。
+		<pre>
+		自動[じどう] -- automatic
+		防衛[ぼうえい] -- defense
+		システム -- system
+		始動[しどう] (開始[かいし]) -- starting
+		</pre>
+	</div>
+
+	<div class='english'>
+		Automatic Defense System Deactivated.
+	</div>
+</div>
+
+<h2>Bring unit near cell lock</h2>
+
+<div class='transcriptText'>
+	<narrator>Civilian</narrator>
+	<audio class='dialogue'><source src='./audio/12.flac' type='audio/mpeg'></audio>
+	<div class='japanese'>
+		反逆者め！
+	</div>
+
+	<div class='french'>
+		 反逆者[はんぎゃくしゃ]め！
+
+		<pre>
+		反逆者[はんぎゃくしゃ] -- rebel
+		-め -- suffix for contempt/deprecation
+		</pre>
+	</div>
+
+	<div class='english'>
+		You rebel scum!
+	</div>
+</div>
+
+<h2>Bring unit to cell lock</h2>
+
+<div class='transcriptText'>
+	<div class='japanese'>
+		独房のドアロック解除。
+	</div>
+
+	<div class='french'>
+		 独房[どくぼう]のドアロック 解除[かいじょ]。
+
+		<pre>
+		独房[どくぼう] -- cell
+		ドア -- door
+		ロック -- lock
+		解除[かいじょ] -- cancellation, release, unlocking
+		</pre>
+	</div>
+
+	<div class='english'>
+		Cell Doors Open.
+	</div>
+</div>
+
+<h2>Bring unit to cell containing Zerglings</h2>
+
+<div class='transcriptText'>
+
+	<div class='subBlock'>
+		<narrator>Raynor</narrator>
+		<audio class='dialogue'><source src='./audio/07.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			ザーグだって？ 嘘だろう？
+		</div>
+		<div class='french'>
+			ザーグだって？  嘘[うそ]だろう？
+			<pre>
+			嘘[うそ] -- lie
+			</pre>
+		</div>
+		<div class='english'>
+			Zerg! I don't believe this!
+		</div>
+	</div>
+
+	<div class='subBlock'>
+		<narrator>Mengsk</narrator>
+		<audio class='dialogue'><source src='./audio/08.flac' type='audio/mpeg'></audio>
+
+		<div class='japanese'>
+			間違いない。私は１年も前に連邦同盟軍の
+			監房にザーグがいるのを見たのだから。
+			彼らがザーグの存在を知りながら公表して
+			いなかったのは明らかだ。思うに、恐ろしい
+			勢いで繁殖しているようだな。そうだとしても、
+			今回は連邦同盟軍のネットワークにアクセス
+			することが最優先だ。ザーグに関してはまた
+			改めて考えよう。
+		</div>
+
+
+		<div class='french'>
+			 間違[まちが]いない。 私[わたし]は １年[いちねん]も 前[まえ]に連邦同盟軍の
+			 監房[かんぼう]にザーグがいるのを 見[み]たのだから。
+			 彼[かれ]らがザーグの 存在[そんざい]を 知[し]りながら 公表[こうひょう]していなかったのは 明[あき]らかだ。
+			 思[おも]うに、 恐[おそ]ろしい 勢[いきお]いで 繁殖[はんしょく]しているようだな。
+			そうだとしても、
+			 今回[かんかい]は連邦同盟軍のネットワークにアクセス
+			することが 最優先[さいゆうせん]だ。ザーグに 関[かん]してはまた 改[あらた]めて 考[かんが]えよう。
+
+			<pre>
+			間違[まちが]い -- mistake, error
+			間違いない -- no mistake, for sure
+			１年[いちねん] -- one year
+			前[まえ] -- before
+			監房[かんぼう] -- cell ward
+			-ながら -- while (suffix)
+			知りながら -- while knowing
+			明らか[あきらか] -- obvious, evident, clear
+			公表[こうひょう] -- official announcement
+			思うに -- upon reflection
+			恐ろしい[おそろしい] -- terrible, dreadful, fearful
+			勢いで -- with force, with vigor
+			繁殖[はんしょく] -- multiply (birth reproduction), breed
+			最優先 -- top/maximum priority
+			関して[かんして] (について) -- regarding, concerning
+			改めて -- another time, once again
+			考える[かんがえる] -- to think, to consider
+			</pre>
+		</div>
+
+		<div class='english'>
+			Believe it. I saw Zerg within Confederate holding pens myself, and that was over a
+			year ago. It's clear the Confederates have known of these creatures for some time. For
+			all we know they could be breeding the things! Be that as it may, our priority here is
+			accessing the Confederates network. We'll deal with the Zerg another day.
+		</div>
+	</div>
+</div>
+
+<h2>Bring unit to Teleporter Sector 1</h2>
+
+<div class='transcriptText'>
+	<div class='subBlock'>
+		<audio class='dialogue'><source src='./audio/18.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			テレポートフィールド始動。
+		</div>
+		<div class='english'>
+			Teleportation field activated.
+		</div>
+	</div>
+
+	<div class='subBlock'>
+		<div class='japanese'>
+			セクター1へテレポート。
+		</div>
+		<div class='english'>
+			You have teleported to Sector 1.
+		</div>
+	</div>
+</div>
+
+<h2>Bring unit to Sector 1</h2>
+
+<div class='transcriptText'>
+
+	<div class='subBlock'>
+		<narrator>Marine</narrator>
+		<audio class='dialogue'><source src='./audio/13.flac' type='audio/mpeg'></audio>
+		<div class='japanese'>
+			やつらだ！ 撃ち殺せ！
+		</div>
+
+		<div class='french'>
+			やつらだ！ 撃ち殺せ[うちころせ]!
+			<pre>
+			撃ち殺せ[うちころせ] -- kill by shooting
+			</pre>
+		</div>
+
+		<div class='english'>
+			It's them! Blast them!
+		</div>
+	</div>
+
+	<div class='subBlock'>
+		<narrator>Advisor</narrator>
+		<audio class='dialogue'><source src='./audio/14.flac' type='audio/mpeg'></audio>
+
+		<div class='japanese'>
+			侵入者確認。
+		</div>
+
+
+		<div class='french'>
+			 侵入者[しんにゅうしゃ] 確認[かくにん]。
+			<pre>
+			侵入者[しんにゅうしゃ] -- intruder
+			</pre>
+		</div>
+
+		<div class='english'>
+			Unauthorized entry detected.
+		</div>
+	</div>
+</div>
+
+<h2>Bring unit to main computer</h2>
+
+<div class='transcriptText'>
+	<div class='subBlock'>
+		<div class='japanese'>
+			連邦同盟軍のネットワークにアクセス中>...
+		</div>
+		<div class='french'>
+			 連邦同盟軍[れんぽうどうめいぐん]のネットワークにアクセス 中[ちゅう]>...
+			 <pre>
+			 -中[ちゅう] -- in the middle of (suffix)
+			 </pre>
+		</div>
+		<div class='english'>
+			Accessing Confederate network>...
+		</div>
+	</div>
+
+
+	<div class='subBlock'>
+		<div class='japanese'>
+			ファイルをダウンロード中>...
+		</div>
+		<div class='french'>
+			ファイルをダウンロード 中[ちゅう]>...
+		</div>
+		<div class='english'>
+			Downloading files>...
+		</div>
+
+	</div>
+
+	<div class='subBlock'>
+		<div class='english'>
+			<pre>
+			...
+			...
+			...
+			</pre>
+		</div>
+		<div class='japanese'>
+			<pre>
+			...
+			...
+			...
+			</pre>
+		</div>
+		<div class='french'>
+			<pre>
+			...
+			...
+			...
+			</pre>
+		</div>
+	</div>
+
+
+	<div class='subBlock'>
+		<div class='french'>
+			ファイル 転送[てんそう] 終了[しゅうりょう]>...
+			<pre>
+			転送[てんそう] -- transfer
+			終了[しゅうりょう] -- end, close, termination
+			</pre>
+		</div>
+		<div class='japanese'>
+			ファイル転送終了>...
+		</div>
+		<div class='english'>
+			File transfer complete>...
+		</div>
+
+	</div>
+</div>
+
+<div class='transcriptText'>
+	<audio class='dialogue'><source src='./audio/10.flac' type='audio/mpeg'></audio>
+	<narrator>Raynor</narrator>
+
+	<div class='japanese'>
+		よし、設計図は見つけた。ここを出たらすぐに
+		輸送船に乗れるようにしてくれ。
+	</div>
+
+	<div class='french'>
+		よし、 設計図[せっけいず]は 見[み]つけた。
+		ここを 出[で]たらすぐに
+ 		 輸送船[ゆそうせん]に 乗[の]れるようにしてくれ。
+
+
+		<pre>
+		設計図[せっけいず] -- blue print
+		輸送船[ゆそうせん] -- transport ship
+		乗[の]る -- to ride, to get on
+		</pre>
+	</div>
+
+	<div class='english'>
+		Hey, we've found the plans, man. Have
+		the transports waiting when we come out.
+	</div>
+</div>
+
+<h1>Mission End</h1>
+
+
+<div class='transcriptText'>
+	<h2>When failing</h2>
+	<div class='japanese'>
+		ライナーが殺害されました。
+	</div>
+	<div class='french'>
+		ライナーが 殺害[さつがい]されました。
+		<pre>
+		殺害[さつがい] -- killing, murder
+		</pre>
+	</div>
+	<div class='english'>
+		Raynor was killed.
+	</div>
+</div>
