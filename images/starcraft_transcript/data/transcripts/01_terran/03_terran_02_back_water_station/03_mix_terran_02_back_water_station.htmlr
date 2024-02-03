@@ -7,18 +7,18 @@
 		<h2>バックウォーター・ステーション</h2>
 
 		<pre>
-	    惑星司法官のオフィス
-	    惑星マー．サラ
-	    </pre>
+		惑星司法官のオフィス
+		惑星マー．サラ
+		</pre>
 	</div>
 
 	<div class='french'>
 		<h2>バックウォーター・ステーション</h2>
 
 		<pre>
-	    惑星司法官[わくせいしほうかん]のオフィス
-	    惑星マー．サラ
-	    </pre>
+		 惑星司法官[わくせいしほうかん]のオフィス
+		 惑星[わくせい]マー．サラ
+		</pre>
 	</div>
 
 	<div class='english'>
@@ -38,13 +38,13 @@
 <div class='transcriptText'>
 	<div class='subBlock'>
 		<div class='japanese'>
-	      勝利条件
+			勝利条件
 			- 侵入したエイリアンを根絶せよ。
 			- ジム・ライナーの生存を確保せよ。
 		</div>
 
 		<div class='french'>
-	       勝利条件[しょうりじょうけん]
+			 勝利条件[しょうりじょうけん]
 			-  侵入[しんにゅう]したエイリアンを 根絶[こんぜつ]せよ。
 			- ジム・ライナーの 生存[せいぞん]を 確保[かくほ]せよ。
 			<pre>
@@ -67,14 +67,14 @@
 		<audio class='dialogue'><source src='./audio/01.flac' type="audio/flac"></audio>
 
 		<div class='japanese'>
-		   メッセージ受信中…接続完了しました。
+			メッセージ受信中…接続完了しました。
 		</div>
 		<div class='french'>
 			メッセージ 受信中[じゅしんちゅう]… 接続完了[せつぞくかんりょう]しました。
 		 </div>
 		<div class='english'>
-		   Receiving incoming transmission.
-		   Com-link established:
+			Receiving incoming transmission.
+			Com-link established:
 		</div>
 	</div>
 
@@ -96,16 +96,16 @@
 
 			<pre>
 			調子[ちょうし] -- condition, state of health
-		    連中[れんちゅう] -- guys, company
+			連中[れんちゅう] -- guys, company
 			心配[しんぱい] -- worry, concern
 			奴[やつ] -- fellow, guy
-		    避[さ]ける -- to avoid
+			避[さ]ける -- to avoid
 			トラブル -- trouble
 			バケモノ -- monster, beast
 			出[で]くわす -- to happen to meet, to come across
 			出[で]くわさなけりゃ -> 出[で]くわさなければ
-		    昼寝[ひるね] -- nap
-		    </pre>
+			昼寝[ひるね] -- nap
+			</pre>
 		</div>
 
 		<div class='english'>
@@ -132,7 +132,7 @@
 	<div class='french'>
 		 緊急[きんきゅう] 事態[じたい] 発生[はっせい]!
 		バックウォーター・ステーションが 未確認[みかくにん]の 有機[ゆうき] 生命体[せいめいたい]から 攻撃[こうげき]を 受[う]けています。
-		遭難[そうなん] 信号[しんご]の 発信[はっしん]は06:58。
+		 遭難[そうなん] 信号[しんご]の 発信[はっしん]は06:58。
 		タルソニスの 全[ぜん]連邦同盟軍は 警戒[けいかい] 態勢[たいせい]に 入[はい]ってください。
 		 現在[げんざい]、 入電[にゅうでん] 待機[たいき]中です…。
 
@@ -304,9 +304,9 @@
 			 助[た]かったよ。ザーグのおかげで、
 			この 何日か[なんにちか]バンカーにこもりきりだったんだ。
 			<pre>
-		    何日[なんにち]か -- several days
-		    バンカー -- bunker
-		    こもる -- to be confined in
+			何日[なんにち]か -- several days
+			バンカー -- bunker
+			こもる -- to be confined in
 			-きり -- only, just
 			こもりきり -- to be confined in (by oneself)
 		    </pre>
@@ -345,12 +345,14 @@
 	<narrator>Firebat</narrator>
 	<audio class='dialogue'><source src='./audio/12.flac' type="audio/flac"></audio>
 	<div class='japanese'>
-	    火、貸そうか？
+		火、貸そうか？
 	</div>
 
 	<div class='french'>
-	    火、貸そうか？
-	    貸す -- to lend
+		 火[ひ]、 貸[か]そうか？
+		<pre>
+			貸[か]す -- to lend
+		</pre>
 	</div>
 
 	<div class='english'>
@@ -370,7 +372,7 @@
 			ひでえもんだぜ。
 		</div>
 		<div class='french'>
-		    コマンドセンターが…
+			コマンドセンターが…
 			ひでえもんだぜ。
 			<pre>
 			ひでえ -> ひでい -- terrible, awful
@@ -389,8 +391,7 @@
 	        ひでえもんだぜ。
 	    </div>
 	    <div class='english'>
-	        What the hell did they do to
-	        that Command Center?
+	        What the hell did they do to that Command Center?
 	    </div>
     </div>
 
@@ -433,6 +434,9 @@
 		<div class='japanese'>
 			メッセージ受信中…。
 		</div>
+		<div class='french'>
+			メッセージ 受信中[じゅしんちゅう]…。
+		</div>
 		<div class='english'>
 			Receiving incoming transmission...
 		</div>
@@ -458,31 +462,28 @@
 			 武器[ぶき]を 捨[す]て、 速[すみ]やかに 投降[とうこう]せよ。
 
 			<pre>
-		    秘書官[ひしょかん] -- minister's secretary
+			秘書官[ひしょかん] -- minister's secretary
 			連邦同盟軍[れんぽうどうめいぐん] -- Confederate
 			重要[じゅうよう] -- important
 			基地[ちき] -- base
-		    破壊[はかい] -- destruction
+			破壊[はかい] -- destruction
 			により -- by means of, due to
 			お前[おまえ] -- you
 			惑星[わくせい] -- planet
 			-法[ほう] -- law (suffix)
-		    背[そむ]く -- to go against, to disobey, to infringe
-		    逮捕[たいほ] -- to arrest
+			背[そむ]く -- to go against, to disobey, to infringe
+			逮捕[たいほ] -- to arrest
 			武器[ぶき] -- weapon
 			捨[す]てる -- to throw away
-		    速[すみ]やかに -- promptly
-		    投降[とうこう] -- surrender
-		    </pre>
+			速[すみ]やかに -- promptly
+			投降[とうこう] -- surrender
+			</pre>
 		</div>
 	    <div class='english'>
-	        Marshal Raynor, by destroying a
-	        vital Confederate installation, you
-	        and your men have violated standing
-	        colonial law. As of right now, you're
-	        all under arrest. I suggest you throw
-	        down your weapons and come
-	        peaceably.
+			Marshal Raynor, by destroying a vital Confederate installation,
+			you  and your men have violated standing colonial law.
+			As of right now, you're all under arrest.
+			I suggest you throw  down your weapons and come peaceably.
 	    </div>
 	</div>
 
@@ -543,11 +544,11 @@
 			もう 一度[いちど]だけ 言[い]うぞ。 私[わたし]は お前[おまえ]の 無駄口[むだぐち]につきあう 暇[ひま]などない。
 			さっさと 武器[ぶき]を 捨[す]てろ！
 			<pre>
-			 一度[いちど] -- one Time
-			 暇[ひま] -- spare time
-		     無駄口[むだぐち] -- chatter
-		     つきあう -- to go along with
-		    </pre>
+			一度[いちど] -- one Time
+			暇[ひま] -- spare time
+			無駄口[むだぐち] -- chatter
+			つきあう -- to go along with
+			</pre>
 		</div>
 
 		<div class='english'>
@@ -570,11 +571,11 @@
 			しようなんて、オレがアホだったよ！
 
 			<pre>
-		    野郎[やろう] -- guy, asshole
-		    まとも -- honesty, direct, serious
-		    話[はなし] -- talk, story
+			野郎[やろう] -- guy, asshole
+			まとも -- honesty, direct, serious
+			話[はなし] -- talk, story
 			アホ -- idiot, fool
-		    </pre>
+			</pre>
 		</div>
 
 		<div class='english'>

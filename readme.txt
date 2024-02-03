@@ -3,6 +3,8 @@
 Welcome to this English and Japanese transcript of the "StarCraft® 1998" campaign
 (property of Blizzard Entertainment®)
 
+Original version is free to play or you can also buy the remaster:
+https://starcraft.com/
 
 Instructions
 ------------

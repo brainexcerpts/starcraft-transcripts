@@ -17,6 +17,69 @@
         console.log("mainParser() BEGIN");
 
 
+        {
+            /*
+                look the various languages and generate missing ones.
+            */
+
+            // find all elements that contain a div.english, div.japanese or div.french
+            let divs = document.querySelectorAll('div.english, div.japanese, div.french');
+            // create a unique set of parents:
+            let parents = new Set();
+            for (let i = 0; i < divs.length; i++) {
+                parents.add(divs[i].parentElement);
+            }
+
+            for (let parent of parents) {
+                let englishDiv  = parent.getElementsByClassName('english');
+                let japaneseDiv = parent.getElementsByClassName('japanese');
+                let frenchDiv   = parent.getElementsByClassName('french');
+
+                if(englishDiv.length == 0) {
+                    let div = document.createElement('div');
+                    div.className = 'english';
+
+                    if( japaneseDiv.length  > 0)
+                        div.innerHTML = japaneseDiv[0].innerHTML + "<br>" + "(No english found)";
+                    else if( frenchDiv.length  > 0)
+                        div.innerHTML = frenchDiv[0].innerHTML + "<br>" + "(No english found)";
+                    else
+                        div.innerHTML = "(No english found)";
+
+                    parent.appendChild(div);
+                }
+
+                if(japaneseDiv.length == 0) {
+                    let div = document.createElement('div');
+                    div.className = 'japanese';
+
+                    if( englishDiv.length  > 0)
+                        div.innerHTML = englishDiv[0].innerHTML + "<br>" + "(No  plain japanese found)";
+                    else if( frenchDiv.length  > 0)
+                        div.innerHTML = frenchDiv[0].innerHTML + "<br>" + "(No plain japanese found)";
+                    else
+                        div.innerHTML = "(No plain japanese found)";
+
+                    parent.appendChild(div);
+                }
+
+                if(frenchDiv.length == 0) {
+                    let div = document.createElement('div');
+                    div.className = 'french';
+
+                    if( japaneseDiv.length > 0)
+                        div.innerHTML = japaneseDiv[0].innerHTML + "<br>" + "(No detailed japanese found)";
+                    else if( englishDiv.length  > 0)
+                        div.innerHTML = englishDiv[0].innerHTML + "<br>" + "(No detailed japanese found)";
+                    else
+                        div.innerHTML = "(No detailed japanese found)";
+
+                    parent.appendChild(div);
+                }
+            }
+        }
+
+
         // lookup all transcriptText if a subBlock divs is present make
         // sure the audio tag is moved to the bottom inside the subBlock div
         // if no subBlock div is present, still move the audio tag to the bottom
@@ -231,67 +294,7 @@
 
 
 
-        {
-            /*
-                look the various languages and generate missing ones.
-            */
-
-            // find all elements that contain a div.engish, div.japanese or div.french
-            let divs = document.querySelectorAll('div.english, div.japanese, div.french');
-            // create a unique set of parents:
-            let parents = new Set();
-            for (let i = 0; i < divs.length; i++) {
-                parents.add(divs[i].parentElement);
-            }
-
-            for (let parent of parents) {
-                let englishDiv  = parent.getElementsByClassName('english');
-                let japaneseDiv = parent.getElementsByClassName('japanese');
-                let frenchDiv   = parent.getElementsByClassName('french');
-
-                if(englishDiv.length == 0) {
-                    let div = document.createElement('div');
-                    div.className = 'english';
-
-                    if( japaneseDiv.length  > 0)
-                        div.innerHTML = japaneseDiv[0].innerHTML + "<br>" + "(No english found)";
-                    else if( frenchDiv.length  > 0)
-                        div.innerHTML = frenchDiv[0].innerHTML + "<br>" + "(No english found)";
-                    else
-                        div.innerHTML = "(No english found)";
-
-                    parent.appendChild(div);
-                }
-
-                if(japaneseDiv.length == 0) {
-                    let div = document.createElement('div');
-                    div.className = 'japanese';
-
-                    if( englishDiv.length  > 0)
-                        div.innerHTML = englishDiv[0].innerHTML + "<br>" + "(No  plain japanese found)";
-                    else if( frenchDiv.length  > 0)
-                        div.innerHTML = frenchDiv[0].innerHTML + "<br>" + "(No plain japanese found)";
-                    else
-                        div.innerHTML = "(No plain japanese found)";
-
-                    parent.appendChild(div);
-                }
-
-                if(frenchDiv.length == 0) {
-                    let div = document.createElement('div');
-                    div.className = 'french';
-
-                    if( japaneseDiv.length > 0)
-                        div.innerHTML = japaneseDiv[0].innerHTML + "<br>" + "(No detailed japanese found)";
-                    else if( englishDiv.length  > 0)
-                        div.innerHTML = englishDiv[0].innerHTML + "<br>" + "(No detailed japanese found)";
-                    else
-                        div.innerHTML = "(No detailed japanese found)";
-
-                    parent.appendChild(div);
-                }
-            }
-        }
+        /// formely adding missing language divs here
 
 
         if(true)
@@ -463,8 +466,8 @@
             // query all div.header inside a .transcriptBox:
             let divs = document.querySelectorAll('.transcriptBox div.header');
             for (let i = 0; i < divs.length; i++) {
-                toggleJapanese(divs[i]);
-                //toggleFrench(divs[i]);
+                //toggleJapanese(divs[i]);
+                toggleFrench(divs[i]);
             }
         }
 
