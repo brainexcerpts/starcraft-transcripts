@@ -63,7 +63,7 @@
 <div class='transcriptText'>
 	<div class='subBlock'>
 		<narrator>Advisor</narrator>
-		<audio class='dialogue'><source src='./audio/TCB00tad.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/TCB00tad.flac' type="audio/flac"></audio>
 		<div class='english'>
 			The fleet has lost contact with the ground forces at New Gettysburg.
 			General Mengsk has ordered the immediate disengagement of the
@@ -103,7 +103,7 @@
 
 	<div class='subBlock'>
 		<narrator>Raynor</narrator>
-		<audio class='dialogue'><source src='./audio/TCB01ura.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/TCB01ura.flac' type="audio/flac"></audio>
 		<div class='english'>
 			I can't believe he actually left her down there!
 			I'm gone, and you'd better come with me.
@@ -130,7 +130,7 @@
 
 	<div class='subBlock'>
 		<narrator>Advisor</narrator>
-		<audio class='dialogue'><source src='./audio/TCB02tad.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/TCB02tad.flac' type="audio/flac"></audio>
 		<div class='english'>
 			Receiving incoming transmission:
 		</div>
@@ -146,7 +146,7 @@
 <div class='transcriptText'>
 	<div class='subBlock'>
 		<narrator>Mengsk</narrator>
-		<audio class='dialogue'><source src='./audio/TCB03ume.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/TCB03ume.flac' type="audio/flac"></audio>
 		<div class='english'>
 			Gentlemen, you've done very well,
 			but remember that we've still got a job to do.
@@ -180,7 +180,7 @@
 
 	<div class='subBlock'>
 		<narrator>Raynor</narrator>
-		<audio class='dialogue'><source src='./audio/TCB04ura.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/TCB04ura.flac' type="audio/flac"></audio>
 		<div class='english'>
 			Aw, to hell with you!
 		</div>
@@ -199,7 +199,7 @@
 <div class='transcriptText'>
 	<div class='subBlock'>
 		<narrator>Arcturus Mengsk</narrator>
-		<audio class='dialogue'><source src='./audio/TCB05ume.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/TCB05ume.flac' type="audio/flac"></audio>
 		<div class='english'>
 			You're making a terrible mistake.
 			Don't even think to cross me.
@@ -229,7 +229,7 @@
 
 	<div class='subBlock'>
 		<narrator>Raynor</narrator>
-		<audio class='dialogue'><source src='./audio/TCB06ura.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/TCB06ura.flac' type="audio/flac"></audio>
 		<div class='english'>
 			You mean like you sacrificed Kerrigan?
 		</div>
@@ -246,7 +246,7 @@
 
 	<div class='subBlock'>
 		<narrator>Mengsk</narrator>
-		<audio class='dialogue'><source src='./audio/TCB07ume.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/TCB07ume.flac' type="audio/flac"></audio>
 		<div class='english'>
 			You'll regret that.
 			You don't seem to realize my situation here.
@@ -287,7 +287,7 @@
 <div class='transcriptText'>
 	<div class='subBlock'>
 		<narrator>Advisor</narrator>
-		<audio class='dialogue'><source src='./audio/TCB08tad.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/TCB08tad.flac' type="audio/flac"></audio>
 		<div class='english'>
 			The fleet is prepped and ready, Commander. Awaiting orders.
 		</div>
@@ -313,7 +313,7 @@
 
 	<div class='subBlock'>
 		<narrator>Raynor</narrator>
-		<audio class='dialogue'><source src='./audio/TCB09ura.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/TCB09ura.flac' type="audio/flac"></audio>
 		<div class='english'>
 			The hell with him. We're gone.
 		</div>
@@ -334,7 +334,7 @@
 <div class='transcriptText'>
 	<div class='subBlock'>
 		<narrator>Advisor</narrator>
-		<audio class='dialogue'><source src='./audio/TCM20tad.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/TCM20tad.flac' type="audio/flac"></audio>
 		<div class='english'>
 			It appears that General Duke has successfully activated Tarsonis'
 			primary defensive weapon, the Ion Cannon. The Cannon must be shut
@@ -387,7 +387,7 @@
 <div class='transcriptText'>
 	<div class='subBlock'>
 		<narrator>Raynor</narrator>
-		<audio class='dialogue'><source src='./audio/TCM00ura.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/TCM00ura.flac' type="audio/flac"></audio>
 		<div class='english'>
 			Well, Commander, it looks like we're on our own.
 			It's funny... it seems like yesterday Arcturus was the idealistic rebel crusader.
@@ -434,7 +434,7 @@
 
 	<div class='subBlock'>
 		<narrator>Raynor</narrator>
-		<audio class='dialogue'><source src='./audio/TCM01ura.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/TCM01ura.flac' type="audio/flac"></audio>
 		<div class='english'>
 			Damnit! I shouldn't have left her go alone.
 		</div>

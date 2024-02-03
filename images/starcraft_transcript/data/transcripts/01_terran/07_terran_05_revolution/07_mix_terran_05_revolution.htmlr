@@ -74,7 +74,7 @@
 <div class='transcriptText'>
 	<div class='subBlock'>
 		<narrator>Raynor</narrator>
-		<audio class='dialogue'><source src='./audio/01.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/01.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			本部で、ディスクの分析を開始した。
 			わりと早いうちにデコードできるらしい。
@@ -108,7 +108,7 @@
 <div class='transcriptText'>
 	<div class='subBlock'>
 		<narrator>Advisor</narrator>
-		<audio class='dialogue'><source src='./audio/02.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/02.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			アルクトゥルス・メンスク氏よりメッセージ受信…。
 		</div>
@@ -126,7 +126,7 @@
 <div class="transcriptText">
 	<div class='subBlock'>
 		<narrator>Mengsk</narrator>
-		<audio class='dialogue'><source src='./audio/03.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/03.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			司令官、ライナー大尉、よくやってくれた。
 			今回の努力が、連邦同盟軍の辺境惑星への圧力を和らげたことは間違いない。
@@ -164,7 +164,7 @@
 <div class="transcriptText">
 	<div class='subBlock'>
 		<narrator>Kerrigan</narrator>
-		<audio class='dialogue'><source src='./audio/04.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/04.flac' type="audio/flac"></audio>
 
 		<div class='japanese'>
 			用件だけ伝えるわ。
@@ -207,7 +207,7 @@
 <div class="transcriptText">
 	<div class='subBlock'>
 		<narrator>Mengsk</narrator>
-		<audio class='dialogue'><source src='./audio/05.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/05.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			そこであなたにお願いしたい。アンティガを 解放してほしいのだ。
 			アンティガの人々にいいイメージを持ってもらうためにもね。
@@ -283,7 +283,7 @@
 <div class='transcriptText'>
 	<div class='subBlock'>
 		<narrator>Kerrigan</narrator>
-		<audio class='dialogue'><source src='./audio/07.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/07.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			ライナー 大尉。
 			近辺領域の偵察を完了したわ…バカ！この変態！
@@ -311,7 +311,7 @@
 
 	<div class='subBlock'>
 		<narrator>Raynor</narrator>
-		<audio class='dialogue'><source src='./audio/08.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/08.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			なんだよ、俺がなにか言ったか
 		</div>
@@ -325,7 +325,7 @@
 
 	<div class='subBlock'>
 		<narrator>Kerrigan</narrator>
-		<audio class='dialogue'><source src='./audio/09.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/09.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			だけど、考えてたでしょ？
 		</div>
@@ -339,7 +339,7 @@
 
 	<div class='subBlock'>
 		<narrator>Raynor</narrator>
-		<audio class='dialogue'><source src='./audio/10.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/10.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			そうか、きみはテレパスだったよな…なあ、
 			とりあえずこっちにとりかからないか？
@@ -358,7 +358,7 @@
 
 	<div class='subBlock'>
 		<narrator>Kerrigan</narrator>
-		<audio class='dialogue'><source src='./audio/11.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/11.flac' type="audio/flac"></audio>
 		<div class='french'>
 			そうね
 		</div>
@@ -375,7 +375,7 @@
 
 <div class='transcriptText'>
 	<narrator>Kerrigan</narrator>
-	<audio class='dialogue'><source src='./audio/13b.flac' type='audio/mpeg'></audio>
+	<audio class='dialogue'><source src='./audio/13b.flac' type="audio/flac"></audio>
 	<div class='japanese'>
 		これ、嫌なのよね。クロークしてても探知
 		されちゃうから…。
@@ -467,7 +467,7 @@
 <div class='transcriptText'>
 	<div class='subBlock'>
 		<narrator>Kerrigan</narrator>
-		<audio class='dialogue'><source src='./audio/16.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/16.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			司令官、こっちはまかせておいて。
 			アンティガの人達も私たちをバックアップ
@@ -488,7 +488,7 @@
 
 	<div class='subBlock'>
 		<narrator>Antigan Marine</narrator>
-		<audio class='dialogue'><source src='./audio/17.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/17.flac' type="audio/flac"></audio>
 
 		<div class='japanese'>
 			もちろんだ。オレ達は連中からずっと
@@ -514,7 +514,7 @@
 
 	<div class='subBlock'>
 		<narrator>Advisor</narrator>
-		<audio class='dialogue'><source src='./audio/13.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/13.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			司令官、連邦同盟軍の攻撃艦隊がこちらに接近中です。
 		</div>
@@ -538,7 +538,7 @@
 
 	<div class='subBlock'>
 		<narrator>Kerrigan</narrator>
-		<audio class='dialogue'><source src='./audio/18.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/18.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			こういうことだけ早いわね。
 		</div>

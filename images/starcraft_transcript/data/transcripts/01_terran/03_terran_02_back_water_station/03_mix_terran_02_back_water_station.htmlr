@@ -64,7 +64,7 @@
 
 	<div class='subBlock'>
 		<narrator>Advisor</narrator>
-		<audio class='dialogue'><source src='./audio/01.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/01.flac' type="audio/flac"></audio>
 
 		<div class='japanese'>
 		   メッセージ受信中…接続完了しました。
@@ -80,7 +80,7 @@
 
 	<div class='subBlock'>
 		<narrator>Raynor</narrator>
-		<audio class='dialogue'><source src='./audio/03.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/03.flac' type="audio/flac"></audio>
 
 		<div class='japanese'>
 			おい、調子はどうだ？ 避難させた連中のことは心配するな。
@@ -119,7 +119,7 @@
 
 <div class='transcriptText'>
 	<narrator>Advisor</narrator>
-	<audio class='dialogue'><source src='./audio/04.flac' type='audio/mpeg'></audio>
+	<audio class='dialogue'><source src='./audio/04.flac' type="audio/flac"></audio>
 
 	<div class='japanese'>
 		緊急事態発生！
@@ -169,7 +169,7 @@
 <div class='transcriptText'>
 	<div class='subBlock'>
 		<narrator>Duke</narrator>
-		<audio class='dialogue'><source src='./audio/05.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/05.flac' type="audio/flac"></audio>
 
 		<div class='japanese'>
 			バックウォーターからの遭難信号は受信した。
@@ -197,7 +197,7 @@
 
 	<div class='subBlock'>
 		<narrator>Raynor</narrator>
-		<audio class='dialogue'><source src='./audio/06.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/06.flac' type="audio/flac"></audio>
 
 		<div class='japanese'>
 			くそっ。おいっ、のんきに連邦同盟軍の援軍なんか待ってると、基地はやられちまうぞ。
@@ -244,7 +244,7 @@
 
 <div class='transcriptText'>
 	<narrator>Raynor</narrator>
-	<audio class='dialogue'><source src='./audio/09.flac' type='audio/mpeg'></audio>
+	<audio class='dialogue'><source src='./audio/09.flac' type="audio/flac"></audio>
 
 	<div class='japanese'>
 		よう、会えてうれしいぜ。さっそく暴れに行こうか。
@@ -268,7 +268,7 @@
 
 <div class='transcriptText'>
 	<narrator>Raynor</narrator>
-	<audio class='dialogue'><source src='./audio/14.flac' type='audio/mpeg'></audio>
+	<audio class='dialogue'><source src='./audio/14.flac' type="audio/flac"></audio>
 
 	<div class='japanese'>
 		おわっ…と、なんだこりゃ？
@@ -294,7 +294,7 @@
 <div class='transcriptText'>
 	<div class='subBlock'>
 	    <narrator>SCV</narrator>
-		<audio class='dialogue'><source src='./audio/11.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/11.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			助かったよ。ザーグのおかげで、
 			この何日かバンカーにこもりきりだったんだ。
@@ -320,7 +320,7 @@
 
 	<div class='subBlock'>
 		<narrator>Raynor</narrator>
-		<audio class='dialogue'><source src='./audio/10.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/10.flac' type="audio/flac"></audio>
 
 		<div class='japanese'>
 			ちっと古いが、こいつはこれでなかなか使えるんだ。
@@ -343,7 +343,7 @@
 
 <div class='transcriptText'>
 	<narrator>Firebat</narrator>
-	<audio class='dialogue'><source src='./audio/12.flac' type='audio/mpeg'></audio>
+	<audio class='dialogue'><source src='./audio/12.flac' type="audio/flac"></audio>
 	<div class='japanese'>
 	    火、貸そうか？
 	</div>
@@ -364,7 +364,7 @@
 <div class='transcriptText'>
 	<div class='subBlock'>
 		<narrator>Marine</narrator>
-		<audio class='dialogue'><source src='./audio/15_v2.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/15_v2.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 		    コマンドセンターが…
 			ひでえもんだぜ。
@@ -383,7 +383,7 @@
 
     <div class='subBlock'>
     	<narrator>Firebat</narrator>
-	    <audio class='dialogue'><source src='./audio/15.flac' type='audio/mpeg'></audio>
+	    <audio class='dialogue'><source src='./audio/15.flac' type="audio/flac"></audio>
 	    <div class='japanese'>
 	        コマンドセンターが…
 	        ひでえもんだぜ。
@@ -396,7 +396,7 @@
 
 	<div class='subBlock'>
 		<narrator>Raynor</narrator>
-		<audio class='dialogue'><source src='./audio/17.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/17.flac' type="audio/flac"></audio>
 
 		<div class='japanese'>
 			ひでぇもんだぜ！
@@ -429,7 +429,7 @@
 <div class='transcriptText'>
 	<div class='subBlock'>
 		<narrator>Advisor</narrator>
-		<audio class='dialogue'><source src='./audio/18.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/18.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			メッセージ受信中…。
 		</div>
@@ -440,7 +440,7 @@
 
 	<div class='subBlock'>
 		<narrator>Duke</narrator>
-		<audio class='dialogue'><source src='./audio/19.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/19.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			ライナー秘書官、連邦同盟軍の
 			重要な基地を破壊したことにより、
@@ -490,7 +490,7 @@
 
 	<div class='subBlock'>
 		<narrator>Raynor</narrator>
-		<audio class='dialogue'><source src='./audio/20.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/20.flac' type="audio/flac"></audio>
 
 		<div class='japanese'>
 			気は確かかよ？ 基地を破壊しな
@@ -532,7 +532,7 @@
 
 	<div class='subBlock'>
 		<narrator>Duke</narrator>
-		<audio class='dialogue'><source src='./audio/21.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/21.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			もう一度だけ言うぞ。私はお前の
 			無駄口につきあう暇などない。
@@ -558,7 +558,7 @@
 
 	<div class='subBlock'>
 		<narrator>Raynor</narrator>
-		<audio class='dialogue'><source src='./audio/22.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/22.flac' type="audio/flac"></audio>
 
 		<div class='japanese'>
 			連邦同盟軍の野郎とまともな話を

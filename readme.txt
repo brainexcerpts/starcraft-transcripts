@@ -7,17 +7,21 @@ Welcome to this English and Japanese transcript of the "StarCraft® 1998" campai
 Instructions
 ------------
 
-I recommend using "vscode" to edit the files of this project
-Set it to use tabs and not spaces
-<pre> </pre> tag  will preserve line returns
+I recommend using "vscode" to edit and view the files of this project.
+You must launch template.html using a webserver, otherwise JS code won't
+properly execute. The easiest way is to open the project with vscode
+install the "Live Server" plugin and launch template.html with a right click
+-> "Open to Live Server". template.html should output the same as terran.html
+terran.html should not be edited this is automatically generated content
+(copy paste from template.html). terran.html should not need a webserver
+and can be opened as is for anyone to use offline easily.
 
-Parsing
+
+Editing
 -------
 
-The transcript is divided into several ".htmlr" files.
-Those will be parsed and put together to produce the final html file
-with proper styling and functionalities like play button for audio and icons to switch between languages.
-See parser.js.
+Set it to use tabs and not spaces
+<pre> </pre> tag  will preserve line returns
 
 In a .htmlr:
 
@@ -38,8 +42,18 @@ Sometimes I omit the space and only put a tab in front of 漢字[かんじ],
 this is on purpose so it won't gets converted to ruby syntax and will be displayed verbatim.
 
 
-One reason we name files .htmlr and not .html,
+Note: we name files .htmlr and not .html,
 is to make custom shortcuts (added inside vscode) to only apply to the extension .htmlr
+
+
+Parsing
+-------
+
+The transcript is divided into several ".htmlr" files.
+Those will be parsed and put together to produce the final html file
+with proper styling and functionalities like play button for audio and icons to switch between languages.
+See parser.js.
+
 
 Editor
 ------

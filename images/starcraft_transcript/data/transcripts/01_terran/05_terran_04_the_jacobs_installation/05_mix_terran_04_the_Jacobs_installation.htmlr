@@ -68,7 +68,7 @@
 <div class='transcriptText'>
 	<div class='subBlock'>
     	<narrator>Advisor</narrator>
-	    	<audio class='dialogue'><source src='./audio/01.flac' type='audio/mpeg'></audio>
+	    	<audio class='dialogue'><source src='./audio/01.flac' type="audio/flac"></audio>
 	    	<div class='japanese'>
 	    		「コーハルの息子達」との関係を当局が調査終了するまであなたは謹慎処分となります。
 	    		メッセージを受信中…。
@@ -105,7 +105,7 @@
 <div class='transcriptText'>
 	<div class='subBlock'>
 		<narrator>Raynor</narrator>
-		<audio class='dialogue'><source src='./audio/02.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/02.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			よう。アルクトゥルスの部下達に助けてもらったんだ。
 			オレ達と一緒でやつらも連邦同盟軍のやってることに、いやになってるんだ。
@@ -143,7 +143,7 @@
 
 	<div class='subBlock'>
 		<narrator>Mengsk</narrator>
-		<audio class='dialogue'><source src='./audio/03.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/03.flac' type="audio/flac"></audio>
 
 		<div class='japanese'>
 			司令官、マー・サラはほとんど
@@ -179,7 +179,7 @@
 
 
 	<div class='subBlock'>
-		<audio class='dialogue'><source src='./audio/04.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/04.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			ここの連邦同盟軍前哨基地を急襲し、
 			ネットワークの中から兵器の模型図か設計図のようなものを探し出してもらいたいのだ。
@@ -221,7 +221,7 @@
 
     <div class='subBlock'>
         <narrator>Raynor</narrator>
-        <audio class='dialogue'><source src='./audio/05.flac' type='audio/mpeg'></audio>
+        <audio class='dialogue'><source src='./audio/05.flac' type="audio/flac"></audio>
         <div class='japanese'>
             オレも行こう。
         </div>
@@ -255,7 +255,7 @@
 
 <div class='transcriptText'>
 	<div class='subBlock'>
-		<audio class='dialogue'><source src='./audio/18.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/18.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			テレポートフィールド始動。
 		</div>
@@ -284,7 +284,7 @@
 
 <div class='transcriptText'>
 	<narrator>Civilian</narrator>
-	<audio class='dialogue'><source src='./audio/11.flac' type='audio/mpeg'></audio>
+	<audio class='dialogue'><source src='./audio/11.flac' type="audio/flac"></audio>
 
 	<div class='japanese'>
 		おい！ ここは立ち入り禁止だぞ！
@@ -308,7 +308,7 @@
 
 <div class='transcriptText'>
 	<narrator>Advisor</narrator>
-	<audio class='dialogue'><source src='./audio/16.flac' type='audio/mpeg'></audio>
+	<audio class='dialogue'><source src='./audio/16.flac' type="audio/flac"></audio>
 	<div class='french'>
 		セキュリティカメラ始動。
 		<pre>
@@ -329,7 +329,7 @@
 
 <div class='transcriptText'>
 	<div class='subBlock'>
-		<audio class='dialogue'><source src='./audio/18.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/18.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			テレポートフィールド始動。
 		</div>
@@ -375,7 +375,7 @@
 
 <div class='transcriptText'>
 	<narrator>Civilian</narrator>
-	<audio class='dialogue'><source src='./audio/12.flac' type='audio/mpeg'></audio>
+	<audio class='dialogue'><source src='./audio/12.flac' type="audio/flac"></audio>
 	<div class='japanese'>
 		反逆者め！
 	</div>
@@ -423,7 +423,7 @@
 
 	<div class='subBlock'>
 		<narrator>Raynor</narrator>
-		<audio class='dialogue'><source src='./audio/07.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/07.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			ザーグだって？ 嘘だろう？
 		</div>
@@ -440,7 +440,7 @@
 
 	<div class='subBlock'>
 		<narrator>Mengsk</narrator>
-		<audio class='dialogue'><source src='./audio/08.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/08.flac' type="audio/flac"></audio>
 
 		<div class='japanese'>
 			間違いない。私は１年も前に連邦同盟軍の
@@ -497,7 +497,7 @@
 
 <div class='transcriptText'>
 	<div class='subBlock'>
-		<audio class='dialogue'><source src='./audio/18.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/18.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			テレポートフィールド始動。
 		</div>
@@ -522,7 +522,7 @@
 
 	<div class='subBlock'>
 		<narrator>Marine</narrator>
-		<audio class='dialogue'><source src='./audio/13.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/13.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			やつらだ！ 撃ち殺せ！
 		</div>
@@ -541,7 +541,7 @@
 
 	<div class='subBlock'>
 		<narrator>Advisor</narrator>
-		<audio class='dialogue'><source src='./audio/14.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/14.flac' type="audio/flac"></audio>
 
 		<div class='japanese'>
 			侵入者確認。
@@ -637,7 +637,7 @@
 </div>
 
 <div class='transcriptText'>
-	<audio class='dialogue'><source src='./audio/10.flac' type='audio/mpeg'></audio>
+	<audio class='dialogue'><source src='./audio/10.flac' type="audio/flac"></audio>
 	<narrator>Raynor</narrator>
 
 	<div class='japanese'>

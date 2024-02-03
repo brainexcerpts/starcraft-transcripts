@@ -69,7 +69,7 @@
 
 <div class='transcriptText'>
 	<narrator>Advisor</narrator>
-	<audio class='dialogue'><source src='./audio/t1b00tad.flac' type='audio/mpeg'></audio>
+	<audio class='dialogue'><source src='./audio/t1b00tad.flac' type="audio/flac"></audio>
 
 	<div class='japanese'>
 		補助オンラインです。
@@ -121,7 +121,7 @@
 <div class='transcriptText'>
 	<div class='subBlock'>
 		<narrator>Duke</narrator>
-		<audio class='dialogue'><source src='./audio/t1b01udu.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/t1b01udu.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			夜分遅く失礼する。
 			私は連邦同盟軍アルファ部隊、エドモンド・デユーク大佐だ。
@@ -164,7 +164,7 @@
 
 	<div class='subBlock'>
 		<narrator>Advisor</narrator>
-		<audio class='dialogue'><source src='./audio/t1b02tad.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/t1b02tad.flac' type="audio/flac"></audio>
 
 		<div class='japanese'>
 			通信終了しました。
@@ -250,7 +250,7 @@
 <div class='transcriptText'>
 	<div class='subBlock'>
 		<narrator>Terran SCV</narrator>
-		<audio class='dialogue'><source src='./audio/t1b04tad.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/t1b04tad.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			こんな何もない場所に移動か？
 			同盟軍はオレ達を人間扱いしてねぇよな。
@@ -278,7 +278,7 @@
 
 <div class='transcriptText'>
 	<narrator>Raynor</narrator>
-	<audio class='dialogue'><source src='./audio/t1b05tad.flac' type='audio/mpeg'></audio>
+	<audio class='dialogue'><source src='./audio/t1b05tad.flac' type="audio/flac"></audio>
 	<div class='japanese'>
 		よう。オレはジム・ライナー。
 		この地区の法務秘書官だ。
@@ -319,7 +319,7 @@
 <div class='transcriptText'>
 	<div class='subBlock'>
 		<narrator>Advisor</narrator>
-		<audio class='dialogue'><source src='./audio/t1b07tad.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/t1b07tad.flac' type="audio/flac"></audio>
 
 		<div class='japanese'>
 			マリーンのような歩兵ユニットは

@@ -21,7 +21,7 @@
 <h2>Prologue</h2>
 <div class='transcriptText'>
 	<audio controls="">
-		<source src="./audio/trdyroom.flac" type="audio/mpeg">
+		<source src="./audio/trdyroom.flac" type="audio/flac">
 	</audio>
 
 	<!-- <img src="./shot_0.png" alt="shot_0.png" width="100%" height="100%"> -->
@@ -179,7 +179,7 @@
 
 
 <div class='transcriptText'>
-	<audio class="dialogue"><source src="./audio/t0b00tad.flac" type="audio/mpeg"></audio>
+	<audio class="dialogue"><source src="./audio/t0b00tad.flac" type="audio/flac"></audio>
 	<narrator>Advisor</narrator>
 	<div class="japanese">
 		惑星マー ．サラへようこそ、 司法官。
@@ -207,7 +207,7 @@
 
 
 <div class='transcriptText'>
-	<audio class='dialogue'><source src='./audio/t0b01tad.flac' type='audio/mpeg'></audio>
+	<audio class='dialogue'><source src='./audio/t0b01tad.flac' type="audio/flac"></audio>
 
 	<div class="japanese">
 		スタートを選択するとデモをご覧になります。
@@ -237,7 +237,7 @@
 <div class='transcriptText'>
 
 	<div class="subBlock">
-		<audio class='dialogue'><source src='./audio/t0b02tad.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/t0b02tad.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			よろしければ、「スタート」を選択してください。
 		</div>
@@ -248,7 +248,7 @@
 	</div>
 
 	<div class='subBlock'>
-		<audio class='dialogue'><source src='./audio/t0b03tad.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/t0b03tad.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			いつでもどうぞ。
 		</div>
@@ -258,7 +258,7 @@
 	</div>
 
 	<div class='subBlock'>
-		<audio class='dialogue'><source src='./audio/t0b04tad.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/t0b04tad.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 		よろしいですか？
 		</div>
@@ -268,7 +268,7 @@
 	</div>
 
 	<div class='subBlock'>
-		<audio class='dialogue'><source src='./audio/t0b05tad.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/t0b05tad.flac' type="audio/flac"></audio>
 			<div class='japanese'>
 			司法官？ どうなさいました？
 			</div>
@@ -435,7 +435,7 @@
 
 	<div class='subBlock'>
 		<narrator>Advisor</narrator>
-		<audio class='dialogue'><source src='./audio/t0m00tad.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/t0m00tad.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			戦場での建設と資源の採集に、
 			T-  280型SCVは欠かせないユニットです
@@ -464,7 +464,7 @@
 
 	<div class='subBlock'>
 		<narrator>SCV</narrator>
-		<audio class='dialogue'><source src='./audio/roger.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/roger.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			ラジャー！
 		</div>
@@ -484,7 +484,7 @@
 <div class='transcriptText'>
 	<div class='subBlock'>
 		<narrator>Advisor</narrator>
-		<audio class='dialogue'><source src='./audio/t0m01tad.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/t0m01tad.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			本拠地を拡大させるには、多くのSCVが必要です。
 		</div>
@@ -506,7 +506,7 @@
 
 	<div class='subBlock'>
 		<narrator>Advisor</narrator>
-		<audio class='dialogue'><source src='./audio/t0m21tad.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/t0m21tad.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			コマンドセンターで新しいSCVを生産できます。
 		</div>
@@ -542,7 +542,7 @@
 
 <div class='transcriptText'>
 	<div class='subBlock'>
-		<audio class='dialogue'><source src='./audio/t0m22tad.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/t0m22tad.flac' type="audio/flac"></audio>
 		<div class="'english">
 			It is these blue crystals that are source of minerals.
 			Use your SCVs to gather additional minerals.
@@ -571,7 +571,7 @@
 <div class='transcriptText'>
 	<div class='subBlock'>
 		<narrator>Advisor</narrator>
-		<audio class='dialogue'><source src='./audio/t0m24tad.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/t0m24tad.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			ユニットを追加するときは、ユニットをサポート
 			できる数だけサプライデポが必要です。
@@ -593,7 +593,7 @@
 
 	<div class='subBlock'>
 		<narrator>Advisor</narrator>
-		<audio class='dialogue'><source src='./audio/t0m25tad.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/t0m25tad.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			SCVがサプライデポを建設できます。
 		</div>
@@ -670,7 +670,7 @@
 <div class='transcriptText'>
 	<div class='subBlock'>
 		<narrator>Advisor</narrator>
-		<audio class='dialogue'><source src='./audio/t0m28tad.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/t0m28tad.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			司法官、資源倉庫が空になりました。
 		</div>
@@ -715,7 +715,7 @@
 <div class='transcriptText'>
 	<div class='subBlock'>
 		<narrator>Advisor</narrator>
-		<audio class='dialogue'><source src='./audio/t0m29tad.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/t0m29tad.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			SCVを選択して「採集」コマンドをクリスタルの上でクリックすると、クリスタルを採集できます
 		</div>
@@ -745,7 +745,7 @@
 <div class='transcriptText'>
 	<div class='subBlock'>
 		<narrator>Advisor</narrator>
-		<audio class='dialogue'><source src='./audio/t0m31tad.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/t0m31tad.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			リファイナリーは未精製のベスペネガスを、
 			SCVが採集できる形に加工します
@@ -803,7 +803,7 @@
 	<narrator>Marine</narrator>
 
 	<div class='subBlock'>
-		<audio class='dialogue'><source src='./audio/t0m33tma.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/t0m33tma.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			話させてもらってもかまわねぇですか？
 		</div>
@@ -821,7 +821,7 @@
 	</div>
 
 	<div class='subBlock'>
-		<audio class='dialogue'><source src='./audio/t0m34tma.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/t0m34tma.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			オレ達をうまく使うコツってのがあるんでさぁ。
 
@@ -921,7 +921,7 @@
 
 <div class='transcriptText'>
 	<narrator>Advisor</narrator>
-	<audio class='dialogue'><source src='./audio/t0m27tad.flac' type='audio/mpeg'></audio>
+	<audio class='dialogue'><source src='./audio/t0m27tad.flac' type="audio/flac"></audio>
 	<div class='japanese'>
 		以上で設備のデモは終了です。
 		マー・サラ基地には通信設備もそろっています。

@@ -66,7 +66,7 @@
 <div class='transcriptText'>
 	<div class='subBlock'>
 		<narrator>Advisor</narrator>
-		<audio class='dialogue'><source src='./audio/01.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/01.flac' type="audio/flac"></audio>
 
 		<div class='japanese'>
 			アンティガの反乱により、連邦同盟軍はパニックに陥っています。
@@ -112,7 +112,7 @@
 <div class='transcriptText'>
 	<div class='subBlock'>
 		<narrator>Duke</narrator>
-		<audio class='dialogue'><source src='./audio/02.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/02.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			こちら、アルファ部隊旗艦ノーラッドIIのデューク将軍。
 			不時着後、ザーグの襲撃に合っている。
@@ -155,7 +155,7 @@
 <div class='transcriptText'>
 	<div class='subBlock'>
 		<narrator>Raynor</narrator>
-		<audio class='dialogue'><source src='./audio/03.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/03.flac' type="audio/flac"></audio>
 
 		<div class='japanese'>
 			ザーグに？ いいざまだ。一度どんなもんか味わってみた方がいいぜ。
@@ -180,7 +180,7 @@
 
 	<div class='subBlock'>
 		<narrator>Mengsk</narrator>
-		<audio class='dialogue'><source src='./audio/04.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/04.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			ジム、彼らを助けに行ってくれないか。
 		</div>
@@ -199,7 +199,7 @@
 
 	<div class='subBlock'>
 		<narrator>Raynor</narrator>
-		<audio class='dialogue'><source src='./audio/05.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/05.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			冗談だろう？
 		</div>
@@ -216,7 +216,7 @@
 
 	<div class='subBlock'>
 		<narrator>Kerrigan</narrator>
-		<audio class='dialogue'><source src='./audio/06.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/06.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			気でも狂ったの？
 		</div>
@@ -237,7 +237,7 @@
 
 	<div class='subBlock'>
 		<narrator>Mengsk</narrator>
-		<audio class='dialogue'><source src='./audio/07.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/07.flac' type="audio/flac"></audio>
 
 		<div class='japanese'>
 			まあ聞け。デューク大尉が冷血漢だというのはよくわかっている。
@@ -273,7 +273,7 @@
 <div class='transcriptText'>
 	<div class='subBlock'>
 		<narrator>Kerrigan</narrator>
-		<audio class='dialogue'><source src='./audio/08.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/08.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			気に入らないわ。
 		</div>
@@ -290,7 +290,7 @@
 
 	<div class='subBlock'>
 		<narrator>Mengsk</narrator>
-		<audio class='dialogue'><source src='./audio/09.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/09.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			好きかどうかの問題ではない。
 			やるのだ。
@@ -309,7 +309,7 @@
 
 	<div class='subBlock'>
 		<narrator>Kerrigan</narrator>
-		<audio class='dialogue'><source src='./audio/10.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/10.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			…了解。
 		</div>
@@ -326,7 +326,7 @@
 
 	<div class='subBlock'>
 		<narrator>Raynor</narrator>
-		<audio class='dialogue'><source src='./audio/11.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/11.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			いいじゃないか。やろうぜ。
 		</div>
@@ -376,7 +376,7 @@
 
 <div class='transcriptText'>
 	<narrator>Raynor</narrator>
-	<audio class='dialogue'><source src='./audio/11b.flac' type='audio/mpeg'></audio>
+	<audio class='dialogue'><source src='./audio/11b.flac' type="audio/flac"></audio>
 
 	<div class='english'>
 		If we're doin' this, we'd better hurry. That
@@ -408,7 +408,7 @@
 <div class='transcriptText'>
 	<div class='subBlock'>
 		<narrator>Duke</narrator>
-		<audio class='dialogue'><source src='./audio/12.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/12.flac' type="audio/flac"></audio>
 		<div class='english'>
 			You're about the last folks I expected to
 			show up. What's your angle here, Mengsk?
@@ -430,7 +430,7 @@
 
 	<div class='subBlock'>
 		<narrator>Raynor</narrator>
-		<audio class='dialogue'><source src='./audio/13.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/13.flac' type="audio/flac"></audio>
 
 		<div class='english'>
 			Our angle? I'll give you an angle, you slimy Confederate piece of -
@@ -460,7 +460,7 @@
 
 	<div class='subBlock'>
 		<narrator>Mengsk</narrator>
-		<audio class='dialogue'><source src='./audio/14.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/14.flac' type="audio/flac"></audio>
 
 		<div class='japanese'>
 			ジム、黙っていなさい。ここは私が決めよう。
@@ -506,7 +506,7 @@
 <div class='transcriptText'>
 	<div class='subBlock'>
 		<narrator>Duke</narrator>
-		<audio class='dialogue'><source src='./audio/15.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/15.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			何が言いたい？
 		</div>
@@ -521,7 +521,7 @@
 
 	<div class='subBlock'>
 		<narrator>Mengsk</narrator>
-		<audio class='dialogue'><source src='./audio/16.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/16.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			私はあなたに選ぶ権利を与えているのだよ。
 			連邦同盟軍へ戻り敗北を選ぶか、我々に加わり
@@ -562,7 +562,7 @@
 
 	<div class='subBlock'>
 		<narrator>Duke</narrator>
-		<audio class='dialogue'><source src='./audio/17.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/17.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			きさまの仲間になれだと？ 仮にも私は将軍だぞ！
 		</div>
@@ -585,7 +585,7 @@
 <div class='transcriptText'>
 	<div class='subBlock'>
 		<narrator>Mengsk</narrator>
-		<audio class='dialogue'><source src='./audio/18.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/18.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			軍を持たぬ将軍か？ バックウォーター程度の
 			ポストではなく、あなたを閣僚として我が組織に
@@ -619,7 +619,7 @@
 
 	<div class='subBlock'>
 		<narrator>Duke</narrator>
-		<audio class='dialogue'><source src='./audio/19.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/19.flac' type="audio/flac"></audio>
 
 		<div class='japanese'>
 			…わかった。メンスク、取り引き成立だ。
@@ -641,7 +641,7 @@
 
    <div class='subBlock'>
       <narrator>Mengsk</narrator>
-      <audio class='dialogue'><source src='./audio/20.flac' type='audio/mpeg'></audio>
+      <audio class='dialogue'><source src='./audio/20.flac' type="audio/flac"></audio>
       <div class='japanese'>
          正しい選択だよ。デューク将軍。
       </div>
@@ -662,7 +662,7 @@
 <div class='transcriptText'>
 	<div class='subBlock'>
 		<narrator>Raynor</narrator>
-		<audio class='dialogue'><source src='./audio/21.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/21.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			本気でこんな狸親父を信じるのか？
 		</div>
@@ -684,7 +684,7 @@
 
 	<div class='subBlock'>
 		<narrator>Mengsk</narrator>
-		<audio class='dialogue'><source src='./audio/22.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/22.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			ジム、狸も飼えばかわいいものだ。
 		</div>

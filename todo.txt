@@ -3,7 +3,7 @@ TODO list.
 Priority:
 ---------
 
-- Final check for the english transcript against walkthrough video. 
+- Final check for the english transcript against walkthrough video.
 (Japanese is already checked)
 - Finish Protoss and Zerg campain
 (we need to insert audio tags, match english in htmlr to japanese in /raw_campaign, detail the japanese)
@@ -19,6 +19,7 @@ Secondary:
 Tertiary:
 ----------
 
+- Starcraft manual EN/JP transcript (especially the history of Terran/Zerg/Protoss)
 - BroodWar campaign?
 (based on remastered version since there is no Japanese for the original 1998)
 - Global menu to switch language for everything. (see toggleJapanese())

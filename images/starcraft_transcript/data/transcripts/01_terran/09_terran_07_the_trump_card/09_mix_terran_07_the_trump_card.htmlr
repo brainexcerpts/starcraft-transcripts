@@ -71,7 +71,7 @@
 <div class='transcriptText'>
 	<div class='subBlock'>
 		<narrator>Advisor</narrator>
-		<audio class='dialogue'><source src='./audio/01.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/01.flac' type="audio/flac"></audio>
 
 		<div class='japanese'>
 			司令官、この場所が発見されてしまいました。
@@ -116,7 +116,7 @@
 <div class="transcriptText">
 	<div class='subBlock'>
 		<narrator>Mengsk</narrator>
-		<audio class='dialogue'><source src='./audio/02.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/02.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			連邦同盟軍の攻撃部隊のことは気になるだろうが、
 			まず、我々は重大な問題を論議しなければならない。
@@ -159,7 +159,7 @@
 <div class='transcriptText'>
 	<div class='subBlock'>
 		<narrator>Kerrigan</narrator>
-		<audio class='dialogue'><source src='./audio/03.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/03.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			連邦同盟軍が感応能力を持った人間を訓練するプログラムを持っているのは知ってるわね。
 			ゴーストにする訓練よ。
@@ -195,7 +195,7 @@
 
 	<div class='subBlock'>
 		<narrator>Raynor</narrator>
-		<audio class='dialogue'><source src='./audio/04.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/04.flac' type="audio/flac"></audio>
 
 		<div class='japanese'>
 			じゃあ、ザーグはきみに会いにきてるのか？
@@ -225,7 +225,7 @@
 
 	<div class='subBlock'>
 		<narrator>Kerrigan</narrator>
-		<audio class='dialogue'><source src='./audio/05.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/05.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			うるさいわね。連邦同盟軍はゴーストとザーグに関連する研究を秘密裏に行ってるの。
 			私たちが盗んだものはパズルの１ピースみたいなものだけど、１番大事なピースだわ。
@@ -270,7 +270,7 @@
 <div class='transcriptText'>
 	<div class='subBlock'>
 		<narrator>Arcturus Mengsk</narrator>
-		<audio class='dialogue'><source src='./audio/06.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/06.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			連邦同盟軍はサイエミッターを利用して、ザーグをある特定の場所へおびき出しているのだ。
 			司令官、あなたの惑星マー・サラも、選ばれたの一つだったのだよ。
@@ -298,7 +298,7 @@
 
 	<div class='subBlock'>
 		<narrator>Raynor</narrator>
-		<audio class='dialogue'><source src='./audio/07.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/07.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			どういう意味だ？
 		</div>
@@ -314,7 +314,7 @@
 <div class='transcriptText'>
 	<div class='subBlock'>
 		<narrator>Arcturus Mengsk</narrator>
-		<audio class='dialogue'><source src='./audio/08.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/08.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			ザーグが連邦同盟軍によって開発された秘密兵器だと言っているのだ。
 			連邦同盟軍は、あなたたちを兵器実験の対象にしたんだ！
@@ -338,7 +338,7 @@
 
 
 	<div class='subBlock'>
-		<audio class='dialogue'><source src='./audio/09.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/09.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			彼らが核兵器でコーハルを破壊し支配を置いた１世紀前と同じように、
 			ザーグを使って他のライバルを一掃しようというのだ。
@@ -392,7 +392,7 @@
 
 
 	<div class='subBlock'>
-		<audio class='dialogue'><source src='./audio/10.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/10.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			こうするのだ。
 			ケリガン少尉に連邦同盟軍基地にサイエミッターを設置してもらう。
@@ -428,7 +428,7 @@
 <div class='transcriptText'>
 	<div class='subBlock'>
 		<narrator>Kerrigan</narrator>
-		<audio class='dialogue'><source src='./audio/12.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/12.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			アルクトゥルス、それがいいことだとは思え
 			ないの。たとえ誰であろうと、ザーグを操って
@@ -453,7 +453,7 @@
 
 	<div class='subBlock'>
 		<narrator>Mengsk</narrator>
-		<audio class='dialogue'><source src='./audio/13.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/13.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			今回のことは個人的な感情が入るのもやむを
 			えん。しかし、過去のせいで判断が狂うのは
@@ -486,7 +486,7 @@
 
 	<div class='subBlock'>
 		<narrator>Kerrigan</narrator>
-		<audio class='dialogue'><source src='./audio/14.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/14.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			…了解。
 		</div>
@@ -567,7 +567,7 @@
 <div class='transcriptText'>
 	<div class='subBlock'>
 		<narrator>Kerrigan</narrator>
-		<audio class='dialogue'><source src='./audio/16.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/16.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			サイエミッターを設置。でも、もうこんなことは二度としないって約束してちょうだい。
 		</div>
@@ -589,7 +589,7 @@
 
 	<div class='subBlock'>
 		<narrator>Mengsk</narrator>
-		<audio class='dialogue'><source src='./audio/17.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/17.flac' type="audio/flac"></audio>
 		<div class='french'>
 			 人類[じんるい]を 救[すく]うためには、 我々[われわれ]は 何[なに]をすることも 厭わぬ[いとわぬ]つもりだ。
 			 それほど 我々[われわれ]に 課[か]せられた 責任[せきにん]は 重[おも]いのだ。

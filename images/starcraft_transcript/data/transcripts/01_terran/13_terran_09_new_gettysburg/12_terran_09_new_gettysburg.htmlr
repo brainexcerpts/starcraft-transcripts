@@ -82,7 +82,7 @@
 
 <div class='transcriptText'>
 	<narrator>Advisor</narrator>
-	<audio class='dialogue'><source src='./audio/TBB00tad.flac' type='audio/mpeg'></audio>
+	<audio class='dialogue'><source src='./audio/TBB00tad.flac' type="audio/flac"></audio>
 	<div class='english'>
 		I've picked up several dozen Protoss warships descending upon Tarsonis.
 		They seem to be heading on a direct course to the primary Zerg Hive.
@@ -109,7 +109,7 @@
 
 <div class='transcriptText'>
 	<narrator>Mengsk</narrator>
-	<audio class='dialogue'><source src='./audio/TBB01ume.flac' type='audio/mpeg'></audio>
+	<audio class='dialogue'><source src='./audio/TBB01ume.flac' type="audio/flac"></audio>
 	<div class='english'>
 		If they engage the Zerg,
 		the Confederates may escape.
@@ -140,7 +140,7 @@
 
 <div class='transcriptText'>
 	<narrator>Raynor</narrator>
-	<audio class='dialogue'><source src='./audio/TBB02ura.flac' type='audio/mpeg'></audio>
+	<audio class='dialogue'><source src='./audio/TBB02ura.flac' type="audio/flac"></audio>
 	<div class='english'>
 		First you sell out every person on this world to the Zerg, then you
 		ask us to go up against the Protoss? And you're goin' to send
@@ -172,7 +172,7 @@
 
 <div class='transcriptText'>
 	<narrator>Mengsk</narrator>
-	<audio class='dialogue'><source src='./audio/TBB03ume.flac' type='audio/mpeg'></audio>
+	<audio class='dialogue'><source src='./audio/TBB03ume.flac' type="audio/flac"></audio>
 	<div class='english'>
 		I have absolute confidence in
 		Kerrigan's ability to hold off the Protoss.
@@ -195,7 +195,7 @@
 
 <div class='transcriptText'>
 	<narrator>Raynor</narrator>
-	<audio class='dialogue'><source src='./audio/TBB04ura.flac' type='audio/mpeg'></audio>
+	<audio class='dialogue'><source src='./audio/TBB04ura.flac' type="audio/flac"></audio>
 	<div class='english'>
 		This is bullshit. Kerrigan, are you reading this?
 	</div>
@@ -214,7 +214,7 @@
 
 <div class='transcriptText'>
 	<narrator>Kerrigan</narrator>
-	<audio class='dialogue'><source src='./audio/TBB05uke.flac' type='audio/mpeg'></audio>
+	<audio class='dialogue'><source src='./audio/TBB05uke.flac' type="audio/flac"></audio>
 	<div class='english'>
 		I heard. I'm going down there.
 		Arcturus knows what he's doing. I can't back out on him now.
@@ -238,7 +238,7 @@
 
 <div class='transcriptText'>
 	<narrator>Raynor</narrator>
-	<audio class='dialogue'><source src='./audio/TBB06ura.flac' type='audio/mpeg'></audio>
+	<audio class='dialogue'><source src='./audio/TBB06ura.flac' type="audio/flac"></audio>
 	<div class='english'>
 		Funny. I never thought of you as anyone's martyr.
 	</div>
@@ -278,7 +278,7 @@
 <div class='transcriptText'>
 	<div class='subBlock'>
 		<narrator>Raynor</narrator>
-		<audio class='dialogue'><source src='./audio/tbm00ura.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/tbm00ura.flac' type="audio/flac"></audio>
 		<div class='english'>
 			Why are you doing this, Kerrigan? Look. I know about your past.
 			I mean, I've heard the rumors. I know you were a part of those
@@ -316,7 +316,7 @@
 
 
 	<div class='subBlock'>
-		<audio class='dialogue'><source src='./audio/tbm01uke.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/tbm01uke.flac' type="audio/flac"></audio>
 		<narrator>Kerrigan</narrator>
 		<div class='english'>
 			Jimmy, drop the knight-in-shining-armor routine.
@@ -366,7 +366,7 @@
 
 	<div class='subBlock'>
 		<narrator>Raynor</narrator>
-		<audio class='dialogue'><source src='./audio/TBM04ura.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/TBM04ura.flac' type="audio/flac"></audio>
 		<div class='english'>
 			I hope you're right, darlin'. Good huntin'!
 		</div>
@@ -389,7 +389,7 @@
 <div class='transcriptText'>
 	<div class='subBlock'>
 		<narrator>Advisor</narrator>
-		<audio class='dialogue'><source src='./audio/TBM40tad.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/TBM40tad.flac' type="audio/flac"></audio>
 		<div class='english'>
 		   Receiving incoming transmission:
 		</div>
@@ -406,7 +406,7 @@
 
 	<div class='subBlock'>
    	<narrator>Kerrigan</narrator>
-	   	<audio class='dialogue'><source src='./audio/TBM41uke.flac' type='audio/mpeg'></audio>
+	   	<audio class='dialogue'><source src='./audio/TBM41uke.flac' type="audio/flac"></audio>
 	   	<div class='english'>
 	   		This is Kerrigan. We've neutralized the Protoss,
 			but there's a wave of Zerg advancing on this position.
@@ -437,7 +437,7 @@
 <div class="transcriptText">
 	<div class='subBlock'>
 		<narrator>Mengsk</narrator>
-		<audio class='dialogue'><source src='./audio/TBM42ume.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/TBM42ume.flac' type="audio/flac"></audio>
 		<div class='english'>
 			Belay that order. We're moving out.
 
@@ -462,7 +462,7 @@
 		<div class='english'>
 			What? You're not just gonna leave them?
 		</div>
-		<audio class='dialogue'><source src='./audio/TBM43ura.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/TBM43ura.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			なんだって？置いていくつもりか？
 		</div>
@@ -477,7 +477,7 @@
 
 <div class='transcriptText'>
 	<div class='subBlock'>
-		<audio class='dialogue'><source src='./audio/TBM44ume.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/TBM44ume.flac' type="audio/flac"></audio>
 		<narrator>Mengsk</narrator>
 		<div class='english'>
 			All ships prepare to move away from Tarsonis on my mark.
@@ -505,7 +505,7 @@
 		<div class='english'>
 			Uh, boys? How about that evac?
 		</div>
-		<audio class='dialogue'><source src='./audio/TBM45uke.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/TBM45uke.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			もしもし？避難方法は？
 		</div>
@@ -525,7 +525,7 @@
 		<div class='english'>
 			Damn you, Arcturus! Don't do this.
 		</div>
-		<audio class='dialogue'><source src='./audio/TBM46ura.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/TBM46ura.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			アルクトゥルス！
 		</div>
@@ -537,7 +537,7 @@
 
 	<div class='subBlock'>
 		<narrator>Mengsk</narrator>
-		<audio class='dialogue'><source src='./audio/TBM47ume.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/TBM47ume.flac' type="audio/flac"></audio>
 		<div class='english'>
 			It's done. Helmsman, signal the fleet, and
 			take us out of orbit. Now!
@@ -560,7 +560,7 @@
 
 	<div class='subBlock'>
 		<narrator>Kerrigan</narrator>
-		<audio class='dialogue'><source src='./audio/TBm48uke.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/TBm48uke.flac' type="audio/flac"></audio>
 		<div class='english'>
 			Commander? Jim? What the hell's going on up there-
 		</div>

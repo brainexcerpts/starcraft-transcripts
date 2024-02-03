@@ -69,7 +69,7 @@
 <div class='transcriptText'>
 	<div class='subBlock'>
 		<narrator>Advisor</narrator>
-		<audio class='dialogue'><source src='./audio/01.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/01.flac' type="audio/flac"></audio>
 
 		<div class='japanese'>
 			メッセージ受信中…接続完了しました。
@@ -93,7 +93,7 @@
 
 <div class='transcriptText'>
 	<narrator>Duke</narrator>
-	<audio class='dialogue'><source src='./audio/02.flac' type='audio/mpeg'></audio>
+	<audio class='dialogue'><source src='./audio/02.flac' type="audio/flac"></audio>
 
 	<div class='japanese'>
 		君のメッセージは受け取ったよ。
@@ -145,7 +145,7 @@
 
 <div class='transcriptText'>
 	<narrator>Advisor</narrator>
-	<audio class='dialogue'><source src='./audio/03.flac' type='audio/mpeg'></audio>
+	<audio class='dialogue'><source src='./audio/03.flac' type="audio/flac"></audio>
 
 	<div class='japanese'>
 		通信終了しました。
@@ -211,7 +211,7 @@
 <div class='transcriptText'>
 	<div class='subBlock'>
 		<narrator>Mengsk</narrator>
-		<audio class='dialogue'><source src='./audio/04.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/04.flac' type="audio/flac"></audio>
 
 		<div class='japanese'>
 			やあ、司法官。
@@ -279,7 +279,7 @@
 	</div>
 
 	<div class='subBlock'>
-		<audio class='dialogue'><source src='./audio/05.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/05.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			もちろん、私たちの活動は連邦同盟軍の法律を無視したものだ。
 			だからこそ、奴らは私たちについてデマや誤報をまき散らしているわけだが。
@@ -328,7 +328,7 @@
 
 <div class='transcriptText'>
 	<narrator>Advisor</narrator>
-	<audio class='dialogue'><source src='./audio/07.flac' type='audio/mpeg'></audio>
+	<audio class='dialogue'><source src='./audio/07.flac' type="audio/flac"></audio>
 
 	<div class='japanese'>
 		通信完了…緊急事態発生！
@@ -363,7 +363,7 @@
 <div class='transcriptText'>
 	<div class='subBlock'>
 		<narrator>Advisor</narrator>
-		<audio class='dialogue'><source src='./audio/13.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/13.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			司法官、分析結果によれば、ザーグの
 			攻撃をくぐり抜け、メンスク氏の輸送船に
@@ -427,7 +427,7 @@
 <div class='transcriptText'>
 	<div class='subBlock'>
 		<narrator>Vulture</narrator>
-		<audio class='dialogue'><source src='./audio/09.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/09.flac' type="audio/flac"></audio>
 
 		<div class='japanese'>
 			おい、燃えちまってるぞ！ SCVをおくって
@@ -454,7 +454,7 @@
 
 	<div class='subBlock'>
 		<narrator>Marine</narrator>
-		<audio class='dialogue'><source src='./audio/10.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/10.flac' type="audio/flac"></audio>
 
 		<div class='japanese'>
 			ヤバそうになったら、バンカーに
@@ -479,7 +479,7 @@
 
 <div class='transcriptText'>
 	<narrator>Advisor</narrator>
-	<audio class='dialogue'><source src='./audio/11.flac' type='audio/mpeg'></audio>
+	<audio class='dialogue'><source src='./audio/11.flac' type="audio/flac"></audio>
 
 	<div class='japanese'>
 		ドロップシップ到着まで10分。
@@ -500,7 +500,7 @@
 
 <div class='transcriptText'>
 	<narrator>Advisor</narrator>
-	<audio class='dialogue'><source src='./audio/12.flac' type='audio/mpeg'></audio>
+	<audio class='dialogue'><source src='./audio/12.flac' type="audio/flac"></audio>
 
 	<div class='japanese'>
 		ドロップシップ到着まで5分。
@@ -517,7 +517,7 @@
 
 <div class='transcriptText'>
 	<narrator>Advisor</narrator>
-	<audio class='dialogue'><source src='./audio/16.flac' type='audio/mpeg'></audio>
+	<audio class='dialogue'><source src='./audio/16.flac' type="audio/flac"></audio>
 
 	<div class='japanese'>
 		ドロップシップ到着まで1分。
@@ -535,7 +535,7 @@
 <div class='transcriptText'>
 	<div class='subBlock'>
 		<narrator>Advisor</narrator>
-		<audio class='dialogue'><source src='./audio/17.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/17.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			ドロップシップ接近中
 		</div>
@@ -552,7 +552,7 @@
 
 	<div class='subBlock'>
 		<narrator>Advisor</narrator>
-		<audio class='dialogue'><source src='./audio/18.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/18.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			ドロップシップに到着
 		</div>
@@ -566,7 +566,7 @@
 
 	<div class='subBlock'>
 		<narrator>Dropship Pilot</narrator>
-		<audio class='dialogue'><source src='./audio/15.flac' type='audio/mpeg'></audio>
+		<audio class='dialogue'><source src='./audio/15.flac' type="audio/flac"></audio>
 
 		<div class='japanese'>
 			おとなしくしてんのよ、ボーヤ！
