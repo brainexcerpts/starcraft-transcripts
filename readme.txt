@@ -44,8 +44,14 @@ is to make custom shortcuts (added inside vscode) to only apply to the extension
 Editor
 ------
 
-To improve productivity:
- - I recommend github copilot
+To improve productivity I recommend:
+
+ - github copilot plugin
+ - html wrapper plugin
+ - Code Spell Checker plugin (English pack etc)
+ - Auto Rename Tag plugin
+ - Auto close Tag plugin
+ - Live Server plugin
  - in VS CODE:  setup: 'keybindings.json' to rapidly generate tags and class
  (manage -> Keyboard shortcuts then press icon to edit json)
   find an example of 'keybindings.json' in the root of this project.
