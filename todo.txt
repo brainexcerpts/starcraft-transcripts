@@ -22,7 +22,9 @@ Tertiary:
 - Starcraft manual EN/JP transcript (especially the history of Terran/Zerg/Protoss)
 - BroodWar campaign?
 (based on remastered version since there is no Japanese for the original 1998)
+- click sound (original starcraft) when clicking language flags
 - Global menu to switch language for everything. (see toggleJapanese())
+- floating table of content to jump to a specific mission or campaing.
 - javascript to generate raw text files: only japanese .txt, only english .txt, side by side .txt.
 - Table of content and separate the campaign into several chapters.
 - Add the narrator "gif portraits" alongside names.

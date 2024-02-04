@@ -68,22 +68,28 @@
 
         function setAudioSourceTo(elt, replace) {
             let boxElt = getBoxElement(elt);
-            let audios = boxElt.querySelectorAll('audio');
+            //let audios = boxElt.querySelectorAll('audio');
+            let audios = boxElt.getElementsByTagName('audio');
             for(let audio of audios)
             {
-                if( audio === null || audio === undefined)
+                if( audio === null || audio === undefined){
+                    console.alert("error: audio is null for element: " + elt);
                     continue;
+                }
                 // get source src of audio:
                 let sourceTag = audio.querySelector('source');
 
-                if( sourceTag === null || sourceTag === undefined)
+                if( sourceTag === null || sourceTag === undefined){
+                    console.alert("error: sourceTag is null for element: " + elt);
                     continue;
+                }
 
                 let src = sourceTag.getAttribute('src');
                 //console.log("src: " + src);
                 // replace some/path/audio/file.ext by some/path/audio/en/file.ext if the file exists:
                 let newSrc = replace(src);
                 // check if file exists:
+                /*
                 fetch(newSrc).then( (response) => {
                     if(response.status == 200){
                         // replace src of audio tag:
@@ -91,6 +97,12 @@
                         audio.load();
                     }
                 });
+                */
+               // fetch won't work for local files, alternative:
+               if( newSrc != src){
+                sourceTag.setAttribute('src', newSrc);
+                audio.load();
+          }
             }
         }
 
@@ -132,20 +144,19 @@
                 audio.currentTime = 0;
             }
 
-            let playButton = boxElt.getElementsByClassName("playbutton");
-            if(playButton.length > 0){
-                playButton[0].style.display = "";
+            let playButtons = boxElt.getElementsByClassName("playbutton");
+            for(let playButton of playButtons){
+                playButton.style.display = "";
             }
 
-            let pauseButton = boxElt.getElementsByClassName("pausebutton")
-
-            if(pauseButton.length > 0){
-                pauseButton[0].style.display = "none";
+            let pauseButtons = boxElt.getElementsByClassName("pausebutton")
+            for(let pauseButton of pauseButtons){
+                pauseButton.style.display = "none";
             }
 
-            let resetbutton = boxElt.getElementsByClassName("resetbutton")
-            if(resetbutton.length > 0){
-                resetbutton[0].style.display = "none";
+            let resetButtons = boxElt.getElementsByClassName("resetbutton")
+            for(let resetButton of resetButtons){
+                resetButton.style.display = "none";
             }
         }
 
@@ -184,3 +195,10 @@
         }
 
         // ---------------------------------------------
+
+        // when page finished loading, erase the donation button:
+        window.onload = function() {
+            let donateButton = document.querySelector('a[href*="paypal"]');
+            if(donateButton != null)
+                donateButton.style.display = 'none';
+        }

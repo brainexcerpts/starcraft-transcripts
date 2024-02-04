@@ -1,18 +1,19 @@
 /* --------------------------
 
-	override main theme: 
+	override main theme:
+    (Specific for my blog rodolphe-vaillant.fr)
 
 ---------------------------- */
 
 html {
     background-image: url("Purple_Nebula.png");
-    background-repeat: repeat; 
+    background-repeat: repeat;
 }
 
 body {
     background-color: rgba(0, 0, 0, 0);
     /* text color: */
-    color: rgb(172, 231, 129);  
+    color: rgb(172, 231, 129);
 }
 
 .empty {
@@ -28,7 +29,7 @@ body {
 }
 
 /*on hover*/
-#content a:hover 
+#content a:hover
 {
     color: #ddff99;
 }
@@ -56,11 +57,55 @@ p.about {
 }
 
 .commentform textarea {
-	
+	background-color: rgba(0,0,0,0.5);
+    color: rgb(172, 231, 129);
+    border-color: #800000;
+    border-radius: 6px;
 }
 
-/* ------------   
-End override 
+.commentinput {
+    background-color: rgba(0,0,0,0.5);
+    color: rgb(172, 231, 129);
+    border-color: #800000;
+    border-radius: 3px;
+}
+
+#spamquiz {
+    color: #99bbff;
+}
+
+.comment-text{
+    border: 1px solid #800000;
+    background-color: rgba(0,0,0,0.5);
+    padding: 10px 10px 5px 10px;
+    width: 97.2%;
+    border-radius: 5px;
+}
+
+.comment{
+    background-color: rgba(0,0,0,0.5);
+    padding: 3px;
+    width: 100%;
+    border-radius: 6px;
+    border: 2px solid #331f1f;
+}
+
+.commentbutton {
+    background-color: rgba(0,0,0,0.5);
+    color: #00cc00;
+    text-decoration: none;
+    padding: 5px;
+    font-size: 14px;
+    height: 30px;
+    border-color: red;
+    font-size: small;
+}
+.commentbutton:hover{
+    color: #ddff99;
+}
+
+/* ------------
+End override
 --------------- */
 
 #starcraft {
@@ -69,9 +114,9 @@ End override
 }
 
 
-*, 
-#starcraft .playbutton, 
-#starcraft .pausebutton, 
+*,
+#starcraft .playbutton,
+#starcraft .pausebutton,
 #starcraft .resetbutton
 {
     cursor: url(cursor_frames/frame1.png), default;
@@ -84,15 +129,15 @@ End override
     25% {cursor: url(cursor_frames/frame2.png), default;}
     50% {cursor: url(cursor_frames/frame3.png), default;}
     75% {cursor: url(cursor_frames/frame4.png), default;}
-    100% {cursor: url(cursor_frames/frame5.png), default;}            
-} 
+    100% {cursor: url(cursor_frames/frame5.png), default;}
+}
 
 @keyframes cursor {
     0% {cursor: url(cursor_frames/frame1.png), default;}
     25% {cursor: url(cursor_frames/frame2.png), default;}
     50% {cursor: url(cursor_frames/frame3.png), default;}
     75% {cursor: url(cursor_frames/frame4.png), default;}
-    100% {cursor: url(cursor_frames/frame5.png), default;}            
+    100% {cursor: url(cursor_frames/frame5.png), default;}
 }
 
 /*
@@ -111,25 +156,25 @@ a img,
 .playbutton,
 .pausebutton,
 .resetbutton,
-#starcraft a, 
-#starcraft .playbutton, 
-#starcraft .pausebutton, 
+#starcraft a,
+#starcraft .playbutton,
+#starcraft .pausebutton,
 #starcraft .resetbutton {
     cursor: url(pointer.png), pointer !important
-}        
+}
 
-             
+
 /* Styling of furigana */
-#starcraft .french ruby rt {             
+#starcraft .french ruby rt {
     border-bottom: 0;
-    color: rgba(0, 0, 0, 0);                         
-    text-decoration: underline dotted rgba(64, 107, 213, 1);  
+    color: rgba(0, 0, 0, 0);
+    text-decoration: underline dotted rgba(64, 107, 213, 1);
     font-size: 0.7em;
 }
 
-#starcraft .french ruby:hover rt { 
-    color: rgba(172, 231, 129, 1);                         
-    text-decoration: underline dotted rgba(255, 255, 255, 0);              
+#starcraft .french ruby:hover rt {
+    color: rgba(172, 231, 129, 1);
+    text-decoration: underline dotted rgba(255, 255, 255, 0);
     font-size: 0.7em;
 }
 /* END Styling of furigana */
@@ -142,7 +187,7 @@ a img,
 }
 
 #starcraft .transcriptText h1{
-    padding-top: 0; 
+    padding-top: 0;
 }
 
 #starcraft h2,
@@ -194,7 +239,7 @@ a img,
 /* dark theme: */
 #starcraft .transcriptBox.dark {
     /*background: #000000;*/
-    border: 1px solid #800000;            
+    border: 1px solid #800000;
 }
 
 #starcraft .transcriptBox.dark h1 {
@@ -209,7 +254,7 @@ a img,
     border: 2px solid #331f1f;
 }
 
-#starcraft .transcriptBox .header {        
+#starcraft .transcriptBox .header {
     position: absolute;
     left: 20px;
 }

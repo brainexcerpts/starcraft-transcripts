@@ -152,9 +152,37 @@
             return null;
         }
 
-        function toggleJapanese(elt) { toggleTextVisibility(elt, 'japanese'); }
-        function toggleEnglish(elt) { toggleTextVisibility(elt, 'english'); }
-        function toggleFrench(elt) { toggleTextVisibility(elt, 'french'); }
+        function toggleJapanese(elt) { stopAudio(elt); toggleTextVisibility(elt, 'japanese'); }
+        function toggleEnglish(elt) { stopAudio(elt); toggleTextVisibility(elt, 'english'); }
+        function toggleFrench(elt) { stopAudio(elt); toggleTextVisibility(elt, 'french'); }
+
+        function stopAudio(elt) {
+            let boxElt = getBoxElement(elt);
+            let audios = boxElt.querySelectorAll('audio');
+            for(let audio of audios)
+            {
+                if( audio === null || audio === undefined)
+                    continue;
+                audio.pause();
+                audio.currentTime = 0;
+            }
+
+            let playButtons = boxElt.getElementsByClassName("playbutton");
+            for(let playButton of playButtons){
+                playButton.style.display = "";
+            }
+
+            let pauseButtons = boxElt.getElementsByClassName("pausebutton")
+            for(let pauseButton of pauseButtons){
+                pauseButton.style.display = "none";
+            }
+
+            let resetButtons = boxElt.getElementsByClassName("resetbutton")
+            for(let resetButton of resetButtons){
+                resetButton.style.display = "none";
+            }
+        }
+
 
 
         /* ***********************************
