@@ -1,4 +1,5 @@
 
+<img src="rodolphe-vaillant.fr/images/2021-10/starcraft_transcript_terran_banner.jpg" title="" width="1920" height="298" alt="" >
 
 Welcome to this English and Japanese transcript of the "StarCraft® 1998" campaign
 (property of Blizzard Entertainment®)
