@@ -108,3 +108,7 @@ Alternate ways to browse the transcript:
 - https://brainexcerpts.github.io/starcraft-transcripts/terran.html
 - https://brainexcerpts.github.io/starcraft-transcripts/template.html (should reflect the latest state of the repo but for now broken)
 
+Contributing
+------------
+
+See [todo list](todo.md)
