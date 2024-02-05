@@ -7,7 +7,8 @@
 		<h1> 大攻撃[だいこうげき]</h1>
       	<pre>
 		 連邦同盟軍[れんぽうどうめぐん] 本拠地[ほんきょち] 惑星[わくせい]タルソニス
-		 周辺[しゅうへん] 軌道上[きどうじょう]に 待機中[たいきちゅう]のコマンドシップ「ハイペリオン」にて
+		 周辺[しゅうへん] 軌道上[きどうじょう]に 待機中[たいきちゅう]のコマンドシップ
+		「ハイペリオン」にて
 		</pre>
 
 		<pre>
@@ -29,7 +30,8 @@
 	    <h1>大攻撃</h1>
         <pre>
 	    連邦同盟軍本拠地惑星タルソニス
-	    周辺 軌道上に待機中のコマンドシップ「ハイペリオン」にて
+	    周辺 軌道上に待機中のコマンドシップ
+		「ハイペリオン」にて
 	    </pre>
 	</div>
 
@@ -94,7 +96,7 @@
 
 <div class='transcriptText'>
 	<narrator>Mengsk</narrator>
-	<audio class='dialogue'><source src='./audio/T9B01ume.flac' type="audio/flac"></audio>
+	<audio class='dialogue'><source src='./audio/t9b01ume.flac' type="audio/flac"></audio>
 	<div class='japanese'>
 		連邦同盟軍へ最後の攻撃まであと少しだ。
 		本部惑星タルソニスを襲撃する前に、敵の防御を突破しなければならない。
@@ -135,7 +137,7 @@
 <div class='transcriptText'>
 	<div class='subBlock'>
 		<narrator>Duke</narrator>
-		<audio class='dialogue'><source src='./audio/T9B02udu.flac' type="audio/flac"></audio>
+		<audio class='dialogue'><source src='./audio/t9b02udu.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			私はタルソニスを30戦以上守り抜いてきた。当然、どんな防衛戦が張られているかわかっている。連邦同盟軍艦隊の中間準備地域として、3つの軌道砲台がある。
 			このうちの中央部の砲台を襲撃すれば、連邦同盟軍を混乱に陥れることができる。小隊なら余裕で防衛戦を突破できるだろう。
@@ -185,7 +187,7 @@
 
 	<div class='subBlock'>
 		<narrator>Raynor</narrator>
-		<audio class='dialogue'><source src='./audio/T9B03ura.flac' type="audio/flac"></audio>
+		<audio class='dialogue'><source src='./audio/t9b03ura.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			驚いたな。将軍が、真っ向から攻撃するタイプだとは思わなかったよ。
 		</div>
@@ -207,7 +209,7 @@
 
 	<div class='subBlock'>
 		<narrator>Duke</narrator>
-		<audio class='dialogue'><source src='./audio/T9B04udu.flac' type="audio/flac"></audio>
+		<audio class='dialogue'><source src='./audio/t9b04udu.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			連邦同盟軍はオメガ小隊およびデルタ小隊を砲台に配置している。我々アルファ部隊とは戦いにもならんような連中だ。
 		</div>
@@ -237,7 +239,7 @@
 
 
 	<div class='subBlock'>
-		<audio class='dialogue'><source src='./audio/T9B05ura.flac' type="audio/flac"></audio>
+		<audio class='dialogue'><source src='./audio/t9b05ura.flac' type="audio/flac"></audio>
 		<narrator>Raynor</narrator>
 		<div class='japanese'>
 			わかったよ。
@@ -275,7 +277,7 @@
 
 <div class='transcriptText'>
 	<narrator>Duke</narrator>
-	<audio class='dialogue'><source src='./audio/T9M20udu.flac' type="audio/flac"></audio>
+	<audio class='dialogue'><source src='./audio/t9m20udu.flac' type="audio/flac"></audio>
 	<div class='japanese'>
 		信じられんな！アルファ部隊なら、こんな設備を残しておくことなどしなかったよ。
 		まったくもってずさんな連中だ！
@@ -328,7 +330,7 @@
 
 <div class='transcriptText'>
 	<div class='subBlock'>
-		<audio class='dialogue'><source src='./audio/TAM00udu.flac' type="audio/flac"></audio>
+		<audio class='dialogue'><source src='./audio/tam00udu.flac' type="audio/flac"></audio>
 		<narrator>Duke</narrator>
 		<div class='japanese'>
 			デュークだ。エミッターは無事に作動中。
@@ -353,7 +355,7 @@
 
 	<div class='subBlock'>
 		<narrator>Kerrigan</narrator>
-		<audio class='dialogue'><source src='./audio/TAM01uke.flac' type="audio/flac"></audio>
+		<audio class='dialogue'><source src='./audio/tam01uke.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			サイエミッターは誰が管理してるの？
 		</div>
@@ -372,7 +374,7 @@
 
 	<div class='subBlock'>
 		<narrator>Mengsk</narrator>
-		<audio class='dialogue'><source src='./audio/TAM02ume.flac' type="audio/flac"></audio>
+		<audio class='dialogue'><source src='./audio/tam02ume.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			私だよ、少尉。
 		</div>
@@ -420,7 +422,7 @@
 
 	<div class='subBlock'>
 		<narrator>Raynor</narrator>
-		<audio class='dialogue'><source src='./audio/TAM04ura.flac' type="audio/flac"></audio>
+		<audio class='dialogue'><source src='./audio/tam04ura.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			まったくだよ。考え直せ。
 		</div>
@@ -438,7 +440,7 @@
 
 	<div class='subBlock'>
 		<narrator>Mengsk</narrator>
-		<audio class='dialogue'><source src='./audio/TAM05ume.flac' type="audio/flac"></audio>
+		<audio class='dialogue'><source src='./audio/tam05ume.flac' type="audio/flac"></audio>
 		<div class='japanese'>
 			十分考えた結果だ。私を信じなさい。…さぁ、指示はわかっているね。
 			とりかかる時間だ。
