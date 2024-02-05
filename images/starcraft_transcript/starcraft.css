@@ -13,7 +13,7 @@ html {
 }
 
 @media screen and (max-width:600px) {  body { font-size: 1.1em;  } }
-@media screen and (max-width:400px) {  body { font-size: 1.11em;  } }
+@media screen and (max-width:400px) {  body { font-size: 1.1em;  } }
 
 
 body {
@@ -317,6 +317,12 @@ a img,
 
 @media screen and (max-width:400px) {
     #starcraft .transcriptText .french {
-        font-size: 1.11em;
+        font-size: 1.1em;
+    }
+}
+
+@media screen and (max-width:600px) {
+    #starcraft .transcriptText .french {
+        font-size: 1.0em;
     }
 }
