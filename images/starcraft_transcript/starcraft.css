@@ -6,23 +6,15 @@
 ---------------------------- */
 
 html {
-    background-image: url("Purple_Nebula.png");
+    background-image: url("Purple_Nebula.jpg");
     background-repeat: repeat;
     padding: 0;
     margin: 0;
 }
 
-@media (max-width: 600px) {
-    html {
-        font-size: 15px;
-    }
-}
+@media screen and (max-width:600px) {  body { font-size: 1.1em;  } }
+@media screen and (max-width:400px) {  body { font-size: 1.15em;  } }
 
-@media (max-width: 400px) {
-    html {
-        font-size: 20px;
-    }
-}
 
 body {
     background-color: rgba(0, 0, 0, 0);
@@ -48,8 +40,14 @@ body {
     color: #ddff99;
 }
 
+#header h1,
 #header h1 a,
-#header h3 {
+#header h2,
+#header h2 a,
+#content h2 a,
+#header h3,
+#header h3 a
+{
     color: #99bbff;
 }
 
@@ -213,7 +211,8 @@ a img,
 
 #starcraft pre {
     white-space: pre-line;
-    padding: 50px;
+    padding-top: 25px;
+    padding-bottom: 25px;
 }
 
 /*Link color*/
@@ -314,4 +313,10 @@ a img,
 #starcraft .transcriptText .french {
     display: none;
     font-size: medium;
+}
+
+@media screen and (max-width:400px) {
+    #starcraft .transcriptText .french {
+        font-size: 1.15em;
+    }
 }
