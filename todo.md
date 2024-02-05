@@ -19,8 +19,12 @@ Secondary:
 Tertiary:
 ----------
 
+- fix github page https://brainexcerpts.github.io/starcraft-transcripts/template.html
+  (paths are broken, in the particular case of a github page https://brainexcerpts.github.io/ is treated as root
+   although it should be https://brainexcerpts.github.io/starcraft-transcripts/, so set a variable to represent the root path,
+  and detect when we are using github page to set it properly).
 - Starcraft manual EN/JP transcript (especially the history of Terran/Zerg/Protoss)
-- BroodWar campaign?
+- Transcript for the BroodWar campaign as well.
 (based on remastered version since there is no Japanese for the original 1998)
 - click sound (original starcraft) when clicking language flags
 - Global menu to switch language for everything. (see toggleJapanese())
