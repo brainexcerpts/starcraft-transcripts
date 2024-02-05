@@ -99,3 +99,12 @@ I am not affiliated with Blizzard in any way, shape or form. This is purely made
 That being said I highly encourage you retribute the source material by buying the remastered version of the game
 Although this endeavor took an enormous amount of time, this is a non-profit project, 
 do not retribute me in any financial way for this work.
+
+GitHub page
+-----------
+
+Alternate ways to browse the transcript:
+
+- https://brainexcerpts.github.io/starcraft-transcripts/terran.html
+- https://brainexcerpts.github.io/starcraft-transcripts/template.html (should reflect the latest state of the repo but for now broken)
+
