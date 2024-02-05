@@ -7,6 +7,9 @@ Welcome to this English and Japanese transcript of the "StarCraft® 1998" campai
 「StarCraft® 1998」キャンペーンの英語と日本語のトランスクリプト・文字起こしへようこそ！    
 (Blizzard Entertainment® の所有物)
 
+
+<img src="doc/preview.webp" title=""  alt="" >
+
 Original version is free to play or you can also buy the remaster:
 https://starcraft.com/
 
