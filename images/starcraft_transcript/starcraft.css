@@ -293,6 +293,65 @@ a img,
     color: white;
 }
 
+#starcraft .dialogue-audio-controls {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    min-height: 18px;
+}
+
+#starcraft .dialogue-audio-controls .audio-load-status {
+    display: none;
+    font-size: 0.8em;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+}
+
+#starcraft .dialogue-audio-controls .audio-load-status[aria-hidden='false'] {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+}
+
+#starcraft .dialogue-audio-controls[data-audio-state='loading'] .audio-load-status {
+    color: #ddff99;
+}
+
+#starcraft .dialogue-audio-controls[data-audio-state='loading'] .audio-load-status::before {
+    content: '';
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background-color: currentColor;
+    box-shadow: 0 0 8px rgba(221, 255, 153, 0.8);
+    animation: audio-loading-pulse 900ms ease-in-out infinite;
+}
+
+#starcraft .dialogue-audio-controls[data-audio-state='error'] .audio-load-status {
+    color: #ff8c8c;
+}
+
+#starcraft .dialogue-audio-controls[data-audio-state='paused'] .resetbutton,
+#starcraft .dialogue-audio-controls[data-audio-state='playing'] .resetbutton,
+#starcraft .dialogue-audio-controls[data-audio-state='loading'] .resetbutton {
+    opacity: 1;
+}
+
+@keyframes audio-loading-pulse {
+    0% {
+        opacity: 0.4;
+        transform: scale(0.9);
+    }
+    50% {
+        opacity: 1;
+        transform: scale(1.15);
+    }
+    100% {
+        opacity: 0.4;
+        transform: scale(0.9);
+    }
+}
+
 
 #starcraft .dark .transcriptText .english,
 #starcraft .dark .transcriptText .japanese,

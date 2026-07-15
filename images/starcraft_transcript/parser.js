@@ -232,8 +232,13 @@
                 continue;
             }
 
+            audioTag.classList.add('managed-dialogue-audio');
+            audioTag.setAttribute('data-audio-managed', 'dialogue');
+
             // create a div after the audio tag:
             let div = document.createElement('div');
+            div.className = 'dialogue-audio-controls';
+            div.setAttribute('data-audio-state', 'idle');
             div.innerHTML = `
                 <img
                     src="/images/starcraft_transcript/player/control_play.png"
@@ -270,6 +275,12 @@
                     onmouseout="this.src='/images/starcraft_transcript/player/control_stop.png'"
                     width="16" height="16"
                 >
+
+                <span
+                    class="audio-load-status"
+                    aria-live="polite"
+                    aria-hidden="true"
+                ></span>
             `;
             // Insert it right after the audio tag:
             audioTag.parentElement.insertBefore(div, audioTag.nextSibling);
@@ -469,6 +480,10 @@
                 toggleJapanese(divs[i]);
                 //toggleFrench(divs[i]);
             }
+        }
+
+        if(typeof initManagedDialogueAudio === 'function') {
+            initManagedDialogueAudio();
         }
 
         console.log("mainParser() FINISHED");
