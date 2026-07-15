@@ -208,6 +208,24 @@
         scheduleManagedDialogueAudioLoads();
     }
 
+    function getManagedDialogueAudioErrorMessage(audio) {
+        if(audio == null)
+            return 'Audio unavailable';
+
+        if(audio.networkState === HTMLMediaElement.NETWORK_NO_SOURCE)
+            return 'Audio file not found';
+
+        if(audio.error != null) {
+            if(audio.error.code === MediaError.MEDIA_ERR_NETWORK)
+                return 'Audio failed to load';
+
+            if(audio.error.code === MediaError.MEDIA_ERR_SRC_NOT_SUPPORTED)
+                return 'Audio file not found';
+        }
+
+        return 'Audio unavailable';
+    }
+
     function handleManagedDialogueAudioError(audio) {
         managedDialogueAudio.loadingAudios.delete(audio);
         audio.dataset.audioLoadState = 'error';
@@ -215,7 +233,7 @@
         if(managedDialogueAudio.pendingPlayAudio === audio)
             managedDialogueAudio.pendingPlayAudio = null;
 
-        setManagedDialogueAudioUiState(audio, 'error', 'Audio unavailable');
+        setManagedDialogueAudioUiState(audio, 'error', getManagedDialogueAudioErrorMessage(audio));
         scheduleManagedDialogueAudioLoads();
     }
 
@@ -265,13 +283,30 @@
         });
 
         audio.addEventListener('stalled', function() {
+            if(audio.networkState === HTMLMediaElement.NETWORK_NO_SOURCE) {
+                handleManagedDialogueAudioError(audio);
+                return;
+            }
+
             if(audio === managedDialogueAudio.currentAudio || audio === managedDialogueAudio.pendingPlayAudio)
                 setManagedDialogueAudioUiState(audio, 'loading', 'Buffering...');
+        });
+
+        audio.addEventListener('suspend', function() {
+            if(audio.dataset.audioLoadState === 'loading' && audio.networkState === HTMLMediaElement.NETWORK_NO_SOURCE)
+                handleManagedDialogueAudioError(audio);
         });
 
         audio.addEventListener('error', function() {
             handleManagedDialogueAudioError(audio);
         });
+
+        let sourceTags = audio.querySelectorAll('source');
+        for(let sourceTag of sourceTags) {
+            sourceTag.addEventListener('error', function() {
+                handleManagedDialogueAudioError(audio);
+            });
+        }
     }
 
     function prepareManagedDialogueAudio(audio) {
@@ -409,6 +444,7 @@
 
         stopManagedDialogueAudio(audio);
         clearManagedDialogueAudioLoadState(audio);
+        audio.load();
 
         if(managedDialogueAudio.initialized)
             scheduleManagedDialogueAudioLoads();
