@@ -5,8 +5,10 @@
         pendingPlayAudio: null,
         observer: null,
         loadingAudios: new Set(),
+        boundAudios: new WeakSet(),
         maxConcurrentLoads: 2,
         initialized: false,
+        globalListenersBound: false,
     };
 
     function isManagedDialogueAudio(audio) {
@@ -218,10 +220,10 @@
     }
 
     function bindManagedDialogueAudioEvents(audio) {
-        if(audio.dataset.audioListenersBound === 'true')
+        if(managedDialogueAudio.boundAudios.has(audio))
             return;
 
-        audio.dataset.audioListenersBound = 'true';
+        managedDialogueAudio.boundAudios.add(audio);
 
         audio.addEventListener('loadstart', function() {
             if(audio === managedDialogueAudio.pendingPlayAudio)
@@ -278,8 +280,9 @@
 
         bindManagedDialogueAudioEvents(audio);
 
-        if(audio.dataset.audioLoadState !== 'ready')
-            clearManagedDialogueAudioLoadState(audio);
+        clearManagedDialogueAudioLoadState(audio);
+        delete audio.dataset.audioNearViewport;
+        delete audio.dataset.audioListenersBound;
 
         setManagedDialogueAudioUiState(audio, 'idle');
     }
@@ -313,6 +316,9 @@
 
     function initManagedDialogueAudio() {
         managedDialogueAudio.audios = Array.from(document.querySelectorAll('audio[data-audio-managed="dialogue"]'));
+        managedDialogueAudio.currentAudio = null;
+        managedDialogueAudio.pendingPlayAudio = null;
+        managedDialogueAudio.loadingAudios = new Set();
         managedDialogueAudio.initialized = true;
 
         if(managedDialogueAudio.observer != null) {
@@ -325,11 +331,19 @@
 
         initManagedDialogueAudioObserver();
 
-        window.addEventListener('scroll', scheduleManagedDialogueAudioLoads, { passive: true });
-        window.addEventListener('resize', scheduleManagedDialogueAudioLoads);
+        if(!managedDialogueAudio.globalListenersBound) {
+            window.addEventListener('scroll', scheduleManagedDialogueAudioLoads, { passive: true });
+            window.addEventListener('resize', scheduleManagedDialogueAudioLoads);
+            managedDialogueAudio.globalListenersBound = true;
+        }
 
         scheduleManagedDialogueAudioLoads();
     }
+
+    document.addEventListener('DOMContentLoaded', function() {
+        if(document.querySelector('audio[data-audio-managed="dialogue"]') != null)
+            initManagedDialogueAudio();
+    });
 
     function stopManagedDialogueAudio(audio) {
         if(audio == null)
